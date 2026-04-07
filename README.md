@@ -39,27 +39,33 @@ Digital Decoy is a Chromium Manifest V3 browser extension that detects third-par
 - Safety limit:
   - Maximum 2 sessions per hour
 
+## Packaged Download
+
+- A packaged archive named `AdsDecoy-package.zip` is included in the repository root for simple download and transfer.
+- Git cloning still works normally with the full source tree.
+
 ## Project Structure
 
 ```text
 Digital-Decoy/
-├── manifest.json
-├── background/
-│   └── tracker_detector.js
-├── data/
-│   └── tracker_map.json
-├── icons/
-│   └── .gitkeep
-├── persona/
-│   ├── persona_data.js
-│   └── persona_engine.js
-├── popup/
-│   ├── popup.html
-│   ├── popup.css
-│   └── popup.js
-├── utils/
-│   └── domain_matcher.js
-└── README.md
+|- manifest.json
+|- background/
+|  \- tracker_detector.js
+|- data/
+|  \- tracker_map.json
+|- icons/
+|  \- .gitkeep
+|- persona/
+|  |- persona_data.js
+|  \- persona_engine.js
+|- popup/
+|  |- popup.html
+|  |- popup.css
+|  \- popup.js
+|- utils/
+|  \- domain_matcher.js
+|- LICENSE
+\- README.md
 ```
 
 ## Permissions
@@ -95,8 +101,8 @@ The extension currently requests:
 
 - The extension is designed for Chromium-based browsers
 - Icons are still placeholders and can be replaced with production assets later
-- Final release polish can still include packaging, icons, and broader QA
+- The repository includes both the normal source tree and a packaged ZIP archive
 
 ## License
 
-No license file has been added yet.
+MIT
