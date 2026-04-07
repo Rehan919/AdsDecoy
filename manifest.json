@@ -1,0 +1,25 @@
+{
+  "manifest_version": 3,
+  "name": "Digital Decoy",
+  "description": "Browser extension for tracker visibility and persona-based browsing noise.",
+  "version": "0.1.0",
+  "permissions": [
+    "declarativeNetRequest",
+    "storage",
+    "tabs",
+    "scripting",
+    "offscreen",
+    "webRequest",
+    "alarms"
+  ],
+  "host_permissions": [
+    "<all_urls>"
+  ],
+  "background": {
+    "service_worker": "background/tracker_detector.js"
+  },
+  "action": {
+    "default_title": "Digital Decoy",
+    "default_popup": "popup/popup.html"
+  }
+}
