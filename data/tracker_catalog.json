@@ -1,0 +1,8014 @@
+{
+  "1dmp.io": {
+    "company": "CleverDATA",
+    "ownerName": "CleverDATA LLC",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics",
+      "Third-Party Analytics Marketing"
+    ],
+    "prevalence": 0.000109,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 16,
+    "riskScore": 45
+  },
+  "1rx.io": {
+    "company": "RhythmOne",
+    "ownerName": "RhythmOne",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Ad Fraud",
+      "Third-Party Analytics Marketing"
+    ],
+    "prevalence": 0.066,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 9654,
+    "riskScore": 52
+  },
+  "254a.com": {
+    "company": "Yieldr",
+    "ownerName": "Yieldr",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Third-Party Analytics Marketing",
+      "Action Pixels",
+      "Obscure Ownership"
+    ],
+    "prevalence": 0,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 0,
+    "riskScore": 45
+  },
+  "2mdn.net": {
+    "company": "Google",
+    "ownerName": "Google LLC",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Ad Fraud"
+    ],
+    "prevalence": 0.0763,
+    "fingerprinting": 1,
+    "cookies": 0,
+    "sites": 11155,
+    "riskScore": 56
+  },
+  "2o7.net": {
+    "company": "Adobe",
+    "ownerName": "Adobe Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Analytics",
+      "Audience Measurement",
+      "Third-Party Analytics Marketing",
+      "Action Pixels"
+    ],
+    "prevalence": 0.0023,
+    "fingerprinting": 0,
+    "cookies": 0.00111,
+    "sites": 336,
+    "riskScore": 45
+  },
+  "33across.com": {
+    "company": "33Across",
+    "ownerName": "33Across, Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics",
+      "Action Pixels"
+    ],
+    "prevalence": 0.0831,
+    "fingerprinting": 1,
+    "cookies": 0.0475,
+    "sites": 12159,
+    "riskScore": 65
+  },
+  "360yield.com": {
+    "company": "Improve Digital",
+    "ownerName": "Improve Digital BV",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Third-Party Analytics Marketing"
+    ],
+    "prevalence": 0.0571,
+    "fingerprinting": 2,
+    "cookies": 0.00128,
+    "sites": 8348,
+    "riskScore": 59
+  },
+  "3lift.com": {
+    "company": "TripleLift",
+    "ownerName": "TripleLift",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising"
+    ],
+    "prevalence": 0.0845,
+    "fingerprinting": 0,
+    "cookies": 0.0825,
+    "sites": 12366,
+    "riskScore": 47
+  },
+  "4finance.com": {
+    "company": "4FINANCE",
+    "ownerName": "4FINANCE AS",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising"
+    ],
+    "prevalence": 0,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 0,
+    "riskScore": 30
+  },
+  "abtasty.com": {
+    "company": "AB Tasty",
+    "ownerName": "AB Tasty",
+    "primaryCategory": "Analytics",
+    "categories": [
+      "Analytics",
+      "Third-Party Analytics Marketing",
+      "Session Replay"
+    ],
+    "prevalence": 0.00373,
+    "fingerprinting": 2,
+    "cookies": 0.00299,
+    "sites": 546,
+    "riskScore": 50
+  },
+  "acuityplatform.com": {
+    "company": "AcuityAds",
+    "ownerName": "AcuityAds",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising"
+    ],
+    "prevalence": 0.00771,
+    "fingerprinting": 0,
+    "cookies": 0.00102,
+    "sites": 1128,
+    "riskScore": 31
+  },
+  "acxiomapac.com": {
+    "company": "Acxiom",
+    "ownerName": "Acxiom Corporation",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising"
+    ],
+    "prevalence": 0,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 0,
+    "riskScore": 30
+  },
+  "ad-m.asia": {
+    "company": "FreeBit",
+    "ownerName": "FreeBit Co, Ltd.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising"
+    ],
+    "prevalence": 0.00052,
+    "fingerprinting": 0,
+    "cookies": 0.000499,
+    "sites": 76,
+    "riskScore": 30
+  },
+  "addthis.com": {
+    "company": "Oracle",
+    "ownerName": "Oracle Corporation",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics",
+      "Audience Measurement",
+      "Third-Party Analytics Marketing",
+      "Social - Share",
+      "Embedded Content"
+    ],
+    "prevalence": 0.00682,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 997,
+    "riskScore": 46
+  },
+  "addtoany.com": {
+    "company": "AddToAny",
+    "ownerName": "AddToAny",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics",
+      "Third-Party Analytics Marketing",
+      "Social - Share",
+      "Embedded Content"
+    ],
+    "prevalence": 0.0111,
+    "fingerprinting": 1,
+    "cookies": 0,
+    "sites": 1630,
+    "riskScore": 53
+  },
+  "adentifi.com": {
+    "company": "AdTheorent",
+    "ownerName": "AdTheorent Inc",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Ad Fraud"
+    ],
+    "prevalence": 0.0212,
+    "fingerprinting": 0,
+    "cookies": 0.00000684,
+    "sites": 3095,
+    "riskScore": 44
+  },
+  "adform.net": {
+    "company": "Adform",
+    "ownerName": "Adform A/S",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Ad Fraud",
+      "Audience Measurement"
+    ],
+    "prevalence": 0.0525,
+    "fingerprinting": 2,
+    "cookies": 0.0467,
+    "sites": 7677,
+    "riskScore": 68
+  },
+  "adfox.ru": {
+    "company": "Yandex",
+    "ownerName": "Yandex LLC",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising"
+    ],
+    "prevalence": 0.00039,
+    "fingerprinting": 2,
+    "cookies": 0.0000752,
+    "sites": 57,
+    "riskScore": 43
+  },
+  "adgrx.com": {
+    "company": "AdGear",
+    "ownerName": "AdGear Technologies Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Ad Fraud",
+      "Third-Party Analytics Marketing"
+    ],
+    "prevalence": 0.00496,
+    "fingerprinting": 0,
+    "cookies": 0.00459,
+    "sites": 726,
+    "riskScore": 46
+  },
+  "adhaven.com": {
+    "company": "4INFO",
+    "ownerName": "4INFO, Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Audience Measurement"
+    ],
+    "prevalence": 0.000157,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 23,
+    "riskScore": 37
+  },
+  "adhigh.net": {
+    "company": "GetIntent",
+    "ownerName": "GetIntent",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising"
+    ],
+    "prevalence": 0.0017,
+    "fingerprinting": 1,
+    "cookies": 0.00161,
+    "sites": 248,
+    "riskScore": 37
+  },
+  "adition.com": {
+    "company": "Virtual Minds",
+    "ownerName": "Virtual Minds AG",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising"
+    ],
+    "prevalence": 0.00353,
+    "fingerprinting": 1,
+    "cookies": 0.00301,
+    "sites": 517,
+    "riskScore": 37
+  },
+  "adkernel.com": {
+    "company": "Adkernel",
+    "ownerName": "Adkernel, LLC",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Third-Party Analytics Marketing"
+    ],
+    "prevalence": 0.021,
+    "fingerprinting": 0,
+    "cookies": 0.0197,
+    "sites": 3079,
+    "riskScore": 44
+  },
+  "adlightning.com": {
+    "company": "Ad Lightning",
+    "ownerName": "Ad Lightning, Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising"
+    ],
+    "prevalence": 0.00602,
+    "fingerprinting": 1,
+    "cookies": 0.0000479,
+    "sites": 881,
+    "riskScore": 37
+  },
+  "admedo.com": {
+    "company": "Admedo",
+    "ownerName": "Admedo",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising"
+    ],
+    "prevalence": 0.000109,
+    "fingerprinting": 3,
+    "cookies": 0.000103,
+    "sites": 16,
+    "riskScore": 50
+  },
+  "admixer.net": {
+    "company": "Admixer",
+    "ownerName": "Admixer Technologies",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising"
+    ],
+    "prevalence": 0.00392,
+    "fingerprinting": 2,
+    "cookies": 0.00355,
+    "sites": 574,
+    "riskScore": 44
+  },
+  "adnium.com": {
+    "company": "Adnium",
+    "ownerName": "Adnium Inc",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising"
+    ],
+    "prevalence": 0.0000137,
+    "fingerprinting": 3,
+    "cookies": 0.0000137,
+    "sites": 2,
+    "riskScore": 50
+  },
+  "adnxs.com": {
+    "company": "Microsoft",
+    "ownerName": "Microsoft Corporation",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising"
+    ],
+    "prevalence": 0.172,
+    "fingerprinting": 1,
+    "cookies": 0.161,
+    "sites": 25149,
+    "riskScore": 69
+  },
+  "adobedtm.com": {
+    "company": "Adobe",
+    "ownerName": "Adobe Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics",
+      "Audience Measurement",
+      "Third-Party Analytics Marketing",
+      "Tag Manager"
+    ],
+    "prevalence": 0.0266,
+    "fingerprinting": 2,
+    "cookies": 0.0217,
+    "sites": 3888,
+    "riskScore": 63
+  },
+  "adotmob.com": {
+    "company": "A.Mob",
+    "ownerName": "A.Mob SAS",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising"
+    ],
+    "prevalence": 0.00242,
+    "fingerprinting": 0,
+    "cookies": 0.00222,
+    "sites": 354,
+    "riskScore": 30
+  },
+  "adriver.ru": {
+    "company": "Internest-holding",
+    "ownerName": "LLC \"Internest-holding\"",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising"
+    ],
+    "prevalence": 0.00183,
+    "fingerprinting": 1,
+    "cookies": 0.000882,
+    "sites": 267,
+    "riskScore": 37
+  },
+  "adroll.com": {
+    "company": "AdRoll",
+    "ownerName": "AdRoll, Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising"
+    ],
+    "prevalence": 0.0101,
+    "fingerprinting": 2,
+    "cookies": 0.00949,
+    "sites": 1481,
+    "riskScore": 45
+  },
+  "adrta.com": {
+    "company": "Pixalate",
+    "ownerName": "Pixalate, Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Ad Fraud",
+      "Analytics"
+    ],
+    "prevalence": 0.0000205,
+    "fingerprinting": 0,
+    "cookies": 0.0000205,
+    "sites": 3,
+    "riskScore": 36
+  },
+  "ads-twitter.com": {
+    "company": "Twitter",
+    "ownerName": "Twitter, Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Third-Party Analytics Marketing",
+      "Action Pixels"
+    ],
+    "prevalence": 0.0267,
+    "fingerprinting": 3,
+    "cookies": 0.0227,
+    "sites": 3901,
+    "riskScore": 70
+  },
+  "adsafeprotected.com": {
+    "company": "Integral Ad Science",
+    "ownerName": "Integral Ad Science, Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Ad Fraud"
+    ],
+    "prevalence": 0.0331,
+    "fingerprinting": 3,
+    "cookies": 0,
+    "sites": 4838,
+    "riskScore": 65
+  },
+  "adsafety.net": {
+    "company": "Online Solution Int",
+    "ownerName": "Online Solution Int Ltd",
+    "primaryCategory": "Advertising",
+    "categories": [
+      "Advertising"
+    ],
+    "prevalence": 0.0000479,
+    "fingerprinting": 0,
+    "cookies": 0.000041,
+    "sites": 7,
+    "riskScore": 14
+  },
+  "adscale.de": {
+    "company": "Ströer Group",
+    "ownerName": "Ströer Group",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising"
+    ],
+    "prevalence": 0.00226,
+    "fingerprinting": 1,
+    "cookies": 0.00159,
+    "sites": 331,
+    "riskScore": 37
+  },
+  "adsco.re": {
+    "company": "Adscore",
+    "ownerName": "Adscore Technologies DMCC",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Ad Fraud",
+      "Analytics",
+      "Audience Measurement"
+    ],
+    "prevalence": 0.00256,
+    "fingerprinting": 3,
+    "cookies": 0,
+    "sites": 374,
+    "riskScore": 63
+  },
+  "adsnative.com": {
+    "company": "Polymorph Labs",
+    "ownerName": "Polymorph Labs, Inc",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising"
+    ],
+    "prevalence": 0,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 0,
+    "riskScore": 30
+  },
+  "adsrvr.org": {
+    "company": "The Trade Desk",
+    "ownerName": "The Trade Desk Inc",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising"
+    ],
+    "prevalence": 0.173,
+    "fingerprinting": 1,
+    "cookies": 0.165,
+    "sites": 25260,
+    "riskScore": 69
+  },
+  "adstanding.com": {
+    "company": "AdStanding",
+    "ownerName": "AdStanding",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising"
+    ],
+    "prevalence": 0.00334,
+    "fingerprinting": 0,
+    "cookies": 0.00308,
+    "sites": 488,
+    "riskScore": 31
+  },
+  "adswizz.com": {
+    "company": "Sirius XM",
+    "ownerName": "Sirius XM Holdings Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising"
+    ],
+    "prevalence": 0.00952,
+    "fingerprinting": 1,
+    "cookies": 0.00838,
+    "sites": 1393,
+    "riskScore": 38
+  },
+  "adsymptotic.com": {
+    "company": "Microsoft",
+    "ownerName": "Microsoft Corporation",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising"
+    ],
+    "prevalence": 0.0000342,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 5,
+    "riskScore": 30
+  },
+  "adtdp.com": {
+    "company": "CyberAgent",
+    "ownerName": "CyberAgent, Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising"
+    ],
+    "prevalence": 0.00218,
+    "fingerprinting": 0,
+    "cookies": 0.00216,
+    "sites": 319,
+    "riskScore": 30
+  },
+  "adtech.de": {
+    "company": "Verizon Media",
+    "ownerName": "Yahoo Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising"
+    ],
+    "prevalence": 0.0000205,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 3,
+    "riskScore": 30
+  },
+  "adthrive.com": {
+    "company": "AdThrive",
+    "ownerName": "AdThrive, LLC",
+    "primaryCategory": "Advertising",
+    "categories": [
+      "Advertising"
+    ],
+    "prevalence": 0.0239,
+    "fingerprinting": 2,
+    "cookies": 0.0228,
+    "sites": 3495,
+    "riskScore": 32
+  },
+  "advertising.com": {
+    "company": "Verizon Media",
+    "ownerName": "Yahoo Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising"
+    ],
+    "prevalence": 0.000649,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 95,
+    "riskScore": 30
+  },
+  "affec.tv": {
+    "company": "Affectv",
+    "ownerName": "Affectv",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Ad Fraud",
+      "Audience Measurement"
+    ],
+    "prevalence": 0.00198,
+    "fingerprinting": 0,
+    "cookies": 0.00138,
+    "sites": 289,
+    "riskScore": 45
+  },
+  "agkn.com": {
+    "company": "TransUnion",
+    "ownerName": "TransUnion LLC",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising"
+    ],
+    "prevalence": 0.0444,
+    "fingerprinting": 0,
+    "cookies": 0.0406,
+    "sites": 6494,
+    "riskScore": 39
+  },
+  "aidata.io": {
+    "company": "Aidata",
+    "ownerName": "Aidata",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Analytics",
+      "Audience Measurement",
+      "Third-Party Analytics Marketing"
+    ],
+    "prevalence": 0.00146,
+    "fingerprinting": 3,
+    "cookies": 0.00144,
+    "sites": 214,
+    "riskScore": 61
+  },
+  "alcdn.com": {
+    "company": "alcdn.com",
+    "ownerName": "alcdn.com",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Audience Measurement",
+      "Third-Party Analytics Marketing"
+    ],
+    "prevalence": 0,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 0,
+    "riskScore": 45
+  },
+  "alcmpn.com": {
+    "company": "ALC",
+    "ownerName": "ALC",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Analytics",
+      "Audience Measurement"
+    ],
+    "prevalence": 0.00067,
+    "fingerprinting": 1,
+    "cookies": 0.00067,
+    "sites": 98,
+    "riskScore": 38
+  },
+  "alexametrics.com": {
+    "company": "Amazon.com",
+    "ownerName": "Amazon Technologies, Inc.",
+    "primaryCategory": "Audience Measurement",
+    "categories": [
+      "Audience Measurement"
+    ],
+    "prevalence": 0.000438,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 64,
+    "riskScore": 7
+  },
+  "altitude-arena.com": {
+    "company": "Altitude Digital",
+    "ownerName": "Altitude Digital",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising"
+    ],
+    "prevalence": 0.000116,
+    "fingerprinting": 0,
+    "cookies": 0.000103,
+    "sites": 17,
+    "riskScore": 30
+  },
+  "amazon-adsystem.com": {
+    "company": "Amazon.com",
+    "ownerName": "Amazon Technologies, Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising"
+    ],
+    "prevalence": 0.122,
+    "fingerprinting": 2,
+    "cookies": 0.0758,
+    "sites": 17813,
+    "riskScore": 63
+  },
+  "amazon.com": {
+    "company": "Amazon.com",
+    "ownerName": "Amazon Technologies, Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Analytics",
+      "SSO",
+      "Third-Party Analytics Marketing",
+      "Online Payment",
+      "Embedded Content"
+    ],
+    "prevalence": 0.00106,
+    "fingerprinting": 3,
+    "cookies": 0.000704,
+    "sites": 155,
+    "riskScore": 65
+  },
+  "amplitude.com": {
+    "company": "Amplitude",
+    "ownerName": "Amplitude",
+    "primaryCategory": "Analytics",
+    "categories": [
+      "Analytics"
+    ],
+    "prevalence": 0.00967,
+    "fingerprinting": 2,
+    "cookies": 0.00437,
+    "sites": 1415,
+    "riskScore": 23
+  },
+  "ampproject.org": {
+    "company": "Google",
+    "ownerName": "Google LLC",
+    "primaryCategory": "Advertising",
+    "categories": [
+      "Advertising",
+      "CDN"
+    ],
+    "prevalence": 0.00522,
+    "fingerprinting": 3,
+    "cookies": 0.000458,
+    "sites": 763,
+    "riskScore": 39
+  },
+  "amung.us": {
+    "company": "whos.amung.us",
+    "ownerName": "whos.amung.us Inc",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics",
+      "Audience Measurement"
+    ],
+    "prevalence": 0.00196,
+    "fingerprinting": 1,
+    "cookies": 0.0000137,
+    "sites": 287,
+    "riskScore": 52
+  },
+  "app.link": {
+    "company": "Branch Metrics",
+    "ownerName": "Branch Metrics, Inc.",
+    "primaryCategory": "Advertising",
+    "categories": [
+      "Advertising",
+      "Analytics",
+      "Audience Measurement",
+      "Third-Party Analytics Marketing"
+    ],
+    "prevalence": 0.00268,
+    "fingerprinting": 0,
+    "cookies": 0.00267,
+    "sites": 392,
+    "riskScore": 40
+  },
+  "appdynamics.com": {
+    "company": "Cisco Systems",
+    "ownerName": "Cisco Systems, Inc.",
+    "primaryCategory": "Analytics",
+    "categories": [
+      "Analytics"
+    ],
+    "prevalence": 0.00107,
+    "fingerprinting": 2,
+    "cookies": 0.000109,
+    "sites": 157,
+    "riskScore": 21
+  },
+  "appier.net": {
+    "company": "Appier",
+    "ownerName": "Appier Group, Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Third-Party Analytics Marketing"
+    ],
+    "prevalence": 0.0121,
+    "fingerprinting": 1,
+    "cookies": 0.0113,
+    "sites": 1773,
+    "riskScore": 49
+  },
+  "apxlv.com": {
+    "company": "Cogo Labs",
+    "ownerName": "Cogo Labs",
+    "primaryCategory": "Analytics",
+    "categories": [
+      "Analytics"
+    ],
+    "prevalence": 0,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 0,
+    "riskScore": 8
+  },
+  "areyouahuman.com": {
+    "company": "Imperva",
+    "ownerName": "Imperva Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Ad Fraud"
+    ],
+    "prevalence": 0.0000547,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 8,
+    "riskScore": 28
+  },
+  "assoc-amazon.com": {
+    "company": "Amazon.com",
+    "ownerName": "Amazon Technologies, Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Action Pixels"
+    ],
+    "prevalence": 0.000103,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 15,
+    "riskScore": 42
+  },
+  "atdmt.com": {
+    "company": "Facebook",
+    "ownerName": "Facebook, Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising"
+    ],
+    "prevalence": 0.000041,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 6,
+    "riskScore": 30
+  },
+  "attn.tv": {
+    "company": "Attentive Mobile",
+    "ownerName": "Attentive Mobile",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics",
+      "Third-Party Analytics Marketing"
+    ],
+    "prevalence": 0.0122,
+    "fingerprinting": 2,
+    "cookies": 0.00661,
+    "sites": 1789,
+    "riskScore": 60
+  },
+  "avocet.io": {
+    "company": "Avocet Systems",
+    "ownerName": "Avocet Systems Ltd.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Ad Fraud",
+      "Audience Measurement"
+    ],
+    "prevalence": 0,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 0,
+    "riskScore": 45
+  },
+  "bannerflow.com": {
+    "company": "BannerFlow",
+    "ownerName": "BannerFlow AB",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Action Pixels"
+    ],
+    "prevalence": 0,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 0,
+    "riskScore": 42
+  },
+  "basis.net": {
+    "company": "Centro",
+    "ownerName": "Centro, Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics",
+      "Action Pixels"
+    ],
+    "prevalence": 0.00407,
+    "fingerprinting": 1,
+    "cookies": 0,
+    "sites": 596,
+    "riskScore": 52
+  },
+  "bazaarvoice.com": {
+    "company": "Marlin Equity",
+    "ownerName": "Marlin Equity Partners",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics",
+      "Audience Measurement",
+      "Third-Party Analytics Marketing",
+      "Action Pixels",
+      "Embedded Content"
+    ],
+    "prevalence": 0.00763,
+    "fingerprinting": 2,
+    "cookies": 0.00652,
+    "sites": 1116,
+    "riskScore": 60
+  },
+  "betrad.com": {
+    "company": "Crownpeak",
+    "ownerName": "Crownpeak Technology",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Analytics",
+      "Third-Party Analytics Marketing"
+    ],
+    "prevalence": 0.000191,
+    "fingerprinting": 1,
+    "cookies": 0,
+    "sites": 28,
+    "riskScore": 41
+  },
+  "betweendigital.com": {
+    "company": "SSP Network",
+    "ownerName": "SSP Network Ltd",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising"
+    ],
+    "prevalence": 0.0123,
+    "fingerprinting": 1,
+    "cookies": 0.0113,
+    "sites": 1802,
+    "riskScore": 39
+  },
+  "bfmio.com": {
+    "company": "Beachfront Media",
+    "ownerName": "Beachfront Media LLC",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Third-Party Analytics Marketing",
+      "Action Pixels"
+    ],
+    "prevalence": 0.0118,
+    "fingerprinting": 0,
+    "cookies": 0.0113,
+    "sites": 1719,
+    "riskScore": 47
+  },
+  "bidr.io": {
+    "company": "Beeswax",
+    "ownerName": "Beeswax",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising"
+    ],
+    "prevalence": 0.0572,
+    "fingerprinting": 0,
+    "cookies": 0.0543,
+    "sites": 8371,
+    "riskScore": 41
+  },
+  "bidswitch.net": {
+    "company": "IPONWEB",
+    "ownerName": "IPONWEB GmbH",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Ad Fraud"
+    ],
+    "prevalence": 0.0916,
+    "fingerprinting": 0,
+    "cookies": 0.0857,
+    "sites": 13393,
+    "riskScore": 60
+  },
+  "bing.com": {
+    "company": "Microsoft",
+    "ownerName": "Microsoft Corporation",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Ad Fraud",
+      "Action Pixels",
+      "Embedded Content"
+    ],
+    "prevalence": 0.135,
+    "fingerprinting": 2,
+    "cookies": 0.13,
+    "sites": 19812,
+    "riskScore": 85
+  },
+  "bizographics.com": {
+    "company": "Microsoft",
+    "ownerName": "Microsoft Corporation",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Analytics",
+      "Audience Measurement",
+      "Action Pixels"
+    ],
+    "prevalence": 0.000164,
+    "fingerprinting": 1,
+    "cookies": 0,
+    "sites": 24,
+    "riskScore": 50
+  },
+  "bizrate.com": {
+    "company": "Synapse Group",
+    "ownerName": "Synapse Group, Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics",
+      "Audience Measurement",
+      "Third-Party Analytics Marketing",
+      "Action Pixels",
+      "Embedded Content"
+    ],
+    "prevalence": 0.00039,
+    "fingerprinting": 2,
+    "cookies": 0.000219,
+    "sites": 57,
+    "riskScore": 58
+  },
+  "bkrtx.com": {
+    "company": "Oracle",
+    "ownerName": "Oracle Corporation",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics",
+      "Audience Measurement",
+      "Third-Party Analytics Marketing"
+    ],
+    "prevalence": 0.000321,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 47,
+    "riskScore": 45
+  },
+  "blismedia.com": {
+    "company": "Blis",
+    "ownerName": "Blis Global Ltd",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Ad Fraud",
+      "Analytics",
+      "Audience Measurement",
+      "Third-Party Analytics Marketing"
+    ],
+    "prevalence": 0.0521,
+    "fingerprinting": 0,
+    "cookies": 0.0495,
+    "sites": 7622,
+    "riskScore": 55
+  },
+  "blogger.com": {
+    "company": "Google",
+    "ownerName": "Google LLC",
+    "primaryCategory": "Social - Share",
+    "categories": [
+      "Social - Share",
+      "CDN",
+      "Embedded Content"
+    ],
+    "prevalence": 0.00102,
+    "fingerprinting": 2,
+    "cookies": 0.000499,
+    "sites": 149,
+    "riskScore": 27
+  },
+  "blogspot.com": {
+    "company": "Google",
+    "ownerName": "Google LLC",
+    "primaryCategory": "Social - Share",
+    "categories": [
+      "Social - Share"
+    ],
+    "prevalence": 0,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 0,
+    "riskScore": 6
+  },
+  "bluecava.com": {
+    "company": "ALC",
+    "ownerName": "ALC",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Ad Fraud",
+      "Analytics",
+      "Audience Measurement"
+    ],
+    "prevalence": 0.000615,
+    "fingerprinting": 2,
+    "cookies": 0.000602,
+    "sites": 90,
+    "riskScore": 56
+  },
+  "blueconic.net": {
+    "company": "BlueConic",
+    "ownerName": "BlueConic, Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics",
+      "Third-Party Analytics Marketing",
+      "Action Pixels"
+    ],
+    "prevalence": 0.00374,
+    "fingerprinting": 1,
+    "cookies": 0.00362,
+    "sites": 547,
+    "riskScore": 52
+  },
+  "bluekai.com": {
+    "company": "Oracle",
+    "ownerName": "Oracle Corporation",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics",
+      "Audience Measurement"
+    ],
+    "prevalence": 0.000752,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 110,
+    "riskScore": 45
+  },
+  "bongacash.com": {
+    "company": "BongaCams",
+    "ownerName": "BongaCams",
+    "primaryCategory": "Advertising",
+    "categories": [
+      "Advertising"
+    ],
+    "prevalence": 0,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 0,
+    "riskScore": 14
+  },
+  "bounceexchange.com": {
+    "company": "Bounce Exchange",
+    "ownerName": "Bounce Exchange",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics",
+      "Audience Measurement",
+      "Action Pixels"
+    ],
+    "prevalence": 0.00698,
+    "fingerprinting": 3,
+    "cookies": 0.00466,
+    "sites": 1021,
+    "riskScore": 66
+  },
+  "branch.io": {
+    "company": "Branch Metrics",
+    "ownerName": "Branch Metrics, Inc.",
+    "primaryCategory": "Advertising",
+    "categories": [
+      "Advertising",
+      "Analytics",
+      "Audience Measurement",
+      "Third-Party Analytics Marketing"
+    ],
+    "prevalence": 0.00282,
+    "fingerprinting": 2,
+    "cookies": 0,
+    "sites": 413,
+    "riskScore": 53
+  },
+  "brealtime.com": {
+    "company": "EMX Digital",
+    "ownerName": "EMX Digital, LLC",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics",
+      "Audience Measurement"
+    ],
+    "prevalence": 0.000116,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 17,
+    "riskScore": 45
+  },
+  "brightcove.com": {
+    "company": "Brightcove",
+    "ownerName": "Brightcove, Inc.",
+    "primaryCategory": "Advertising",
+    "categories": [
+      "Advertising",
+      "Analytics",
+      "CDN",
+      "Embedded Content"
+    ],
+    "prevalence": 0.00157,
+    "fingerprinting": 1,
+    "cookies": 0.000082,
+    "sites": 230,
+    "riskScore": 37
+  },
+  "brightcove.net": {
+    "company": "Brightcove",
+    "ownerName": "Brightcove, Inc.",
+    "primaryCategory": "Advertising",
+    "categories": [
+      "Advertising",
+      "Analytics",
+      "CDN",
+      "Embedded Content"
+    ],
+    "prevalence": 0.00216,
+    "fingerprinting": 2,
+    "cookies": 0.0000137,
+    "sites": 316,
+    "riskScore": 44
+  },
+  "bronto.com": {
+    "company": "Oracle",
+    "ownerName": "Oracle Corporation",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics",
+      "Audience Measurement",
+      "Third-Party Analytics Marketing",
+      "Action Pixels",
+      "Embedded Content"
+    ],
+    "prevalence": 0.0000137,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 2,
+    "riskScore": 45
+  },
+  "btstatic.com": {
+    "company": "TransUnion",
+    "ownerName": "TransUnion LLC",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics",
+      "Third-Party Analytics Marketing",
+      "Action Pixels"
+    ],
+    "prevalence": 0.00026,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 38,
+    "riskScore": 45
+  },
+  "bttrack.com": {
+    "company": "Bidtellect",
+    "ownerName": "Bidtellect, Inc",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Ad Fraud",
+      "Analytics",
+      "Embedded Content"
+    ],
+    "prevalence": 0.00938,
+    "fingerprinting": 1,
+    "cookies": 0.0083,
+    "sites": 1372,
+    "riskScore": 53
+  },
+  "buysellads.com": {
+    "company": "BuySellAds",
+    "ownerName": "BuySellAds",
+    "primaryCategory": "Advertising",
+    "categories": [
+      "Advertising"
+    ],
+    "prevalence": 0.000704,
+    "fingerprinting": 1,
+    "cookies": 0,
+    "sites": 103,
+    "riskScore": 21
+  },
+  "c3tag.com": {
+    "company": "C3 Metrics",
+    "ownerName": "C3 Metrics, Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics",
+      "Third-Party Analytics Marketing"
+    ],
+    "prevalence": 0.0000684,
+    "fingerprinting": 1,
+    "cookies": 0.0000615,
+    "sites": 10,
+    "riskScore": 52
+  },
+  "casalemedia.com": {
+    "company": "Index Exchange",
+    "ownerName": "Index Exchange, Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics"
+    ],
+    "prevalence": 0.129,
+    "fingerprinting": 1,
+    "cookies": 0.128,
+    "sites": 18904,
+    "riskScore": 70
+  },
+  "cdnwidget.com": {
+    "company": "CDNWIDGET.COM",
+    "ownerName": "CDNWIDGET.COM",
+    "primaryCategory": "Unknown High Risk Behavior",
+    "categories": [
+      "Unknown High Risk Behavior",
+      "Obscure Ownership"
+    ],
+    "prevalence": 0.00354,
+    "fingerprinting": 0,
+    "cookies": 0.00236,
+    "sites": 518,
+    "riskScore": 30
+  },
+  "chartbeat.com": {
+    "company": "Chartbeat",
+    "ownerName": "Chartbeat",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics",
+      "Audience Measurement"
+    ],
+    "prevalence": 0.0126,
+    "fingerprinting": 2,
+    "cookies": 0.0107,
+    "sites": 1846,
+    "riskScore": 61
+  },
+  "chartbeat.net": {
+    "company": "Chartbeat",
+    "ownerName": "Chartbeat",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics",
+      "Audience Measurement"
+    ],
+    "prevalence": 0.0124,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 1809,
+    "riskScore": 46
+  },
+  "chaturbate.com": {
+    "company": "Chaturbate",
+    "ownerName": "Chaturbate, LLC",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Embedded Content"
+    ],
+    "prevalence": 0.00144,
+    "fingerprinting": 1,
+    "cookies": 0.00142,
+    "sites": 211,
+    "riskScore": 41
+  },
+  "chimpstatic.com": {
+    "company": "Intuit",
+    "ownerName": "Intuit Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics",
+      "Audience Measurement",
+      "Third-Party Analytics Marketing",
+      "CDN"
+    ],
+    "prevalence": 0.00909,
+    "fingerprinting": 1,
+    "cookies": 0.000745,
+    "sites": 1330,
+    "riskScore": 53
+  },
+  "clickagy.com": {
+    "company": "Clickagy",
+    "ownerName": "Clickagy",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics",
+      "Audience Measurement",
+      "Third-Party Analytics Marketing"
+    ],
+    "prevalence": 0.00355,
+    "fingerprinting": 2,
+    "cookies": 0.00324,
+    "sites": 519,
+    "riskScore": 59
+  },
+  "clickcertain.com": {
+    "company": "ClickCertain",
+    "ownerName": "ClickCertain",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Audience Measurement"
+    ],
+    "prevalence": 0.0000684,
+    "fingerprinting": 0,
+    "cookies": 0.0000684,
+    "sites": 10,
+    "riskScore": 37
+  },
+  "clicktale.net": {
+    "company": "ClickTale",
+    "ownerName": "ClickTale Ltd",
+    "primaryCategory": "Analytics",
+    "categories": [
+      "Analytics",
+      "Action Pixels",
+      "Session Replay"
+    ],
+    "prevalence": 0.000554,
+    "fingerprinting": 2,
+    "cookies": 0.000417,
+    "sites": 81,
+    "riskScore": 51
+  },
+  "cloudflare.com": {
+    "company": "Cloudflare",
+    "ownerName": "Cloudflare, Inc.",
+    "primaryCategory": "Analytics",
+    "categories": [
+      "Analytics",
+      "CDN",
+      "Embedded Content"
+    ],
+    "prevalence": 0.238,
+    "fingerprinting": 2,
+    "cookies": 0.00653,
+    "sites": 34756,
+    "riskScore": 50
+  },
+  "clrstm.com": {
+    "company": "EMX Digital",
+    "ownerName": "EMX Digital, LLC",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Ad Fraud",
+      "Analytics",
+      "Audience Measurement",
+      "Third-Party Analytics Marketing"
+    ],
+    "prevalence": 0.0000205,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 3,
+    "riskScore": 45
+  },
+  "cogocast.net": {
+    "company": "Cogo Labs",
+    "ownerName": "Cogo Labs",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Audience Measurement"
+    ],
+    "prevalence": 0,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 0,
+    "riskScore": 37
+  },
+  "colossusssp.com": {
+    "company": "Colossus Media",
+    "ownerName": "Colossus Media, LLC",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking"
+    ],
+    "prevalence": 0.00509,
+    "fingerprinting": 0,
+    "cookies": 0.00228,
+    "sites": 745,
+    "riskScore": 17
+  },
+  "commander1.com": {
+    "company": "Fjord",
+    "ownerName": "Fjord Technologies",
+    "primaryCategory": "Analytics",
+    "categories": [
+      "Analytics",
+      "Audience Measurement",
+      "Third-Party Analytics Marketing",
+      "Action Pixels"
+    ],
+    "prevalence": 0.000287,
+    "fingerprinting": 0,
+    "cookies": 0.000185,
+    "sites": 42,
+    "riskScore": 37
+  },
+  "company-target.com": {
+    "company": "Demandbase",
+    "ownerName": "Demandbase, Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics",
+      "Audience Measurement",
+      "Third-Party Analytics Marketing",
+      "Action Pixels",
+      "Obscure Ownership"
+    ],
+    "prevalence": 0.009,
+    "fingerprinting": 0,
+    "cookies": 0.00785,
+    "sites": 1316,
+    "riskScore": 47
+  },
+  "connexity.net": {
+    "company": "Connexity",
+    "ownerName": "Connexity, Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics",
+      "Audience Measurement",
+      "Third-Party Analytics Marketing"
+    ],
+    "prevalence": 0.000157,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 23,
+    "riskScore": 45
+  },
+  "constantcontact.com": {
+    "company": "Constant Contact",
+    "ownerName": "Constant Contact, Inc",
+    "primaryCategory": "Analytics",
+    "categories": [
+      "Analytics",
+      "Third-Party Analytics Marketing",
+      "Action Pixels",
+      "Embedded Content"
+    ],
+    "prevalence": 0.0000957,
+    "fingerprinting": 0,
+    "cookies": 0.0000957,
+    "sites": 14,
+    "riskScore": 34
+  },
+  "contentabc.com": {
+    "company": "Aylo",
+    "ownerName": "Aylo",
+    "primaryCategory": "Advertising",
+    "categories": [
+      "Advertising",
+      "Unknown High Risk Behavior",
+      "Obscure Ownership"
+    ],
+    "prevalence": 0.000164,
+    "fingerprinting": 3,
+    "cookies": 0.0000342,
+    "sites": 24,
+    "riskScore": 63
+  },
+  "contentsquare.net": {
+    "company": "ContentSquare",
+    "ownerName": "ContentSquare",
+    "primaryCategory": "Analytics",
+    "categories": [
+      "Analytics",
+      "Audience Measurement",
+      "Third-Party Analytics Marketing",
+      "Action Pixels",
+      "Session Replay"
+    ],
+    "prevalence": 0.00745,
+    "fingerprinting": 2,
+    "cookies": 0.00597,
+    "sites": 1090,
+    "riskScore": 60
+  },
+  "contextweb.com": {
+    "company": "Pulsepoint",
+    "ownerName": "Pulsepoint, Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Ad Fraud",
+      "Audience Measurement"
+    ],
+    "prevalence": 0.0483,
+    "fingerprinting": 1,
+    "cookies": 0.0458,
+    "sites": 7067,
+    "riskScore": 61
+  },
+  "cpx.to": {
+    "company": "Captify",
+    "ownerName": "Captify Technologies Ltd.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics",
+      "Audience Measurement",
+      "Action Pixels",
+      "Obscure Ownership"
+    ],
+    "prevalence": 0.00336,
+    "fingerprinting": 1,
+    "cookies": 0.0026,
+    "sites": 492,
+    "riskScore": 52
+  },
+  "cquotient.com": {
+    "company": "Salesforce.com",
+    "ownerName": "Salesforce.com, Inc.",
+    "primaryCategory": "Analytics",
+    "categories": [
+      "Analytics"
+    ],
+    "prevalence": 0.00515,
+    "fingerprinting": 1,
+    "cookies": 0.00481,
+    "sites": 754,
+    "riskScore": 16
+  },
+  "crazyegg.com": {
+    "company": "Crazy Egg",
+    "ownerName": "Crazy Egg, Inc.",
+    "primaryCategory": "Analytics",
+    "categories": [
+      "Analytics",
+      "Audience Measurement",
+      "Third-Party Analytics Marketing",
+      "Session Replay"
+    ],
+    "prevalence": 0.0126,
+    "fingerprinting": 2,
+    "cookies": 0.00785,
+    "sites": 1845,
+    "riskScore": 58
+  },
+  "creative-serving.com": {
+    "company": "Platform161",
+    "ownerName": "Platform161",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Action Pixels"
+    ],
+    "prevalence": 0.00498,
+    "fingerprinting": 1,
+    "cookies": 0.00459,
+    "sites": 729,
+    "riskScore": 50
+  },
+  "creativecdn.com": {
+    "company": "RTB House",
+    "ownerName": "RTB House S.A.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising"
+    ],
+    "prevalence": 0.0798,
+    "fingerprinting": 1,
+    "cookies": 0.0533,
+    "sites": 11680,
+    "riskScore": 50
+  },
+  "criteo.com": {
+    "company": "Criteo",
+    "ownerName": "Criteo SA",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics",
+      "Third-Party Analytics Marketing"
+    ],
+    "prevalence": 0.134,
+    "fingerprinting": 1,
+    "cookies": 0.124,
+    "sites": 19586,
+    "riskScore": 77
+  },
+  "criteo.net": {
+    "company": "Criteo",
+    "ownerName": "Criteo SA",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics"
+    ],
+    "prevalence": 0.0554,
+    "fingerprinting": 1,
+    "cookies": 0.0416,
+    "sites": 8099,
+    "riskScore": 54
+  },
+  "crsspxl.com": {
+    "company": "Cross Pixel Media",
+    "ownerName": "Cross Pixel Media, Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics",
+      "Audience Measurement",
+      "Third-Party Analytics Marketing"
+    ],
+    "prevalence": 0.00026,
+    "fingerprinting": 0,
+    "cookies": 0.000205,
+    "sites": 38,
+    "riskScore": 45
+  },
+  "crwdcntrl.net": {
+    "company": "Lotame Solutions",
+    "ownerName": "Lotame Solutions, Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Audience Measurement"
+    ],
+    "prevalence": 0.126,
+    "fingerprinting": 1,
+    "cookies": 0.118,
+    "sites": 18371,
+    "riskScore": 68
+  },
+  "ctfassets.net": {
+    "company": "Contentful",
+    "ownerName": "Contentful GmbH",
+    "primaryCategory": "Federated Login",
+    "categories": [
+      "Federated Login",
+      "SSO",
+      "Third-Party Analytics Marketing",
+      "CDN"
+    ],
+    "prevalence": 0.00671,
+    "fingerprinting": 1,
+    "cookies": 0.0000137,
+    "sites": 982,
+    "riskScore": 31
+  },
+  "ctnsnet.com": {
+    "company": "Crimtan Holdings",
+    "ownerName": "Crimtan Holdings Ltd",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising"
+    ],
+    "prevalence": 0.0133,
+    "fingerprinting": 2,
+    "cookies": 0.0114,
+    "sites": 1943,
+    "riskScore": 46
+  },
+  "cxense.com": {
+    "company": "Piano Software",
+    "ownerName": "Piano Software",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics",
+      "Third-Party Analytics Marketing"
+    ],
+    "prevalence": 0.00427,
+    "fingerprinting": 2,
+    "cookies": 0.00386,
+    "sites": 625,
+    "riskScore": 59
+  },
+  "dc-storm.com": {
+    "company": "Rakuten",
+    "ownerName": "Rakuten, Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics",
+      "Audience Measurement",
+      "Third-Party Analytics Marketing"
+    ],
+    "prevalence": 0,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 0,
+    "riskScore": 45
+  },
+  "deepintent.com": {
+    "company": "DeepIntent",
+    "ownerName": "DeepIntent Inc",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics",
+      "Audience Measurement"
+    ],
+    "prevalence": 0.0312,
+    "fingerprinting": 0,
+    "cookies": 0.0288,
+    "sites": 4558,
+    "riskScore": 51
+  },
+  "deliverimp.com": {
+    "company": "OpenX",
+    "ownerName": "OpenX Technologies Inc",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising"
+    ],
+    "prevalence": 0.000424,
+    "fingerprinting": 0,
+    "cookies": 0.000424,
+    "sites": 62,
+    "riskScore": 30
+  },
+  "demandbase.com": {
+    "company": "Demandbase",
+    "ownerName": "Demandbase, Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics",
+      "Third-Party Analytics Marketing",
+      "Action Pixels"
+    ],
+    "prevalence": 0.00233,
+    "fingerprinting": 1,
+    "cookies": 0.000116,
+    "sites": 341,
+    "riskScore": 52
+  },
+  "demdex.net": {
+    "company": "Adobe",
+    "ownerName": "Adobe Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Third-Party Analytics Marketing"
+    ],
+    "prevalence": 0.087,
+    "fingerprinting": 1,
+    "cookies": 0.0844,
+    "sites": 12730,
+    "riskScore": 64
+  },
+  "deployads.com": {
+    "company": "Snapsort",
+    "ownerName": "Snapsort Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics"
+    ],
+    "prevalence": 0.000116,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 17,
+    "riskScore": 38
+  },
+  "df-srv.de": {
+    "company": "Contact Impact",
+    "ownerName": "Contact Impact GmbH",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics"
+    ],
+    "prevalence": 0,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 0,
+    "riskScore": 38
+  },
+  "digitru.st": {
+    "company": "Cookie Trust",
+    "ownerName": "Cookie Trust Working Group, Inc. DBA Cookie Trust",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking"
+    ],
+    "prevalence": 0,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 0,
+    "riskScore": 16
+  },
+  "disqus.com": {
+    "company": "Disqus",
+    "ownerName": "Disqus, Inc.",
+    "primaryCategory": "Federated Login",
+    "categories": [
+      "Federated Login",
+      "Social - Comment",
+      "Embedded Content"
+    ],
+    "prevalence": 0.024,
+    "fingerprinting": 2,
+    "cookies": 0.0183,
+    "sites": 3514,
+    "riskScore": 33
+  },
+  "disquscdn.com": {
+    "company": "Disqus",
+    "ownerName": "Disqus, Inc.",
+    "primaryCategory": "Federated Login",
+    "categories": [
+      "Federated Login",
+      "Social - Comment",
+      "CDN",
+      "Embedded Content"
+    ],
+    "prevalence": 0.00215,
+    "fingerprinting": 3,
+    "cookies": 0.00171,
+    "sites": 315,
+    "riskScore": 39
+  },
+  "distiltag.com": {
+    "company": "Imperva",
+    "ownerName": "Imperva Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Analytics",
+      "Third-Party Analytics Marketing"
+    ],
+    "prevalence": 0,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 0,
+    "riskScore": 34
+  },
+  "districtm.ca": {
+    "company": "District M",
+    "ownerName": "District M Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising"
+    ],
+    "prevalence": 0,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 0,
+    "riskScore": 30
+  },
+  "districtm.io": {
+    "company": "District M",
+    "ownerName": "District M Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising"
+    ],
+    "prevalence": 0.000041,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 6,
+    "riskScore": 30
+  },
+  "dmxleo.com": {
+    "company": "Dailymotion",
+    "ownerName": "Dailymotion SA",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Analytics",
+      "Federated Login",
+      "Third-Party Analytics Marketing",
+      "Social - Share",
+      "Embedded Content"
+    ],
+    "prevalence": 0.00182,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 266,
+    "riskScore": 45
+  },
+  "domdex.com": {
+    "company": "Magnetic Media Online",
+    "ownerName": "Magnetic Media Online, Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics",
+      "Audience Measurement",
+      "Third-Party Analytics Marketing"
+    ],
+    "prevalence": 0,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 0,
+    "riskScore": 45
+  },
+  "dotomi.com": {
+    "company": "Conversant",
+    "ownerName": "Conversant LLC",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising"
+    ],
+    "prevalence": 0.0512,
+    "fingerprinting": 1,
+    "cookies": 0.0447,
+    "sites": 7491,
+    "riskScore": 46
+  },
+  "doubleclick.net": {
+    "company": "Google",
+    "ownerName": "Google LLC",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising"
+    ],
+    "prevalence": 0.46,
+    "fingerprinting": 3,
+    "cookies": 0.342,
+    "sites": 67296,
+    "riskScore": 85
+  },
+  "doubleverify.com": {
+    "company": "DoubleVerify",
+    "ownerName": "DoubleVerify",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Ad Fraud"
+    ],
+    "prevalence": 0.0176,
+    "fingerprinting": 3,
+    "cookies": 0,
+    "sites": 2575,
+    "riskScore": 64
+  },
+  "driftt.com": {
+    "company": "Drift.com",
+    "ownerName": "Drift.com, Inc.",
+    "primaryCategory": "Analytics",
+    "categories": [
+      "Analytics",
+      "Third-Party Analytics Marketing",
+      "Embedded Content"
+    ],
+    "prevalence": 0.000547,
+    "fingerprinting": 2,
+    "cookies": 0.000465,
+    "sites": 80,
+    "riskScore": 35
+  },
+  "dtscout.com": {
+    "company": "DTS",
+    "ownerName": "DTS Technology",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics"
+    ],
+    "prevalence": 0.00624,
+    "fingerprinting": 2,
+    "cookies": 0.00617,
+    "sites": 913,
+    "riskScore": 53
+  },
+  "dwin1.com": {
+    "company": "Awin",
+    "ownerName": "Awin AG",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics"
+    ],
+    "prevalence": 0.00692,
+    "fingerprinting": 1,
+    "cookies": 0,
+    "sites": 1012,
+    "riskScore": 45
+  },
+  "dynamicyield.com": {
+    "company": "Dynamic Yield",
+    "ownerName": "Dynamic Yield",
+    "primaryCategory": "Analytics",
+    "categories": [
+      "Analytics",
+      "Audience Measurement",
+      "Third-Party Analytics Marketing",
+      "Embedded Content"
+    ],
+    "prevalence": 0.00217,
+    "fingerprinting": 2,
+    "cookies": 0.00144,
+    "sites": 318,
+    "riskScore": 43
+  },
+  "dynsrvtyu.com": {
+    "company": "ExoClick",
+    "ownerName": "ExoClick, S.L.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics",
+      "Audience Measurement"
+    ],
+    "prevalence": 0,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 0,
+    "riskScore": 45
+  },
+  "dyntrk.com": {
+    "company": "DynAdmic",
+    "ownerName": "DynAdmic",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Ad Fraud",
+      "Audience Measurement"
+    ],
+    "prevalence": 0.000191,
+    "fingerprinting": 0,
+    "cookies": 0.0000342,
+    "sites": 28,
+    "riskScore": 45
+  },
+  "e-planning.net": {
+    "company": "Teroa",
+    "ownerName": "Teroa S.A.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising"
+    ],
+    "prevalence": 0.00283,
+    "fingerprinting": 1,
+    "cookies": 0.00263,
+    "sites": 414,
+    "riskScore": 37
+  },
+  "ebay.com": {
+    "company": "eBay",
+    "ownerName": "eBay, Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Third-Party Analytics Marketing",
+      "Action Pixels"
+    ],
+    "prevalence": 0.000629,
+    "fingerprinting": 1,
+    "cookies": 0.000178,
+    "sites": 92,
+    "riskScore": 52
+  },
+  "eloqua.com": {
+    "company": "Oracle",
+    "ownerName": "Oracle Corporation",
+    "primaryCategory": "Advertising",
+    "categories": [
+      "Advertising",
+      "Analytics",
+      "Third-Party Analytics Marketing"
+    ],
+    "prevalence": 0.00301,
+    "fingerprinting": 0,
+    "cookies": 0.00275,
+    "sites": 440,
+    "riskScore": 33
+  },
+  "emetriq.de": {
+    "company": "emetriq",
+    "ownerName": "emetriq GmbH",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics"
+    ],
+    "prevalence": 0,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 0,
+    "riskScore": 38
+  },
+  "emxdgt.com": {
+    "company": "Engine USA",
+    "ownerName": "Engine USA LLC",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics"
+    ],
+    "prevalence": 0.0211,
+    "fingerprinting": 0,
+    "cookies": 0.0179,
+    "sites": 3093,
+    "riskScore": 42
+  },
+  "en25.com": {
+    "company": "Oracle",
+    "ownerName": "Oracle Corporation",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising"
+    ],
+    "prevalence": 0.00333,
+    "fingerprinting": 1,
+    "cookies": 0.0000137,
+    "sites": 487,
+    "riskScore": 37
+  },
+  "ensighten.com": {
+    "company": "Ensighten",
+    "ownerName": "Ensighten, Inc",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics",
+      "Audience Measurement",
+      "Third-Party Analytics Marketing"
+    ],
+    "prevalence": 0.00304,
+    "fingerprinting": 3,
+    "cookies": 0.00176,
+    "sites": 444,
+    "riskScore": 65
+  },
+  "erne.co": {
+    "company": "AdPilot",
+    "ownerName": "AdPilot",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics"
+    ],
+    "prevalence": 0,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 0,
+    "riskScore": 38
+  },
+  "ero-advertising.com": {
+    "company": "Interwebvertising",
+    "ownerName": "Interwebvertising B.V.",
+    "primaryCategory": "Advertising",
+    "categories": [
+      "Advertising"
+    ],
+    "prevalence": 0,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 0,
+    "riskScore": 14
+  },
+  "eum-appdynamics.com": {
+    "company": "Cisco Systems",
+    "ownerName": "Cisco Systems, Inc.",
+    "primaryCategory": "Analytics",
+    "categories": [
+      "Analytics"
+    ],
+    "prevalence": 0.000793,
+    "fingerprinting": 0,
+    "cookies": 0.000595,
+    "sites": 116,
+    "riskScore": 8
+  },
+  "everestads.net": {
+    "company": "Adobe",
+    "ownerName": "Adobe Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking"
+    ],
+    "prevalence": 0,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 0,
+    "riskScore": 16
+  },
+  "everestjs.net": {
+    "company": "Adobe",
+    "ownerName": "Adobe Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking"
+    ],
+    "prevalence": 0.0016,
+    "fingerprinting": 1,
+    "cookies": 0.000807,
+    "sites": 234,
+    "riskScore": 23
+  },
+  "everesttech.net": {
+    "company": "Adobe",
+    "ownerName": "Adobe Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Third-Party Analytics Marketing"
+    ],
+    "prevalence": 0.059,
+    "fingerprinting": 0,
+    "cookies": 0.0559,
+    "sites": 8628,
+    "riskScore": 37
+  },
+  "evidon.com": {
+    "company": "Crownpeak",
+    "ownerName": "Crownpeak Technology",
+    "primaryCategory": "Analytics",
+    "categories": [
+      "Analytics",
+      "Third-Party Analytics Marketing"
+    ],
+    "prevalence": 0.00162,
+    "fingerprinting": 1,
+    "cookies": 0.0000273,
+    "sites": 237,
+    "riskScore": 25
+  },
+  "exdynsrv.com": {
+    "company": "ExoClick",
+    "ownerName": "ExoClick, S.L.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising"
+    ],
+    "prevalence": 0.000178,
+    "fingerprinting": 2,
+    "cookies": 0.0000889,
+    "sites": 26,
+    "riskScore": 43
+  },
+  "exelator.com": {
+    "company": "The Nielsen Company",
+    "ownerName": "The Nielsen Company",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics",
+      "Audience Measurement",
+      "Action Pixels"
+    ],
+    "prevalence": 0.0234,
+    "fingerprinting": 1,
+    "cookies": 0.0226,
+    "sites": 3422,
+    "riskScore": 56
+  },
+  "exoclick.com": {
+    "company": "ExoClick",
+    "ownerName": "ExoClick, S.L.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising"
+    ],
+    "prevalence": 0.00206,
+    "fingerprinting": 1,
+    "cookies": 0.0000752,
+    "sites": 302,
+    "riskScore": 37
+  },
+  "exosrv.com": {
+    "company": "ExoClick",
+    "ownerName": "ExoClick, S.L.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising"
+    ],
+    "prevalence": 0.000731,
+    "fingerprinting": 2,
+    "cookies": 0.000499,
+    "sites": 107,
+    "riskScore": 43
+  },
+  "exponential.com": {
+    "company": "Exponential Interactive",
+    "ownerName": "Exponential Interactive Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Ad Fraud",
+      "Analytics",
+      "Audience Measurement",
+      "Action Pixels",
+      "Session Replay"
+    ],
+    "prevalence": 0.00028,
+    "fingerprinting": 3,
+    "cookies": 0.00000684,
+    "sites": 41,
+    "riskScore": 65
+  },
+  "exposebox.com": {
+    "company": "ExposeBox",
+    "ownerName": "ExposeBox",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics",
+      "Audience Measurement",
+      "Third-Party Analytics Marketing",
+      "Action Pixels"
+    ],
+    "prevalence": 0,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 0,
+    "riskScore": 45
+  },
+  "extend.tv": {
+    "company": "ZypMedia",
+    "ownerName": "ZypMedia, Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Ad Fraud",
+      "Audience Measurement",
+      "Action Pixels",
+      "Embedded Content"
+    ],
+    "prevalence": 0.000041,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 6,
+    "riskScore": 45
+  },
+  "eyeota.net": {
+    "company": "eyeota",
+    "ownerName": "eyeota Limited",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics",
+      "Audience Measurement",
+      "Third-Party Analytics Marketing"
+    ],
+    "prevalence": 0.041,
+    "fingerprinting": 1,
+    "cookies": 0.0378,
+    "sites": 6000,
+    "riskScore": 60
+  },
+  "eyereturn.com": {
+    "company": "eyeReturn Marketing",
+    "ownerName": "eyeReturn Marketing Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics",
+      "Third-Party Analytics Marketing",
+      "Action Pixels",
+      "Session Replay"
+    ],
+    "prevalence": 0.0000752,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 11,
+    "riskScore": 45
+  },
+  "eyeviewads.com": {
+    "company": "EyeView",
+    "ownerName": "EyeView, Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Ad Fraud",
+      "Analytics",
+      "Audience Measurement",
+      "Action Pixels",
+      "Embedded Content"
+    ],
+    "prevalence": 0.0000137,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 2,
+    "riskScore": 45
+  },
+  "ezoic.net": {
+    "company": "Ezoic",
+    "ownerName": "Ezoic Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics",
+      "Audience Measurement",
+      "Third-Party Analytics Marketing",
+      "Action Pixels",
+      "Session Replay"
+    ],
+    "prevalence": 0.00991,
+    "fingerprinting": 2,
+    "cookies": 0.00904,
+    "sites": 1450,
+    "riskScore": 60
+  },
+  "facebook.com": {
+    "company": "Facebook",
+    "ownerName": "Facebook, Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Ad Fraud",
+      "Analytics",
+      "Audience Measurement",
+      "Federated Login",
+      "Social - Comment",
+      "Social - Share",
+      "Action Pixels",
+      "Social Network",
+      "Badge",
+      "Embedded Content"
+    ],
+    "prevalence": 0.18,
+    "fingerprinting": 1,
+    "cookies": 0.00124,
+    "sites": 26402,
+    "riskScore": 70
+  },
+  "facebook.net": {
+    "company": "Facebook",
+    "ownerName": "Facebook, Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Ad Fraud",
+      "Analytics",
+      "Audience Measurement",
+      "Federated Login",
+      "Social - Comment",
+      "Social - Share",
+      "Action Pixels",
+      "Social Network",
+      "Badge",
+      "Embedded Content"
+    ],
+    "prevalence": 0.201,
+    "fingerprinting": 2,
+    "cookies": 0.152,
+    "sites": 29358,
+    "riskScore": 93
+  },
+  "fastly-insights.com": {
+    "company": "Fastly",
+    "ownerName": "Fastly, Inc.",
+    "primaryCategory": "Analytics",
+    "categories": [
+      "Analytics"
+    ],
+    "prevalence": 0,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 0,
+    "riskScore": 8
+  },
+  "fastly.net": {
+    "company": "Fastly",
+    "ownerName": "Fastly, Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics",
+      "Third-Party Analytics Marketing",
+      "Action Pixels",
+      "Session Replay"
+    ],
+    "prevalence": 0,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 0,
+    "riskScore": 45
+  },
+  "fbcdn.net": {
+    "company": "Facebook",
+    "ownerName": "Facebook, Inc.",
+    "primaryCategory": "Social - Share",
+    "categories": [
+      "Social - Share",
+      "Action Pixels",
+      "Social Network",
+      "CDN",
+      "Embedded Content"
+    ],
+    "prevalence": 0.00103,
+    "fingerprinting": 2,
+    "cookies": 0.00000684,
+    "sites": 151,
+    "riskScore": 47
+  },
+  "fg8dgt.com": {
+    "company": "FastG8",
+    "ownerName": "FastG8",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Ad Fraud",
+      "Analytics",
+      "Audience Measurement",
+      "Third-Party Analytics Marketing",
+      "Action Pixels"
+    ],
+    "prevalence": 0.000082,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 12,
+    "riskScore": 45
+  },
+  "flashtalking.com": {
+    "company": "Mediaocean",
+    "ownerName": "Mediaocean LLC",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics",
+      "Audience Measurement",
+      "Third-Party Analytics Marketing",
+      "Action Pixels",
+      "Session Replay",
+      "Embedded Content"
+    ],
+    "prevalence": 0.0105,
+    "fingerprinting": 3,
+    "cookies": 0.00919,
+    "sites": 1530,
+    "riskScore": 67
+  },
+  "fonts.net": {
+    "company": "Monotype Imaging",
+    "ownerName": "Monotype Imaging Inc.",
+    "primaryCategory": "Action Pixels",
+    "categories": [
+      "Action Pixels",
+      "CDN"
+    ],
+    "prevalence": 0.00427,
+    "fingerprinting": 1,
+    "cookies": 0.00425,
+    "sites": 624,
+    "riskScore": 24
+  },
+  "force.com": {
+    "company": "Salesforce.com",
+    "ownerName": "Salesforce.com, Inc.",
+    "primaryCategory": "SSO",
+    "categories": [
+      "SSO",
+      "Embedded Content"
+    ],
+    "prevalence": 0.000978,
+    "fingerprinting": 1,
+    "cookies": 0.000943,
+    "sites": 143,
+    "riskScore": 16
+  },
+  "foresee.com": {
+    "company": "ForeSee Results",
+    "ownerName": "ForeSee Results, Inc.",
+    "primaryCategory": "Analytics",
+    "categories": [
+      "Analytics",
+      "Audience Measurement",
+      "Action Pixels",
+      "Session Replay"
+    ],
+    "prevalence": 0.000649,
+    "fingerprinting": 2,
+    "cookies": 0.0000615,
+    "sites": 95,
+    "riskScore": 58
+  },
+  "fullstory.com": {
+    "company": "FullStory",
+    "ownerName": "FullStory",
+    "primaryCategory": "Analytics",
+    "categories": [
+      "Analytics",
+      "Session Replay"
+    ],
+    "prevalence": 0.0055,
+    "fingerprinting": 3,
+    "cookies": 0.00312,
+    "sites": 805,
+    "riskScore": 47
+  },
+  "fwmrm.net": {
+    "company": "FreeWheel",
+    "ownerName": "FreeWheel",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics",
+      "Third-Party Analytics Marketing"
+    ],
+    "prevalence": 0.0352,
+    "fingerprinting": 1,
+    "cookies": 0.0326,
+    "sites": 5151,
+    "riskScore": 58
+  },
+  "gemius.pl": {
+    "company": "Gemius",
+    "ownerName": "Gemius S.A.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Audience Measurement"
+    ],
+    "prevalence": 0.00257,
+    "fingerprinting": 2,
+    "cookies": 0.00191,
+    "sites": 376,
+    "riskScore": 51
+  },
+  "getclicky.com": {
+    "company": "Roxr Software",
+    "ownerName": "Roxr Software Ltd",
+    "primaryCategory": "Ad Fraud",
+    "categories": [
+      "Ad Fraud",
+      "Analytics"
+    ],
+    "prevalence": 0.00493,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 721,
+    "riskScore": 20
+  },
+  "getsitecontrol.com": {
+    "company": "GetWebCraft",
+    "ownerName": "GetWebCraft Limited",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Analytics",
+      "Audience Measurement",
+      "Third-Party Analytics Marketing",
+      "Embedded Content"
+    ],
+    "prevalence": 0.00176,
+    "fingerprinting": 2,
+    "cookies": 0.000144,
+    "sites": 257,
+    "riskScore": 59
+  },
+  "gigya.com": {
+    "company": "Gigya",
+    "ownerName": "Gigya Inc",
+    "primaryCategory": "Analytics",
+    "categories": [
+      "Analytics",
+      "SSO",
+      "Third-Party Analytics Marketing",
+      "CDN",
+      "Embedded Content"
+    ],
+    "prevalence": 0.00137,
+    "fingerprinting": 2,
+    "cookies": 0.00133,
+    "sites": 200,
+    "riskScore": 45
+  },
+  "go-mpulse.net": {
+    "company": "Akamai",
+    "ownerName": "Akamai Technologies",
+    "primaryCategory": "Analytics",
+    "categories": [
+      "Analytics"
+    ],
+    "prevalence": 0.0194,
+    "fingerprinting": 3,
+    "cookies": 0.0116,
+    "sites": 2835,
+    "riskScore": 31
+  },
+  "google-analytics.com": {
+    "company": "Google",
+    "ownerName": "Google LLC",
+    "primaryCategory": "Advertising",
+    "categories": [
+      "Advertising",
+      "Analytics",
+      "Audience Measurement",
+      "Third-Party Analytics Marketing"
+    ],
+    "prevalence": 0.405,
+    "fingerprinting": 1,
+    "cookies": 0.156,
+    "sites": 59301,
+    "riskScore": 81
+  },
+  "google.com": {
+    "company": "Google",
+    "ownerName": "Google LLC",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Online Payment",
+      "CDN"
+    ],
+    "prevalence": 0.47,
+    "fingerprinting": 3,
+    "cookies": 0.132,
+    "sites": 68760,
+    "riskScore": 91
+  },
+  "googleadservices.com": {
+    "company": "Google",
+    "ownerName": "Google LLC",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising"
+    ],
+    "prevalence": 0.0622,
+    "fingerprinting": 1,
+    "cookies": 0.00000684,
+    "sites": 9092,
+    "riskScore": 43
+  },
+  "googlesyndication.com": {
+    "company": "Google",
+    "ownerName": "Google LLC",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising"
+    ],
+    "prevalence": 0.229,
+    "fingerprinting": 3,
+    "cookies": 0.0587,
+    "sites": 33553,
+    "riskScore": 76
+  },
+  "googletagmanager.com": {
+    "company": "Google",
+    "ownerName": "Google LLC",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics",
+      "Audience Measurement",
+      "Third-Party Analytics Marketing",
+      "Tag Manager"
+    ],
+    "prevalence": 0.609,
+    "fingerprinting": 2,
+    "cookies": 0.493,
+    "sites": 89026,
+    "riskScore": 93
+  },
+  "googletagservices.com": {
+    "company": "Google",
+    "ownerName": "Google LLC",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics",
+      "Audience Measurement",
+      "Third-Party Analytics Marketing",
+      "Action Pixels"
+    ],
+    "prevalence": 0.0306,
+    "fingerprinting": 2,
+    "cookies": 0,
+    "sites": 4483,
+    "riskScore": 61
+  },
+  "gravatar.com": {
+    "company": "Automattic",
+    "ownerName": "Automattic, Inc.",
+    "primaryCategory": "Federated Login",
+    "categories": [
+      "Federated Login",
+      "Social Network",
+      "CDN",
+      "Embedded Content"
+    ],
+    "prevalence": 0.0177,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 2584,
+    "riskScore": 23
+  },
+  "gssprt.jp": {
+    "company": "Geniee",
+    "ownerName": "Geniee, inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics",
+      "Third-Party Analytics Marketing"
+    ],
+    "prevalence": 0.000889,
+    "fingerprinting": 0,
+    "cookies": 0.000848,
+    "sites": 130,
+    "riskScore": 45
+  },
+  "gumgum.com": {
+    "company": "GumGum",
+    "ownerName": "GumGum",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising"
+    ],
+    "prevalence": 0.0579,
+    "fingerprinting": 2,
+    "cookies": 0.0513,
+    "sites": 8468,
+    "riskScore": 54
+  },
+  "gwallet.com": {
+    "company": "RhythmOne",
+    "ownerName": "RhythmOne",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Third-Party Analytics Marketing"
+    ],
+    "prevalence": 0.0000684,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 10,
+    "riskScore": 40
+  },
+  "heapanalytics.com": {
+    "company": "ContentSquare",
+    "ownerName": "ContentSquare",
+    "primaryCategory": "Analytics",
+    "categories": [
+      "Analytics",
+      "Action Pixels",
+      "Session Replay"
+    ],
+    "prevalence": 0.00191,
+    "fingerprinting": 2,
+    "cookies": 0.00139,
+    "sites": 280,
+    "riskScore": 52
+  },
+  "hellobar.com": {
+    "company": "Crazy Egg",
+    "ownerName": "Crazy Egg, Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics",
+      "Action Pixels",
+      "Session Replay"
+    ],
+    "prevalence": 0.000704,
+    "fingerprinting": 1,
+    "cookies": 0.000294,
+    "sites": 103,
+    "riskScore": 52
+  },
+  "histats.com": {
+    "company": "wisecode",
+    "ownerName": "wisecode s.r.l.",
+    "primaryCategory": "Analytics",
+    "categories": [
+      "Analytics",
+      "Audience Measurement"
+    ],
+    "prevalence": 0.00607,
+    "fingerprinting": 2,
+    "cookies": 0.00508,
+    "sites": 888,
+    "riskScore": 29
+  },
+  "hotjar.com": {
+    "company": "Hotjar",
+    "ownerName": "Hotjar Ltd",
+    "primaryCategory": "Analytics",
+    "categories": [
+      "Analytics",
+      "Audience Measurement",
+      "Session Replay"
+    ],
+    "prevalence": 0.0368,
+    "fingerprinting": 2,
+    "cookies": 0.0326,
+    "sites": 5387,
+    "riskScore": 53
+  },
+  "hs-analytics.net": {
+    "company": "HubSpot",
+    "ownerName": "HubSpot, Inc.",
+    "primaryCategory": "Analytics",
+    "categories": [
+      "Analytics",
+      "Audience Measurement",
+      "Third-Party Analytics Marketing",
+      "Action Pixels"
+    ],
+    "prevalence": 0.0186,
+    "fingerprinting": 3,
+    "cookies": 0.0166,
+    "sites": 2714,
+    "riskScore": 61
+  },
+  "hs-scripts.com": {
+    "company": "HubSpot",
+    "ownerName": "HubSpot, Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics",
+      "Audience Measurement",
+      "Third-Party Analytics Marketing",
+      "CDN"
+    ],
+    "prevalence": 0.0182,
+    "fingerprinting": 1,
+    "cookies": 0,
+    "sites": 2666,
+    "riskScore": 53
+  },
+  "hsadspixel.net": {
+    "company": "HubSpot",
+    "ownerName": "HubSpot, Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics",
+      "Audience Measurement",
+      "Third-Party Analytics Marketing",
+      "Action Pixels"
+    ],
+    "prevalence": 0.0104,
+    "fingerprinting": 1,
+    "cookies": 0,
+    "sites": 1514,
+    "riskScore": 53
+  },
+  "hsforms.com": {
+    "company": "HubSpot",
+    "ownerName": "HubSpot, Inc.",
+    "primaryCategory": "Analytics",
+    "categories": [
+      "Analytics",
+      "Embedded Content"
+    ],
+    "prevalence": 0.0151,
+    "fingerprinting": 0,
+    "cookies": 0.0151,
+    "sites": 2211,
+    "riskScore": 15
+  },
+  "hsleadflows.net": {
+    "company": "HubSpot",
+    "ownerName": "HubSpot, Inc.",
+    "primaryCategory": "Analytics",
+    "categories": [
+      "Analytics",
+      "Audience Measurement",
+      "Third-Party Analytics Marketing"
+    ],
+    "prevalence": 0.0000342,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 5,
+    "riskScore": 25
+  },
+  "hubapi.com": {
+    "company": "HubSpot",
+    "ownerName": "HubSpot, Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics",
+      "Audience Measurement",
+      "Third-Party Analytics Marketing"
+    ],
+    "prevalence": 0.0101,
+    "fingerprinting": 0,
+    "cookies": 0.0101,
+    "sites": 1478,
+    "riskScore": 47
+  },
+  "hubspot.com": {
+    "company": "HubSpot",
+    "ownerName": "HubSpot, Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics",
+      "Third-Party Analytics Marketing",
+      "Embedded Content"
+    ],
+    "prevalence": 0.0181,
+    "fingerprinting": 3,
+    "cookies": 0.018,
+    "sites": 2642,
+    "riskScore": 69
+  },
+  "hybrid.ai": {
+    "company": "Hybrid Adtech",
+    "ownerName": "Hybrid Adtech, Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics",
+      "Audience Measurement"
+    ],
+    "prevalence": 0.00204,
+    "fingerprinting": 3,
+    "cookies": 0.0019,
+    "sites": 298,
+    "riskScore": 65
+  },
+  "iasds01.com": {
+    "company": "Integral Ad Science",
+    "ownerName": "Integral Ad Science, Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Ad Fraud"
+    ],
+    "prevalence": 0,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 0,
+    "riskScore": 42
+  },
+  "ib-ibi.com": {
+    "company": "KBM Group",
+    "ownerName": "KBM Group LLC",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics"
+    ],
+    "prevalence": 0.00359,
+    "fingerprinting": 0,
+    "cookies": 0.00347,
+    "sites": 525,
+    "riskScore": 39
+  },
+  "ibillboard.com": {
+    "company": "Internet Billboard",
+    "ownerName": "Internet Billboard a.s.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising"
+    ],
+    "prevalence": 0,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 0,
+    "riskScore": 30
+  },
+  "id5-sync.com": {
+    "company": "ID5",
+    "ownerName": "ID5 Technology Ltd",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising"
+    ],
+    "prevalence": 0.117,
+    "fingerprinting": 2,
+    "cookies": 0.101,
+    "sites": 17170,
+    "riskScore": 65
+  },
+  "igodigital.com": {
+    "company": "Salesforce.com",
+    "ownerName": "Salesforce.com, Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics",
+      "Audience Measurement",
+      "Third-Party Analytics Marketing"
+    ],
+    "prevalence": 0.00329,
+    "fingerprinting": 1,
+    "cookies": 0.00199,
+    "sites": 481,
+    "riskScore": 52
+  },
+  "imgur.com": {
+    "company": "MediaLab.Ai",
+    "ownerName": "MediaLab.Ai",
+    "primaryCategory": "Social Network",
+    "categories": [
+      "Social Network",
+      "CDN",
+      "Embedded Content"
+    ],
+    "prevalence": 0.00109,
+    "fingerprinting": 3,
+    "cookies": 0.0000137,
+    "sites": 160,
+    "riskScore": 36
+  },
+  "impactradius-event.com": {
+    "company": "Impact",
+    "ownerName": "Impact",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics",
+      "Third-Party Analytics Marketing",
+      "Action Pixels"
+    ],
+    "prevalence": 0.00317,
+    "fingerprinting": 1,
+    "cookies": 0.00233,
+    "sites": 464,
+    "riskScore": 52
+  },
+  "impdesk.com": {
+    "company": "Infectious Media",
+    "ownerName": "Infectious Media",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising"
+    ],
+    "prevalence": 0,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 0,
+    "riskScore": 30
+  },
+  "imrworldwide.com": {
+    "company": "The Nielsen Company",
+    "ownerName": "The Nielsen Company",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics",
+      "Audience Measurement",
+      "Third-Party Analytics Marketing",
+      "Action Pixels"
+    ],
+    "prevalence": 0.0132,
+    "fingerprinting": 2,
+    "cookies": 0.0125,
+    "sites": 1926,
+    "riskScore": 61
+  },
+  "indexww.com": {
+    "company": "Index Exchange",
+    "ownerName": "Index Exchange, Inc.",
+    "primaryCategory": "Advertising",
+    "categories": [
+      "Advertising",
+      "Analytics"
+    ],
+    "prevalence": 0.0284,
+    "fingerprinting": 1,
+    "cookies": 0,
+    "sites": 4158,
+    "riskScore": 32
+  },
+  "innovid.com": {
+    "company": "Innovid Media",
+    "ownerName": "Innovid Media",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising"
+    ],
+    "prevalence": 0.00119,
+    "fingerprinting": 1,
+    "cookies": 0.000971,
+    "sites": 174,
+    "riskScore": 37
+  },
+  "insightexpressai.com": {
+    "company": "Kantar Operations",
+    "ownerName": "Kantar Operations",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics",
+      "Audience Measurement"
+    ],
+    "prevalence": 0.00414,
+    "fingerprinting": 0,
+    "cookies": 0.00409,
+    "sites": 605,
+    "riskScore": 46
+  },
+  "inspectlet.com": {
+    "company": "Inspectlet",
+    "ownerName": "Inspectlet",
+    "primaryCategory": "Analytics",
+    "categories": [
+      "Analytics",
+      "Third-Party Analytics Marketing",
+      "Session Replay"
+    ],
+    "prevalence": 0.000485,
+    "fingerprinting": 2,
+    "cookies": 0.000458,
+    "sites": 71,
+    "riskScore": 49
+  },
+  "instagram.com": {
+    "company": "Facebook",
+    "ownerName": "Facebook, Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Social - Share",
+      "Social Network",
+      "Embedded Content"
+    ],
+    "prevalence": 0.00573,
+    "fingerprinting": 1,
+    "cookies": 0.00222,
+    "sites": 838,
+    "riskScore": 52
+  },
+  "intentiq.com": {
+    "company": "Almondnet Group",
+    "ownerName": "Almondnet Group",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Ad Fraud",
+      "Analytics",
+      "Third-Party Analytics Marketing"
+    ],
+    "prevalence": 0.0406,
+    "fingerprinting": 1,
+    "cookies": 0.0345,
+    "sites": 5945,
+    "riskScore": 59
+  },
+  "ioam.de": {
+    "company": "INFOnline",
+    "ownerName": "INFOnline GmbH",
+    "primaryCategory": "Audience Measurement",
+    "categories": [
+      "Audience Measurement"
+    ],
+    "prevalence": 0.000116,
+    "fingerprinting": 2,
+    "cookies": 0.0000342,
+    "sites": 17,
+    "riskScore": 20
+  },
+  "iperceptions.com": {
+    "company": "iPerceptions",
+    "ownerName": "iPerceptions Inc.",
+    "primaryCategory": "Analytics",
+    "categories": [
+      "Analytics",
+      "Embedded Content"
+    ],
+    "prevalence": 0.000431,
+    "fingerprinting": 2,
+    "cookies": 0.000355,
+    "sites": 63,
+    "riskScore": 25
+  },
+  "ipredictive.com": {
+    "company": "Adelphic",
+    "ownerName": "Adelphic, Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising"
+    ],
+    "prevalence": 0.0533,
+    "fingerprinting": 1,
+    "cookies": 0.0503,
+    "sites": 7795,
+    "riskScore": 47
+  },
+  "ispot.tv": {
+    "company": "iSpot.tv",
+    "ownerName": "iSpot.tv",
+    "primaryCategory": "Advertising",
+    "categories": [
+      "Advertising",
+      "Analytics",
+      "Audience Measurement"
+    ],
+    "prevalence": 0.00299,
+    "fingerprinting": 0,
+    "cookies": 0.00291,
+    "sites": 437,
+    "riskScore": 30
+  },
+  "itsup.com": {
+    "company": "SCTR Services",
+    "ownerName": "SCTR Services LLC",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics",
+      "Audience Measurement",
+      "Action Pixels"
+    ],
+    "prevalence": 0,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 0,
+    "riskScore": 45
+  },
+  "ivitrack.com": {
+    "company": "Ividence",
+    "ownerName": "Ividence",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics"
+    ],
+    "prevalence": 0.0000547,
+    "fingerprinting": 1,
+    "cookies": 0.00000684,
+    "sites": 8,
+    "riskScore": 45
+  },
+  "ixiaa.com": {
+    "company": "Equifax",
+    "ownerName": "Equifax Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Audience Measurement"
+    ],
+    "prevalence": 0,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 0,
+    "riskScore": 23
+  },
+  "juicyads.com": {
+    "company": "JuicyAds",
+    "ownerName": "JuicyAds",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Malware"
+    ],
+    "prevalence": 0.00222,
+    "fingerprinting": 1,
+    "cookies": 0.0000889,
+    "sites": 325,
+    "riskScore": 52
+  },
+  "justpremium.com": {
+    "company": "JustPremium",
+    "ownerName": "JustPremium",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising"
+    ],
+    "prevalence": 0.0000547,
+    "fingerprinting": 0,
+    "cookies": 0.000041,
+    "sites": 8,
+    "riskScore": 30
+  },
+  "jwpcdn.com": {
+    "company": "LongTail Ad Solutions",
+    "ownerName": "LongTail Ad Solutions, Inc.",
+    "primaryCategory": "Advertising",
+    "categories": [
+      "Advertising",
+      "CDN",
+      "Embedded Content"
+    ],
+    "prevalence": 0.00282,
+    "fingerprinting": 2,
+    "cookies": 0.000082,
+    "sites": 412,
+    "riskScore": 36
+  },
+  "jwplatform.com": {
+    "company": "LongTail Ad Solutions",
+    "ownerName": "LongTail Ad Solutions, Inc.",
+    "primaryCategory": "Advertising",
+    "categories": [
+      "Advertising",
+      "CDN",
+      "Embedded Content"
+    ],
+    "prevalence": 0.00124,
+    "fingerprinting": 1,
+    "cookies": 0,
+    "sites": 182,
+    "riskScore": 29
+  },
+  "jwplayer.com": {
+    "company": "LongTail Ad Solutions",
+    "ownerName": "LongTail Ad Solutions, Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Analytics",
+      "Action Pixels",
+      "CDN",
+      "Embedded Content"
+    ],
+    "prevalence": 0.026,
+    "fingerprinting": 1,
+    "cookies": 0.0000342,
+    "sites": 3804,
+    "riskScore": 53
+  },
+  "kampyle.com": {
+    "company": "Medallia",
+    "ownerName": "Medallia Inc.",
+    "primaryCategory": "Third-Party Analytics Marketing",
+    "categories": [
+      "Third-Party Analytics Marketing",
+      "Embedded Content"
+    ],
+    "prevalence": 0.00137,
+    "fingerprinting": 2,
+    "cookies": 0.000855,
+    "sites": 201,
+    "riskScore": 28
+  },
+  "kargo.com": {
+    "company": "Kargo",
+    "ownerName": "Kargo Global, Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Ad Fraud"
+    ],
+    "prevalence": 0.0342,
+    "fingerprinting": 2,
+    "cookies": 0.033,
+    "sites": 5002,
+    "riskScore": 62
+  },
+  "keywee.co": {
+    "company": "Keywee",
+    "ownerName": "Keywee",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics",
+      "Third-Party Analytics Marketing"
+    ],
+    "prevalence": 0.000328,
+    "fingerprinting": 2,
+    "cookies": 0.000273,
+    "sites": 48,
+    "riskScore": 58
+  },
+  "klaviyo.com": {
+    "company": "Klaviyo",
+    "ownerName": "Klaviyo",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics",
+      "Audience Measurement",
+      "Third-Party Analytics Marketing",
+      "Embedded Content"
+    ],
+    "prevalence": 0.0404,
+    "fingerprinting": 2,
+    "cookies": 0.0335,
+    "sites": 5905,
+    "riskScore": 66
+  },
+  "korrelate.net": {
+    "company": "J.D. Power",
+    "ownerName": "J.D. Power",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking"
+    ],
+    "prevalence": 0,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 0,
+    "riskScore": 16
+  },
+  "krxd.net": {
+    "company": "Salesforce.com",
+    "ownerName": "Salesforce.com, Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Audience Measurement"
+    ],
+    "prevalence": 0.00416,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 608,
+    "riskScore": 37
+  },
+  "ladsp.com": {
+    "company": "So-net Media Networks",
+    "ownerName": "So-net Media Networks Corporation.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics"
+    ],
+    "prevalence": 0.00185,
+    "fingerprinting": 1,
+    "cookies": 0.00109,
+    "sites": 270,
+    "riskScore": 45
+  },
+  "lfstmedia.com": {
+    "company": "LifeStreet",
+    "ownerName": "LifeStreet",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Audience Measurement",
+      "Action Pixels"
+    ],
+    "prevalence": 0,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 0,
+    "riskScore": 45
+  },
+  "liadm.com": {
+    "company": "LiveIntent",
+    "ownerName": "LiveIntent Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Audience Measurement",
+      "Third-Party Analytics Marketing"
+    ],
+    "prevalence": 0.0816,
+    "fingerprinting": 1,
+    "cookies": 0.0795,
+    "sites": 11941,
+    "riskScore": 68
+  },
+  "licdn.com": {
+    "company": "Microsoft",
+    "ownerName": "Microsoft Corporation",
+    "primaryCategory": "Analytics",
+    "categories": [
+      "Analytics",
+      "Audience Measurement",
+      "CDN"
+    ],
+    "prevalence": 0.0404,
+    "fingerprinting": 3,
+    "cookies": 0.0000684,
+    "sites": 5916,
+    "riskScore": 43
+  },
+  "ligatus.com": {
+    "company": "Outbrain",
+    "ownerName": "Outbrain",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising"
+    ],
+    "prevalence": 0,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 0,
+    "riskScore": 30
+  },
+  "lightboxcdn.com": {
+    "company": "Digioh",
+    "ownerName": "Digioh, LLC",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics",
+      "Audience Measurement",
+      "Third-Party Analytics Marketing",
+      "Action Pixels",
+      "CDN",
+      "Embedded Content"
+    ],
+    "prevalence": 0.00498,
+    "fingerprinting": 2,
+    "cookies": 0.00496,
+    "sites": 728,
+    "riskScore": 59
+  },
+  "lijit.com": {
+    "company": "Sovrn Holdings",
+    "ownerName": "Sovrn Holdings",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics",
+      "Audience Measurement",
+      "Third-Party Analytics Marketing",
+      "Action Pixels"
+    ],
+    "prevalence": 0.0734,
+    "fingerprinting": 1,
+    "cookies": 0.0649,
+    "sites": 10736,
+    "riskScore": 65
+  },
+  "linkedin.com": {
+    "company": "Microsoft",
+    "ownerName": "Microsoft Corporation",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics",
+      "Social - Share",
+      "Action Pixels",
+      "Social Network",
+      "Embedded Content"
+    ],
+    "prevalence": 0.112,
+    "fingerprinting": 1,
+    "cookies": 0.109,
+    "sites": 16325,
+    "riskScore": 74
+  },
+  "linksynergy.com": {
+    "company": "Rakuten",
+    "ownerName": "Rakuten, Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising"
+    ],
+    "prevalence": 0.00101,
+    "fingerprinting": 1,
+    "cookies": 0.00093,
+    "sites": 148,
+    "riskScore": 37
+  },
+  "list-manage.com": {
+    "company": "Intuit",
+    "ownerName": "Intuit Inc.",
+    "primaryCategory": "Third-Party Analytics Marketing",
+    "categories": [
+      "Third-Party Analytics Marketing",
+      "Embedded Content"
+    ],
+    "prevalence": 0.00113,
+    "fingerprinting": 3,
+    "cookies": 0.00113,
+    "sites": 166,
+    "riskScore": 34
+  },
+  "listrak.com": {
+    "company": "Listrak",
+    "ownerName": "Listrak",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Audience Measurement",
+      "Third-Party Analytics Marketing",
+      "Action Pixels"
+    ],
+    "prevalence": 0.0017,
+    "fingerprinting": 1,
+    "cookies": 0,
+    "sites": 249,
+    "riskScore": 52
+  },
+  "listrakbi.com": {
+    "company": "Listrak",
+    "ownerName": "Listrak",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics",
+      "Audience Measurement",
+      "Third-Party Analytics Marketing",
+      "Action Pixels"
+    ],
+    "prevalence": 0.00321,
+    "fingerprinting": 2,
+    "cookies": 0.00308,
+    "sites": 470,
+    "riskScore": 59
+  },
+  "liveperson.net": {
+    "company": "LivePerson",
+    "ownerName": "LivePerson, Inc",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Analytics",
+      "Embedded Content",
+      "Support Chat Widget"
+    ],
+    "prevalence": 0.00217,
+    "fingerprinting": 2,
+    "cookies": 0.002,
+    "sites": 317,
+    "riskScore": 46
+  },
+  "lkqd.net": {
+    "company": "Nexstar Media Group",
+    "ownerName": "Nexstar Media Group",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Audience Measurement",
+      "Third-Party Analytics Marketing"
+    ],
+    "prevalence": 0.00158,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 231,
+    "riskScore": 45
+  },
+  "lockerdome.com": {
+    "company": "LockerDome",
+    "ownerName": "LockerDome, LLC",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising"
+    ],
+    "prevalence": 0.000226,
+    "fingerprinting": 1,
+    "cookies": 0.0000889,
+    "sites": 33,
+    "riskScore": 37
+  },
+  "loopme.me": {
+    "company": "Brightcom",
+    "ownerName": "Online Media Solutions Ltd. dba Brightcom",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics",
+      "Audience Measurement",
+      "Third-Party Analytics Marketing",
+      "Action Pixels"
+    ],
+    "prevalence": 0.0426,
+    "fingerprinting": 2,
+    "cookies": 0.0358,
+    "sites": 6237,
+    "riskScore": 66
+  },
+  "lpsnmedia.net": {
+    "company": "LivePerson",
+    "ownerName": "LivePerson, Inc",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Analytics",
+      "Embedded Content",
+      "Support Chat Widget"
+    ],
+    "prevalence": 0.00201,
+    "fingerprinting": 2,
+    "cookies": 0.000526,
+    "sites": 294,
+    "riskScore": 46
+  },
+  "m6r.eu": {
+    "company": "Ströer Group",
+    "ownerName": "Ströer Group",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics"
+    ],
+    "prevalence": 0.000109,
+    "fingerprinting": 0,
+    "cookies": 0.000082,
+    "sites": 16,
+    "riskScore": 38
+  },
+  "mail.ru": {
+    "company": "VK",
+    "ownerName": "VK Company Ltd.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics",
+      "Social - Share",
+      "Action Pixels",
+      "Embedded Content"
+    ],
+    "prevalence": 0.0024,
+    "fingerprinting": 3,
+    "cookies": 0.00217,
+    "sites": 351,
+    "riskScore": 65
+  },
+  "mailchimp.com": {
+    "company": "Intuit",
+    "ownerName": "Intuit Inc.",
+    "primaryCategory": "Advertising",
+    "categories": [
+      "Advertising",
+      "Third-Party Analytics Marketing",
+      "Embedded Content"
+    ],
+    "prevalence": 0.00574,
+    "fingerprinting": 2,
+    "cookies": 0.00211,
+    "sites": 839,
+    "riskScore": 42
+  },
+  "marinsm.com": {
+    "company": "Sharpspring",
+    "ownerName": "Sharpspring Inc",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics",
+      "Third-Party Analytics Marketing"
+    ],
+    "prevalence": 0.000273,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 40,
+    "riskScore": 45
+  },
+  "marketo.com": {
+    "company": "Adobe",
+    "ownerName": "Adobe Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Third-Party Analytics Marketing",
+      "Embedded Content"
+    ],
+    "prevalence": 0.000957,
+    "fingerprinting": 2,
+    "cookies": 0.000868,
+    "sites": 140,
+    "riskScore": 58
+  },
+  "marketo.net": {
+    "company": "Adobe",
+    "ownerName": "Adobe Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Third-Party Analytics Marketing",
+      "Embedded Content"
+    ],
+    "prevalence": 0.00639,
+    "fingerprinting": 1,
+    "cookies": 0.00543,
+    "sites": 935,
+    "riskScore": 52
+  },
+  "mathtag.com": {
+    "company": "MediaMath",
+    "ownerName": "MediaMath, Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Third-Party Analytics Marketing"
+    ],
+    "prevalence": 0.0192,
+    "fingerprinting": 1,
+    "cookies": 0.0175,
+    "sites": 2804,
+    "riskScore": 50
+  },
+  "maxmind.com": {
+    "company": "MaxMind",
+    "ownerName": "MaxMind Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Ad Fraud",
+      "Analytics",
+      "Audience Measurement"
+    ],
+    "prevalence": 0.000834,
+    "fingerprinting": 3,
+    "cookies": 0.000349,
+    "sites": 122,
+    "riskScore": 63
+  },
+  "maxymiser.net": {
+    "company": "Oracle",
+    "ownerName": "Oracle Corporation",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Third-Party Analytics Marketing"
+    ],
+    "prevalence": 0.00000684,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 1,
+    "riskScore": 40
+  },
+  "media.net": {
+    "company": "Media.net Advertising",
+    "ownerName": "Media.net Advertising FZ-LLC",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising"
+    ],
+    "prevalence": 0.0727,
+    "fingerprinting": 2,
+    "cookies": 0.0696,
+    "sites": 10632,
+    "riskScore": 58
+  },
+  "media6degrees.com": {
+    "company": "Dstillery",
+    "ownerName": "Dstillery Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics",
+      "Audience Measurement"
+    ],
+    "prevalence": 0.0132,
+    "fingerprinting": 0,
+    "cookies": 0.0125,
+    "sites": 1933,
+    "riskScore": 48
+  },
+  "mediabong.net": {
+    "company": "VUble",
+    "ownerName": "VUble",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Third-Party Analytics Marketing"
+    ],
+    "prevalence": 0,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 0,
+    "riskScore": 40
+  },
+  "mediaplex.com": {
+    "company": "Conversant",
+    "ownerName": "Conversant LLC",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Third-Party Analytics Marketing",
+      "Action Pixels"
+    ],
+    "prevalence": 0.00219,
+    "fingerprinting": 0,
+    "cookies": 0.00191,
+    "sites": 320,
+    "riskScore": 45
+  },
+  "mediarithmics.com": {
+    "company": "mediarithmics",
+    "ownerName": "mediarithmics SAS",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Ad Fraud",
+      "Analytics",
+      "Third-Party Analytics Marketing",
+      "Embedded Content"
+    ],
+    "prevalence": 0.00242,
+    "fingerprinting": 1,
+    "cookies": 0.00218,
+    "sites": 354,
+    "riskScore": 52
+  },
+  "mediavine.com": {
+    "company": "Mediavine",
+    "ownerName": "Mediavine, Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Audience Measurement"
+    ],
+    "prevalence": 0.0259,
+    "fingerprinting": 2,
+    "cookies": 0.0253,
+    "sites": 3784,
+    "riskScore": 55
+  },
+  "mediawallahscript.com": {
+    "company": "MediaWallah",
+    "ownerName": "MediaWallah LLC",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Audience Measurement",
+      "Third-Party Analytics Marketing"
+    ],
+    "prevalence": 0.000383,
+    "fingerprinting": 0,
+    "cookies": 0.000383,
+    "sites": 56,
+    "riskScore": 33
+  },
+  "meetrics.net": {
+    "company": "DoubleVerify",
+    "ownerName": "DoubleVerify",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Ad Fraud",
+      "Analytics",
+      "Audience Measurement"
+    ],
+    "prevalence": 0,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 0,
+    "riskScore": 45
+  },
+  "mercadolibre.com": {
+    "company": "MercadoLibre",
+    "ownerName": "MercadoLibre Inc.",
+    "primaryCategory": "Analytics",
+    "categories": [
+      "Analytics"
+    ],
+    "prevalence": 0,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 0,
+    "riskScore": 8
+  },
+  "mercadopago.com": {
+    "company": "MercadoLibre",
+    "ownerName": "MercadoLibre Inc.",
+    "primaryCategory": "Analytics",
+    "categories": [
+      "Analytics",
+      "Online Payment",
+      "Embedded Content"
+    ],
+    "prevalence": 0.0000205,
+    "fingerprinting": 3,
+    "cookies": 0.0000205,
+    "sites": 3,
+    "riskScore": 36
+  },
+  "mfadsrvr.com": {
+    "company": "IPONWEB",
+    "ownerName": "IPONWEB GmbH",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Ad Fraud"
+    ],
+    "prevalence": 0.0398,
+    "fingerprinting": 1,
+    "cookies": 0.0361,
+    "sites": 5821,
+    "riskScore": 56
+  },
+  "mgid.com": {
+    "company": "MGID",
+    "ownerName": "MGID Inc",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Ad Fraud",
+      "Analytics",
+      "Audience Measurement",
+      "Third-Party Analytics Marketing"
+    ],
+    "prevalence": 0.00898,
+    "fingerprinting": 3,
+    "cookies": 0.00217,
+    "sites": 1314,
+    "riskScore": 66
+  },
+  "micpn.com": {
+    "company": "Movable Ink",
+    "ownerName": "Movable Ink",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Audience Measurement"
+    ],
+    "prevalence": 0.00211,
+    "fingerprinting": 1,
+    "cookies": 0.000978,
+    "sites": 308,
+    "riskScore": 44
+  },
+  "microad.jp": {
+    "company": "MicroAd",
+    "ownerName": "MicroAd, Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising"
+    ],
+    "prevalence": 0.0019,
+    "fingerprinting": 1,
+    "cookies": 0.0018,
+    "sites": 278,
+    "riskScore": 37
+  },
+  "microsoft.com": {
+    "company": "Microsoft",
+    "ownerName": "Microsoft Corporation",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics",
+      "CDN"
+    ],
+    "prevalence": 0.0053,
+    "fingerprinting": 1,
+    "cookies": 0.00026,
+    "sites": 776,
+    "riskScore": 49
+  },
+  "mixpanel.com": {
+    "company": "Mixpanel",
+    "ownerName": "Mixpanel, Inc.",
+    "primaryCategory": "Analytics",
+    "categories": [
+      "Analytics",
+      "Audience Measurement",
+      "Third-Party Analytics Marketing",
+      "Action Pixels",
+      "Session Replay"
+    ],
+    "prevalence": 0.00328,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 480,
+    "riskScore": 45
+  },
+  "mktoresp.com": {
+    "company": "Adobe",
+    "ownerName": "Adobe Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Third-Party Analytics Marketing",
+      "Embedded Content"
+    ],
+    "prevalence": 0.00593,
+    "fingerprinting": 0,
+    "cookies": 0.000205,
+    "sites": 867,
+    "riskScore": 45
+  },
+  "ml314.com": {
+    "company": "Bombora",
+    "ownerName": "Bombora Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics",
+      "Audience Measurement",
+      "Action Pixels",
+      "Session Replay"
+    ],
+    "prevalence": 0.0291,
+    "fingerprinting": 1,
+    "cookies": 0.0268,
+    "sites": 4260,
+    "riskScore": 57
+  },
+  "moatads.com": {
+    "company": "Oracle",
+    "ownerName": "Oracle Corporation",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Ad Fraud",
+      "Analytics",
+      "Audience Measurement",
+      "Third-Party Analytics Marketing",
+      "Action Pixels"
+    ],
+    "prevalence": 0.00116,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 169,
+    "riskScore": 45
+  },
+  "mobileadtrading.com": {
+    "company": "Somo Audience",
+    "ownerName": "Somo Audience Corp",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Ad Fraud"
+    ],
+    "prevalence": 0,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 0,
+    "riskScore": 42
+  },
+  "monetate.net": {
+    "company": "Monetate",
+    "ownerName": "Monetate, Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics",
+      "Audience Measurement",
+      "Third-Party Analytics Marketing",
+      "Action Pixels",
+      "Embedded Content"
+    ],
+    "prevalence": 0.00196,
+    "fingerprinting": 2,
+    "cookies": 0.00158,
+    "sites": 286,
+    "riskScore": 59
+  },
+  "mookie1.com": {
+    "company": "WPP",
+    "ownerName": "WPP plc",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics",
+      "Audience Measurement",
+      "Third-Party Analytics Marketing",
+      "Action Pixels"
+    ],
+    "prevalence": 0.00622,
+    "fingerprinting": 1,
+    "cookies": 0.00555,
+    "sites": 910,
+    "riskScore": 53
+  },
+  "mouseflow.com": {
+    "company": "Mouseflow",
+    "ownerName": "Mouseflow",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Analytics",
+      "Third-Party Analytics Marketing",
+      "Action Pixels",
+      "Session Replay"
+    ],
+    "prevalence": 0.00362,
+    "fingerprinting": 2,
+    "cookies": 0.000875,
+    "sites": 530,
+    "riskScore": 59
+  },
+  "mrpdata.net": {
+    "company": "First Derivatives",
+    "ownerName": "First Derivatives plc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Audience Measurement"
+    ],
+    "prevalence": 0,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 0,
+    "riskScore": 23
+  },
+  "msecnd.net": {
+    "company": "Microsoft",
+    "ownerName": "Microsoft Corporation",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Analytics",
+      "CDN"
+    ],
+    "prevalence": 0.00261,
+    "fingerprinting": 1,
+    "cookies": 0.00173,
+    "sites": 382,
+    "riskScore": 35
+  },
+  "mxcdn.net": {
+    "company": "DoubleVerify",
+    "ownerName": "DoubleVerify",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Ad Fraud",
+      "Analytics",
+      "Audience Measurement"
+    ],
+    "prevalence": 0,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 0,
+    "riskScore": 45
+  },
+  "mxpnl.com": {
+    "company": "Mixpanel",
+    "ownerName": "Mixpanel, Inc.",
+    "primaryCategory": "Analytics",
+    "categories": [
+      "Analytics",
+      "Audience Measurement",
+      "Third-Party Analytics Marketing",
+      "Action Pixels",
+      "Session Replay"
+    ],
+    "prevalence": 0.00343,
+    "fingerprinting": 2,
+    "cookies": 0.00297,
+    "sites": 502,
+    "riskScore": 59
+  },
+  "mxptint.net": {
+    "company": "Valassis Digital",
+    "ownerName": "Valassis Digital",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics",
+      "Audience Measurement"
+    ],
+    "prevalence": 0.00582,
+    "fingerprinting": 1,
+    "cookies": 0.00547,
+    "sites": 851,
+    "riskScore": 53
+  },
+  "mynativeplatform.com": {
+    "company": "My6sense",
+    "ownerName": "My6sense Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics"
+    ],
+    "prevalence": 0,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 0,
+    "riskScore": 38
+  },
+  "myshopify.com": {
+    "company": "Shopify",
+    "ownerName": "Shopify Inc.",
+    "primaryCategory": "Analytics",
+    "categories": [
+      "Analytics"
+    ],
+    "prevalence": 0,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 0,
+    "riskScore": 8
+  },
+  "myvisualiq.net": {
+    "company": "The Nielsen Company",
+    "ownerName": "The Nielsen Company",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Audience Measurement"
+    ],
+    "prevalence": 0,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 0,
+    "riskScore": 37
+  },
+  "nativeads.com": {
+    "company": "Native Ads",
+    "ownerName": "Native Ads Inc",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising"
+    ],
+    "prevalence": 0,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 0,
+    "riskScore": 30
+  },
+  "navdmp.com": {
+    "company": "Navegg",
+    "ownerName": "Navegg S.A.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics",
+      "Audience Measurement"
+    ],
+    "prevalence": 0.00039,
+    "fingerprinting": 1,
+    "cookies": 0.000198,
+    "sites": 57,
+    "riskScore": 52
+  },
+  "netmng.com": {
+    "company": "IgnitionOne",
+    "ownerName": "IgnitionOne, LLC",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics",
+      "Audience Measurement",
+      "Action Pixels"
+    ],
+    "prevalence": 0.0000752,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 11,
+    "riskScore": 45
+  },
+  "netseer.com": {
+    "company": "Inuvo",
+    "ownerName": "Inuvo",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics",
+      "Audience Measurement"
+    ],
+    "prevalence": 0,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 0,
+    "riskScore": 45
+  },
+  "newrelic.com": {
+    "company": "New Relic",
+    "ownerName": "New Relic",
+    "primaryCategory": "Analytics",
+    "categories": [
+      "Analytics"
+    ],
+    "prevalence": 0.0253,
+    "fingerprinting": 2,
+    "cookies": 0.00000684,
+    "sites": 3704,
+    "riskScore": 24
+  },
+  "ninthdecimal.com": {
+    "company": "NinthDecimal",
+    "ownerName": "NinthDecimal, Inc",
+    "primaryCategory": "Analytics",
+    "categories": [
+      "Analytics",
+      "Audience Measurement"
+    ],
+    "prevalence": 0.00159,
+    "fingerprinting": 0,
+    "cookies": 0.00152,
+    "sites": 232,
+    "riskScore": 15
+  },
+  "npttech.com": {
+    "company": "Piano Software",
+    "ownerName": "Piano Software",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics",
+      "Audience Measurement",
+      "SSO",
+      "Third-Party Analytics Marketing",
+      "Embedded Content"
+    ],
+    "prevalence": 0.00249,
+    "fingerprinting": 1,
+    "cookies": 0.00193,
+    "sites": 364,
+    "riskScore": 52
+  },
+  "nr-data.net": {
+    "company": "New Relic",
+    "ownerName": "New Relic",
+    "primaryCategory": "Analytics",
+    "categories": [
+      "Analytics"
+    ],
+    "prevalence": 0.0253,
+    "fingerprinting": 0,
+    "cookies": 0.00152,
+    "sites": 3706,
+    "riskScore": 11
+  },
+  "ntv.io": {
+    "company": "Nativo",
+    "ownerName": "Nativo, Inc",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics"
+    ],
+    "prevalence": 0.0034,
+    "fingerprinting": 2,
+    "cookies": 0.00175,
+    "sites": 497,
+    "riskScore": 52
+  },
+  "nuggad.net": {
+    "company": "nugg.ad",
+    "ownerName": "nugg.ad GmbH",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Audience Measurement",
+      "Third-Party Analytics Marketing"
+    ],
+    "prevalence": 0,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 0,
+    "riskScore": 45
+  },
+  "o333o.com": {
+    "company": "AdSpyglass",
+    "ownerName": "AdSpyglass",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising"
+    ],
+    "prevalence": 0.0000342,
+    "fingerprinting": 3,
+    "cookies": 0.0000273,
+    "sites": 5,
+    "riskScore": 50
+  },
+  "olark.com": {
+    "company": "Olark",
+    "ownerName": "Olark",
+    "primaryCategory": "Third-Party Analytics Marketing",
+    "categories": [
+      "Third-Party Analytics Marketing",
+      "Embedded Content"
+    ],
+    "prevalence": 0.000896,
+    "fingerprinting": 2,
+    "cookies": 0.000807,
+    "sites": 131,
+    "riskScore": 28
+  },
+  "omnitagjs.com": {
+    "company": "Adyoulike",
+    "ownerName": "Adyoulike",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising"
+    ],
+    "prevalence": 0.0235,
+    "fingerprinting": 1,
+    "cookies": 0.022,
+    "sites": 3434,
+    "riskScore": 41
+  },
+  "omtrdc.net": {
+    "company": "Adobe",
+    "ownerName": "Adobe Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics",
+      "Audience Measurement",
+      "Third-Party Analytics Marketing"
+    ],
+    "prevalence": 0.0188,
+    "fingerprinting": 1,
+    "cookies": 0.0085,
+    "sites": 2751,
+    "riskScore": 54
+  },
+  "onesignal.com": {
+    "company": "OneSignal",
+    "ownerName": "OneSignal",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Analytics",
+      "Third-Party Analytics Marketing",
+      "Embedded Content"
+    ],
+    "prevalence": 0.00901,
+    "fingerprinting": 2,
+    "cookies": 0.00896,
+    "sites": 1318,
+    "riskScore": 53
+  },
+  "onthe.io": {
+    "company": "IO",
+    "ownerName": "IO Technologies Inc.",
+    "primaryCategory": "Analytics",
+    "categories": [
+      "Analytics",
+      "Audience Measurement",
+      "Third-Party Analytics Marketing"
+    ],
+    "prevalence": 0.000561,
+    "fingerprinting": 1,
+    "cookies": 0.000458,
+    "sites": 82,
+    "riskScore": 32
+  },
+  "openx.net": {
+    "company": "OpenX",
+    "ownerName": "OpenX Technologies Inc",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Ad Fraud",
+      "Audience Measurement"
+    ],
+    "prevalence": 0.117,
+    "fingerprinting": 0,
+    "cookies": 0.109,
+    "sites": 17073,
+    "riskScore": 68
+  },
+  "opmnstr.com": {
+    "company": "Retyp",
+    "ownerName": "Retyp LLC",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics",
+      "Third-Party Analytics Marketing",
+      "Action Pixels",
+      "Embedded Content"
+    ],
+    "prevalence": 0.000369,
+    "fingerprinting": 2,
+    "cookies": 0.000308,
+    "sites": 54,
+    "riskScore": 58
+  },
+  "optimizely.com": {
+    "company": "Optimizely",
+    "ownerName": "Optimizely, Inc.",
+    "primaryCategory": "Analytics",
+    "categories": [
+      "Analytics",
+      "Audience Measurement",
+      "Third-Party Analytics Marketing",
+      "Action Pixels"
+    ],
+    "prevalence": 0.00995,
+    "fingerprinting": 1,
+    "cookies": 0.00762,
+    "sites": 1456,
+    "riskScore": 45
+  },
+  "optmnstr.com": {
+    "company": "Retyp",
+    "ownerName": "Retyp LLC",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics",
+      "Third-Party Analytics Marketing",
+      "Action Pixels",
+      "Embedded Content"
+    ],
+    "prevalence": 0.000239,
+    "fingerprinting": 2,
+    "cookies": 0.000185,
+    "sites": 35,
+    "riskScore": 58
+  },
+  "outbrain.com": {
+    "company": "Outbrain",
+    "ownerName": "Outbrain",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Third-Party Analytics Marketing"
+    ],
+    "prevalence": 0.0595,
+    "fingerprinting": 2,
+    "cookies": 0.0558,
+    "sites": 8697,
+    "riskScore": 65
+  },
+  "owneriq.net": {
+    "company": "Inmar",
+    "ownerName": "Inmar, Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Ad Fraud",
+      "Audience Measurement"
+    ],
+    "prevalence": 0.00133,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 194,
+    "riskScore": 45
+  },
+  "pagefair.com": {
+    "company": "Blockthrough",
+    "ownerName": "Blockthrough Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising"
+    ],
+    "prevalence": 0.0000547,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 8,
+    "riskScore": 30
+  },
+  "pardot.com": {
+    "company": "Salesforce.com",
+    "ownerName": "Salesforce.com, Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics",
+      "Embedded Content"
+    ],
+    "prevalence": 0.00269,
+    "fingerprinting": 1,
+    "cookies": 0.00254,
+    "sites": 394,
+    "riskScore": 49
+  },
+  "parsely.com": {
+    "company": "Parsely",
+    "ownerName": "Parsely, Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Analytics",
+      "Audience Measurement",
+      "Third-Party Analytics Marketing",
+      "Action Pixels"
+    ],
+    "prevalence": 0.0121,
+    "fingerprinting": 2,
+    "cookies": 0.0074,
+    "sites": 1774,
+    "riskScore": 60
+  },
+  "payments-amazon.com": {
+    "company": "Amazon.com",
+    "ownerName": "Amazon Technologies, Inc.",
+    "primaryCategory": "Analytics",
+    "categories": [
+      "Analytics",
+      "Audience Measurement",
+      "Federated Login",
+      "Online Payment",
+      "Badge",
+      "Embedded Content"
+    ],
+    "prevalence": 0.000629,
+    "fingerprinting": 2,
+    "cookies": 0.000376,
+    "sites": 92,
+    "riskScore": 45
+  },
+  "paypal.com": {
+    "company": "PayPal",
+    "ownerName": "PayPal, Inc.",
+    "primaryCategory": "Analytics",
+    "categories": [
+      "Analytics",
+      "Audience Measurement",
+      "SSO",
+      "Online Payment",
+      "Badge",
+      "Embedded Content"
+    ],
+    "prevalence": 0.00771,
+    "fingerprinting": 3,
+    "cookies": 0.00348,
+    "sites": 1128,
+    "riskScore": 53
+  },
+  "paypalobjects.com": {
+    "company": "PayPal",
+    "ownerName": "PayPal, Inc.",
+    "primaryCategory": "Analytics",
+    "categories": [
+      "Analytics",
+      "Audience Measurement",
+      "Federated Login",
+      "Online Payment",
+      "CDN",
+      "Badge",
+      "Embedded Content"
+    ],
+    "prevalence": 0.0056,
+    "fingerprinting": 3,
+    "cookies": 0.000178,
+    "sites": 819,
+    "riskScore": 57
+  },
+  "perfectmarket.com": {
+    "company": "Perfect Market",
+    "ownerName": "Perfect Market, Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics",
+      "Audience Measurement",
+      "Third-Party Analytics Marketing",
+      "Session Replay"
+    ],
+    "prevalence": 0,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 0,
+    "riskScore": 45
+  },
+  "permutive.com": {
+    "company": "Permutive",
+    "ownerName": "Permutive, Inc.",
+    "primaryCategory": "Analytics",
+    "categories": [
+      "Analytics",
+      "Audience Measurement",
+      "Third-Party Analytics Marketing",
+      "Session Replay"
+    ],
+    "prevalence": 0.0068,
+    "fingerprinting": 1,
+    "cookies": 0.00228,
+    "sites": 994,
+    "riskScore": 51
+  },
+  "pingdom.net": {
+    "company": "Pingdom",
+    "ownerName": "Pingdom AB",
+    "primaryCategory": "Analytics",
+    "categories": [
+      "Analytics",
+      "Audience Measurement",
+      "Action Pixels"
+    ],
+    "prevalence": 0.00333,
+    "fingerprinting": 3,
+    "cookies": 0,
+    "sites": 487,
+    "riskScore": 47
+  },
+  "pinimg.com": {
+    "company": "Pinterest",
+    "ownerName": "Pinterest, Inc.",
+    "primaryCategory": "Social - Share",
+    "categories": [
+      "Social - Share",
+      "CDN",
+      "Embedded Content"
+    ],
+    "prevalence": 0.0306,
+    "fingerprinting": 2,
+    "cookies": 0.0248,
+    "sites": 4473,
+    "riskScore": 33
+  },
+  "pinterest.com": {
+    "company": "Pinterest",
+    "ownerName": "Pinterest, Inc.",
+    "primaryCategory": "Social - Share",
+    "categories": [
+      "Social - Share",
+      "CDN",
+      "Embedded Content"
+    ],
+    "prevalence": 0.0489,
+    "fingerprinting": 1,
+    "cookies": 0.0375,
+    "sites": 7158,
+    "riskScore": 29
+  },
+  "pippio.com": {
+    "company": "LiveRamp",
+    "ownerName": "LiveRamp Holdings, Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising"
+    ],
+    "prevalence": 0.0613,
+    "fingerprinting": 0,
+    "cookies": 0.0596,
+    "sites": 8962,
+    "riskScore": 42
+  },
+  "playground.xyz": {
+    "company": "PLAYGROUND XYZ",
+    "ownerName": "PLAYGROUND XYZ",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics",
+      "Third-Party Analytics Marketing"
+    ],
+    "prevalence": 0.0000479,
+    "fingerprinting": 0,
+    "cookies": 0.0000479,
+    "sites": 7,
+    "riskScore": 45
+  },
+  "po.st": {
+    "company": "RhythmOne",
+    "ownerName": "RhythmOne",
+    "primaryCategory": "Analytics",
+    "categories": [
+      "Analytics",
+      "Audience Measurement",
+      "Third-Party Analytics Marketing",
+      "Social - Comment",
+      "Social - Share",
+      "Badge",
+      "Embedded Content"
+    ],
+    "prevalence": 0.0000547,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 8,
+    "riskScore": 45
+  },
+  "popads.net": {
+    "company": "Tomksoft",
+    "ownerName": "Tomksoft S.A.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Ad Fraud",
+      "Analytics",
+      "Third-Party Analytics Marketing"
+    ],
+    "prevalence": 0,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 0,
+    "riskScore": 45
+  },
+  "postrelease.com": {
+    "company": "Nativo",
+    "ownerName": "Nativo, Inc",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Third-Party Analytics Marketing"
+    ],
+    "prevalence": 0.0509,
+    "fingerprinting": 1,
+    "cookies": 0.0354,
+    "sites": 7449,
+    "riskScore": 55
+  },
+  "powerlinks.com": {
+    "company": "PowerLinks Media",
+    "ownerName": "PowerLinks Media Limited",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Ad Fraud",
+      "Analytics",
+      "Audience Measurement"
+    ],
+    "prevalence": 0,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 0,
+    "riskScore": 45
+  },
+  "pro-market.net": {
+    "company": "Almondnet Group",
+    "ownerName": "Almondnet Group",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Audience Measurement"
+    ],
+    "prevalence": 0.0112,
+    "fingerprinting": 1,
+    "cookies": 0.0108,
+    "sites": 1641,
+    "riskScore": 46
+  },
+  "promo-bc.com": {
+    "company": "BongaCams",
+    "ownerName": "BongaCams",
+    "primaryCategory": "Advertising",
+    "categories": [
+      "Advertising"
+    ],
+    "prevalence": 0,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 0,
+    "riskScore": 14
+  },
+  "pswec.com": {
+    "company": "Proclivity Media",
+    "ownerName": "Proclivity Media, Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics",
+      "Audience Measurement"
+    ],
+    "prevalence": 0,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 0,
+    "riskScore": 45
+  },
+  "pubmatic.com": {
+    "company": "PubMatic",
+    "ownerName": "PubMatic, Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Ad Fraud",
+      "Analytics",
+      "Audience Measurement",
+      "Third-Party Analytics Marketing"
+    ],
+    "prevalence": 0.129,
+    "fingerprinting": 2,
+    "cookies": 0.109,
+    "sites": 18814,
+    "riskScore": 82
+  },
+  "pubnation.com": {
+    "company": "OpenX",
+    "ownerName": "OpenX Technologies Inc",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Ad Fraud",
+      "Analytics",
+      "Audience Measurement",
+      "Third-Party Analytics Marketing"
+    ],
+    "prevalence": 0.0145,
+    "fingerprinting": 2,
+    "cookies": 0.012,
+    "sites": 2126,
+    "riskScore": 61
+  },
+  "pushcrew.com": {
+    "company": "Wingify",
+    "ownerName": "Wingify",
+    "primaryCategory": "Advertising",
+    "categories": [
+      "Advertising",
+      "Analytics",
+      "Audience Measurement",
+      "Third-Party Analytics Marketing"
+    ],
+    "prevalence": 0.000082,
+    "fingerprinting": 2,
+    "cookies": 0.000082,
+    "sites": 12,
+    "riskScore": 52
+  },
+  "qualaroo.com": {
+    "company": "Qualaroo",
+    "ownerName": "Qualaroo",
+    "primaryCategory": "Analytics",
+    "categories": [
+      "Analytics",
+      "Audience Measurement",
+      "Third-Party Analytics Marketing",
+      "Session Replay",
+      "Embedded Content"
+    ],
+    "prevalence": 0.000731,
+    "fingerprinting": 2,
+    "cookies": 0.00039,
+    "sites": 107,
+    "riskScore": 58
+  },
+  "qualtrics.com": {
+    "company": "Silver Lake",
+    "ownerName": "Silver Lake Technology Management, L.L.C.",
+    "primaryCategory": "Analytics",
+    "categories": [
+      "Analytics",
+      "Audience Measurement",
+      "Third-Party Analytics Marketing",
+      "Session Replay",
+      "Embedded Content"
+    ],
+    "prevalence": 0.00994,
+    "fingerprinting": 2,
+    "cookies": 0.00604,
+    "sites": 1454,
+    "riskScore": 60
+  },
+  "quantserve.com": {
+    "company": "Quantcast",
+    "ownerName": "Quantcast Corporation",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics",
+      "Audience Measurement",
+      "Third-Party Analytics Marketing"
+    ],
+    "prevalence": 0.0479,
+    "fingerprinting": 1,
+    "cookies": 0.0436,
+    "sites": 7007,
+    "riskScore": 61
+  },
+  "quora.com": {
+    "company": "Quora",
+    "ownerName": "Quora",
+    "primaryCategory": "Advertising",
+    "categories": [
+      "Advertising",
+      "Analytics",
+      "Social - Comment",
+      "Social - Share",
+      "Social Network",
+      "Embedded Content"
+    ],
+    "prevalence": 0.0027,
+    "fingerprinting": 1,
+    "cookies": 0,
+    "sites": 395,
+    "riskScore": 52
+  },
+  "rackcdn.com": {
+    "company": "Rackspace US",
+    "ownerName": "Rackspace US, Inc.",
+    "primaryCategory": "Analytics",
+    "categories": [
+      "Analytics",
+      "CDN"
+    ],
+    "prevalence": 0.00133,
+    "fingerprinting": 2,
+    "cookies": 0.000362,
+    "sites": 195,
+    "riskScore": 26
+  },
+  "rambler.ru": {
+    "company": "Rambler Internet Holding",
+    "ownerName": "Rambler Internet Holding, LLC",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics",
+      "Third-Party Analytics Marketing"
+    ],
+    "prevalence": 0.00104,
+    "fingerprinting": 2,
+    "cookies": 0.000998,
+    "sites": 152,
+    "riskScore": 59
+  },
+  "ravenjs.com": {
+    "company": "Functional Software",
+    "ownerName": "Functional Software, Inc.",
+    "primaryCategory": "Analytics",
+    "categories": [
+      "Analytics"
+    ],
+    "prevalence": 0.000287,
+    "fingerprinting": 1,
+    "cookies": 0,
+    "sites": 42,
+    "riskScore": 15
+  },
+  "realsrv.com": {
+    "company": "ExoClick",
+    "ownerName": "ExoClick, S.L.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics",
+      "Third-Party Analytics Marketing"
+    ],
+    "prevalence": 0.00206,
+    "fingerprinting": 2,
+    "cookies": 0.00174,
+    "sites": 301,
+    "riskScore": 59
+  },
+  "realvu.net": {
+    "company": "RealVu",
+    "ownerName": "RealVu Inc",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Ad Fraud",
+      "Analytics"
+    ],
+    "prevalence": 0.00013,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 19,
+    "riskScore": 45
+  },
+  "reddit.com": {
+    "company": "Reddit",
+    "ownerName": "Reddit Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics",
+      "Audience Measurement",
+      "Third-Party Analytics Marketing",
+      "Social - Comment",
+      "Social - Share",
+      "Social Network",
+      "Badge",
+      "Embedded Content"
+    ],
+    "prevalence": 0.0294,
+    "fingerprinting": 1,
+    "cookies": 0.000396,
+    "sites": 4304,
+    "riskScore": 55
+  },
+  "redditstatic.com": {
+    "company": "Reddit",
+    "ownerName": "Reddit Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Analytics",
+      "Action Pixels"
+    ],
+    "prevalence": 0.0293,
+    "fingerprinting": 2,
+    "cookies": 0.0244,
+    "sites": 4289,
+    "riskScore": 55
+  },
+  "reson8.com": {
+    "company": "Resonate Networks",
+    "ownerName": "Resonate Networks",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Ad Fraud",
+      "Analytics",
+      "Third-Party Analytics Marketing"
+    ],
+    "prevalence": 0.00241,
+    "fingerprinting": 0,
+    "cookies": 0.00241,
+    "sites": 353,
+    "riskScore": 45
+  },
+  "revcontent.com": {
+    "company": "RevContent",
+    "ownerName": "RevContent, LLC",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics",
+      "Audience Measurement",
+      "Third-Party Analytics Marketing"
+    ],
+    "prevalence": 0.00405,
+    "fingerprinting": 2,
+    "cookies": 0.00368,
+    "sites": 592,
+    "riskScore": 59
+  },
+  "revjet.com": {
+    "company": "RevJet",
+    "ownerName": "RevJet",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Ad Fraud",
+      "Analytics",
+      "Audience Measurement",
+      "Third-Party Analytics Marketing"
+    ],
+    "prevalence": 0.000109,
+    "fingerprinting": 1,
+    "cookies": 0.0000957,
+    "sites": 16,
+    "riskScore": 52
+  },
+  "rezync.com": {
+    "company": "Zeta Global",
+    "ownerName": "Zeta Global",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking"
+    ],
+    "prevalence": 0.0291,
+    "fingerprinting": 1,
+    "cookies": 0.0282,
+    "sites": 4258,
+    "riskScore": 28
+  },
+  "rfihub.com": {
+    "company": "Zeta Global",
+    "ownerName": "Zeta Global",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Third-Party Analytics Marketing"
+    ],
+    "prevalence": 0.0468,
+    "fingerprinting": 1,
+    "cookies": 0.0441,
+    "sites": 6843,
+    "riskScore": 56
+  },
+  "rfihub.net": {
+    "company": "Zeta Global",
+    "ownerName": "Zeta Global",
+    "primaryCategory": "Advertising",
+    "categories": [
+      "Advertising",
+      "Ad Fraud",
+      "Social - Comment",
+      "Social Network"
+    ],
+    "prevalence": 0.00245,
+    "fingerprinting": 1,
+    "cookies": 0,
+    "sites": 359,
+    "riskScore": 47
+  },
+  "rkdms.com": {
+    "company": "Merkle",
+    "ownerName": "Merkle Inc",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics",
+      "Third-Party Analytics Marketing"
+    ],
+    "prevalence": 0.0269,
+    "fingerprinting": 2,
+    "cookies": 0.0262,
+    "sites": 3940,
+    "riskScore": 64
+  },
+  "rlcdn.com": {
+    "company": "LiveRamp",
+    "ownerName": "LiveRamp Holdings, Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Ad Fraud",
+      "Analytics",
+      "Third-Party Analytics Marketing"
+    ],
+    "prevalence": 0.137,
+    "fingerprinting": 1,
+    "cookies": 0.0935,
+    "sites": 20110,
+    "riskScore": 75
+  },
+  "rmtag.com": {
+    "company": "Rakuten",
+    "ownerName": "Rakuten, Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics",
+      "Third-Party Analytics Marketing"
+    ],
+    "prevalence": 0.000629,
+    "fingerprinting": 2,
+    "cookies": 0.000369,
+    "sites": 92,
+    "riskScore": 58
+  },
+  "rqtrk.eu": {
+    "company": "Roq.ad",
+    "ownerName": "Roq.ad",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising"
+    ],
+    "prevalence": 0.0165,
+    "fingerprinting": 1,
+    "cookies": 0.0146,
+    "sites": 2416,
+    "riskScore": 40
+  },
+  "rtmark.net": {
+    "company": "Propeller Ads",
+    "ownerName": "Propeller Ads",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Ad Fraud"
+    ],
+    "prevalence": 0.00116,
+    "fingerprinting": 0,
+    "cookies": 0.00114,
+    "sites": 169,
+    "riskScore": 42
+  },
+  "ru4.com": {
+    "company": "Zeta Global",
+    "ownerName": "Zeta Global",
+    "primaryCategory": "Advertising",
+    "categories": [
+      "Advertising",
+      "Analytics"
+    ],
+    "prevalence": 0.0000205,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 3,
+    "riskScore": 22
+  },
+  "rubiconproject.com": {
+    "company": "Magnite",
+    "ownerName": "Magnite, Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising"
+    ],
+    "prevalence": 0.139,
+    "fingerprinting": 2,
+    "cookies": 0.134,
+    "sites": 20390,
+    "riskScore": 71
+  },
+  "rundsp.com": {
+    "company": "RUN",
+    "ownerName": "RUN",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics"
+    ],
+    "prevalence": 0.000178,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 26,
+    "riskScore": 38
+  },
+  "rutarget.ru": {
+    "company": "RuTarget",
+    "ownerName": "RuTarget LLC",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Audience Measurement",
+      "Third-Party Analytics Marketing"
+    ],
+    "prevalence": 0.00116,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 169,
+    "riskScore": 33
+  },
+  "s-onetag.com": {
+    "company": "Sovrn Holdings",
+    "ownerName": "Sovrn Holdings",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising"
+    ],
+    "prevalence": 0.00112,
+    "fingerprinting": 1,
+    "cookies": 0,
+    "sites": 164,
+    "riskScore": 37
+  },
+  "s3xified.com": {
+    "company": "AdMedia",
+    "ownerName": "AdMedia",
+    "primaryCategory": "Unknown High Risk Behavior",
+    "categories": [
+      "Unknown High Risk Behavior",
+      "Obscure Ownership"
+    ],
+    "prevalence": 0,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 0,
+    "riskScore": 29
+  },
+  "sail-horizon.com": {
+    "company": "CM Group",
+    "ownerName": "CM Group",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics",
+      "Third-Party Analytics Marketing",
+      "Embedded Content"
+    ],
+    "prevalence": 0.00442,
+    "fingerprinting": 1,
+    "cookies": 0.00356,
+    "sites": 647,
+    "riskScore": 52
+  },
+  "samplicio.us": {
+    "company": "Lucid Holdings",
+    "ownerName": "Lucid Holdings, LLC",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Audience Measurement",
+      "Third-Party Analytics Marketing",
+      "Action Pixels"
+    ],
+    "prevalence": 0.00176,
+    "fingerprinting": 0,
+    "cookies": 0.000479,
+    "sites": 257,
+    "riskScore": 45
+  },
+  "sascdn.com": {
+    "company": "Smartadserver",
+    "ownerName": "Smartadserver S.A.S",
+    "primaryCategory": "Advertising",
+    "categories": [
+      "Advertising"
+    ],
+    "prevalence": 0.00224,
+    "fingerprinting": 1,
+    "cookies": 0.00000684,
+    "sites": 327,
+    "riskScore": 21
+  },
+  "sc-static.net": {
+    "company": "Snap",
+    "ownerName": "Snap Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics",
+      "Action Pixels",
+      "Embedded Content"
+    ],
+    "prevalence": 0.0173,
+    "fingerprinting": 2,
+    "cookies": 0.0172,
+    "sites": 2530,
+    "riskScore": 62
+  },
+  "scarabresearch.com": {
+    "company": "SAP",
+    "ownerName": "SAP SE",
+    "primaryCategory": "Advertising",
+    "categories": [
+      "Advertising",
+      "Analytics"
+    ],
+    "prevalence": 0.00179,
+    "fingerprinting": 2,
+    "cookies": 0.00135,
+    "sites": 262,
+    "riskScore": 36
+  },
+  "scene7.com": {
+    "company": "Adobe",
+    "ownerName": "Adobe Inc.",
+    "primaryCategory": "Advertising",
+    "categories": [
+      "Advertising",
+      "CDN"
+    ],
+    "prevalence": 0.00365,
+    "fingerprinting": 2,
+    "cookies": 0,
+    "sites": 534,
+    "riskScore": 32
+  },
+  "scorecardresearch.com": {
+    "company": "comScore",
+    "ownerName": "comScore, Inc",
+    "primaryCategory": "Analytics",
+    "categories": [
+      "Analytics",
+      "Audience Measurement"
+    ],
+    "prevalence": 0.0656,
+    "fingerprinting": 1,
+    "cookies": 0.0617,
+    "sites": 9589,
+    "riskScore": 34
+  },
+  "securedvisit.com": {
+    "company": "4Cite Marketing",
+    "ownerName": "4Cite Marketing",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising"
+    ],
+    "prevalence": 0.00289,
+    "fingerprinting": 2,
+    "cookies": 0.00131,
+    "sites": 423,
+    "riskScore": 44
+  },
+  "secureserver.net": {
+    "company": "GoDaddy",
+    "ownerName": "GoDaddy Inc.",
+    "primaryCategory": "SSO",
+    "categories": [
+      "SSO"
+    ],
+    "prevalence": 0.00135,
+    "fingerprinting": 0,
+    "cookies": 0.00000684,
+    "sites": 197,
+    "riskScore": 5
+  },
+  "segment.com": {
+    "company": "Segment.io",
+    "ownerName": "Segment.io, Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics",
+      "Third-Party Analytics Marketing",
+      "Action Pixels"
+    ],
+    "prevalence": 0.00935,
+    "fingerprinting": 2,
+    "cookies": 0.00673,
+    "sites": 1368,
+    "riskScore": 60
+  },
+  "segment.io": {
+    "company": "Segment.io",
+    "ownerName": "Segment.io, Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics",
+      "Third-Party Analytics Marketing",
+      "Action Pixels"
+    ],
+    "prevalence": 0.00628,
+    "fingerprinting": 1,
+    "cookies": 0.0000752,
+    "sites": 919,
+    "riskScore": 52
+  },
+  "semasio.net": {
+    "company": "Semasio",
+    "ownerName": "Semasio GmbH",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising"
+    ],
+    "prevalence": 0.00541,
+    "fingerprinting": 0,
+    "cookies": 0.00446,
+    "sites": 792,
+    "riskScore": 31
+  },
+  "sentry-cdn.com": {
+    "company": "Functional Software",
+    "ownerName": "Functional Software, Inc.",
+    "primaryCategory": "Analytics",
+    "categories": [
+      "Analytics",
+      "CDN"
+    ],
+    "prevalence": 0.00967,
+    "fingerprinting": 2,
+    "cookies": 0.0000205,
+    "sites": 1415,
+    "riskScore": 26
+  },
+  "serving-sys.com": {
+    "company": "Amazon.com",
+    "ownerName": "Amazon Technologies, Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising"
+    ],
+    "prevalence": 0.000971,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 142,
+    "riskScore": 30
+  },
+  "sessioncam.com": {
+    "company": "Glassbox",
+    "ownerName": "Glassbox Ltd.",
+    "primaryCategory": "Analytics",
+    "categories": [
+      "Analytics",
+      "Action Pixels",
+      "Session Replay"
+    ],
+    "prevalence": 0,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 0,
+    "riskScore": 38
+  },
+  "shareaholic.com": {
+    "company": "Shareaholic",
+    "ownerName": "Shareaholic Inc",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics",
+      "Third-Party Analytics Marketing",
+      "Social - Share",
+      "Embedded Content"
+    ],
+    "prevalence": 0.000677,
+    "fingerprinting": 1,
+    "cookies": 0.000677,
+    "sites": 99,
+    "riskScore": 52
+  },
+  "sharethis.com": {
+    "company": "ShareThis",
+    "ownerName": "ShareThis, Inc",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Third-Party Analytics Marketing",
+      "Social - Share",
+      "Embedded Content"
+    ],
+    "prevalence": 0.0147,
+    "fingerprinting": 2,
+    "cookies": 0.0139,
+    "sites": 2147,
+    "riskScore": 61
+  },
+  "sharethrough.com": {
+    "company": "Sharethrough",
+    "ownerName": "Sharethrough, Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising"
+    ],
+    "prevalence": 0.0696,
+    "fingerprinting": 1,
+    "cookies": 0.0631,
+    "sites": 10183,
+    "riskScore": 50
+  },
+  "shopify.com": {
+    "company": "Shopify",
+    "ownerName": "Shopify Inc.",
+    "primaryCategory": "Analytics",
+    "categories": [
+      "Analytics",
+      "Online Payment",
+      "CDN",
+      "Embedded Content"
+    ],
+    "prevalence": 0.039,
+    "fingerprinting": 3,
+    "cookies": 0.0168,
+    "sites": 5707,
+    "riskScore": 46
+  },
+  "simpli.fi": {
+    "company": "Simplifi Holdings",
+    "ownerName": "Simplifi Holdings Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics"
+    ],
+    "prevalence": 0.0448,
+    "fingerprinting": 1,
+    "cookies": 0.0429,
+    "sites": 6548,
+    "riskScore": 53
+  },
+  "siteimprove.com": {
+    "company": "Siteimprove",
+    "ownerName": "Siteimprove A/S",
+    "primaryCategory": "Analytics",
+    "categories": [
+      "Analytics"
+    ],
+    "prevalence": 0.00026,
+    "fingerprinting": 2,
+    "cookies": 0.000178,
+    "sites": 38,
+    "riskScore": 21
+  },
+  "siteimproveanalytics.com": {
+    "company": "Siteimprove",
+    "ownerName": "Siteimprove A/S",
+    "primaryCategory": "Analytics",
+    "categories": [
+      "Analytics"
+    ],
+    "prevalence": 0.0132,
+    "fingerprinting": 2,
+    "cookies": 0.0109,
+    "sites": 1933,
+    "riskScore": 24
+  },
+  "siteimproveanalytics.io": {
+    "company": "Siteimprove",
+    "ownerName": "Siteimprove A/S",
+    "primaryCategory": "Analytics",
+    "categories": [
+      "Analytics"
+    ],
+    "prevalence": 0.0126,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 1838,
+    "riskScore": 9
+  },
+  "sitescout.com": {
+    "company": "Centro",
+    "ownerName": "Centro, Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics",
+      "Action Pixels"
+    ],
+    "prevalence": 0.0485,
+    "fingerprinting": 0,
+    "cookies": 0.0458,
+    "sites": 7092,
+    "riskScore": 54
+  },
+  "skimresources.com": {
+    "company": "Skimbit",
+    "ownerName": "Skimbit LTD",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics"
+    ],
+    "prevalence": 0.00526,
+    "fingerprinting": 1,
+    "cookies": 0,
+    "sites": 769,
+    "riskScore": 45
+  },
+  "smaato.net": {
+    "company": "Smaato",
+    "ownerName": "Smaato Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics"
+    ],
+    "prevalence": 0.0476,
+    "fingerprinting": 0,
+    "cookies": 0.0456,
+    "sites": 6963,
+    "riskScore": 47
+  },
+  "smartadserver.com": {
+    "company": "Smartadserver",
+    "ownerName": "Smartadserver S.A.S",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising"
+    ],
+    "prevalence": 0.0648,
+    "fingerprinting": 1,
+    "cookies": 0.0619,
+    "sites": 9475,
+    "riskScore": 49
+  },
+  "smrtb.com": {
+    "company": "Smart RTB",
+    "ownerName": "Smart RTB",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Ad Fraud",
+      "Analytics"
+    ],
+    "prevalence": 0.0000205,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 3,
+    "riskScore": 45
+  },
+  "snapchat.com": {
+    "company": "Snap",
+    "ownerName": "Snap Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Action Pixels",
+      "Social Network"
+    ],
+    "prevalence": 0.0167,
+    "fingerprinting": 1,
+    "cookies": 0.015,
+    "sites": 2441,
+    "riskScore": 46
+  },
+  "socdm.com": {
+    "company": "Supership",
+    "ownerName": "Supership Inc",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising"
+    ],
+    "prevalence": 0.0152,
+    "fingerprinting": 1,
+    "cookies": 0.013,
+    "sites": 2230,
+    "riskScore": 39
+  },
+  "sojern.com": {
+    "company": "Sojern",
+    "ownerName": "Sojern, Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising"
+    ],
+    "prevalence": 0.00263,
+    "fingerprinting": 1,
+    "cookies": 0.00259,
+    "sites": 385,
+    "riskScore": 37
+  },
+  "solocpm.com": {
+    "company": "MainADV",
+    "ownerName": "MainADV",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising"
+    ],
+    "prevalence": 0,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 0,
+    "riskScore": 30
+  },
+  "sonobi.com": {
+    "company": "Sonobi",
+    "ownerName": "Sonobi, Inc",
+    "primaryCategory": "Advertising",
+    "categories": [
+      "Advertising"
+    ],
+    "prevalence": 0.0453,
+    "fingerprinting": 0,
+    "cookies": 0.0437,
+    "sites": 6625,
+    "riskScore": 23
+  },
+  "spotxchange.com": {
+    "company": "SpotX",
+    "ownerName": "SpotX, Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics"
+    ],
+    "prevalence": 0.00725,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 1060,
+    "riskScore": 39
+  },
+  "springserve.com": {
+    "company": "SpringServe",
+    "ownerName": "SpringServe, LLC",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising"
+    ],
+    "prevalence": 0.0071,
+    "fingerprinting": 2,
+    "cookies": 0.000861,
+    "sites": 1038,
+    "riskScore": 44
+  },
+  "stackadapt.com": {
+    "company": "Collective Roll",
+    "ownerName": "Collective Roll",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics",
+      "Audience Measurement",
+      "Action Pixels"
+    ],
+    "prevalence": 0.0845,
+    "fingerprinting": 1,
+    "cookies": 0.0734,
+    "sites": 12365,
+    "riskScore": 67
+  },
+  "statcounter.com": {
+    "company": "StatCounter",
+    "ownerName": "StatCounter",
+    "primaryCategory": "Analytics",
+    "categories": [
+      "Analytics"
+    ],
+    "prevalence": 0.00509,
+    "fingerprinting": 3,
+    "cookies": 0.00496,
+    "sites": 744,
+    "riskScore": 29
+  },
+  "steelhousemedia.com": {
+    "company": "Steel House",
+    "ownerName": "Steel House, Inc",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics",
+      "Third-Party Analytics Marketing"
+    ],
+    "prevalence": 0.000403,
+    "fingerprinting": 1,
+    "cookies": 0.000355,
+    "sites": 59,
+    "riskScore": 52
+  },
+  "stickyadstv.com": {
+    "company": "FreeWheel",
+    "ownerName": "FreeWheel",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics"
+    ],
+    "prevalence": 0.0025,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 366,
+    "riskScore": 38
+  },
+  "storygize.net": {
+    "company": "Storygize",
+    "ownerName": "Storygize",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Third-Party Analytics Marketing",
+      "Action Pixels"
+    ],
+    "prevalence": 0.00165,
+    "fingerprinting": 1,
+    "cookies": 0.00124,
+    "sites": 242,
+    "riskScore": 52
+  },
+  "sumo.com": {
+    "company": "Sumo Group",
+    "ownerName": "Sumo Group",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Third-Party Analytics Marketing",
+      "Embedded Content"
+    ],
+    "prevalence": 0.000369,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 54,
+    "riskScore": 44
+  },
+  "sundaysky.com": {
+    "company": "SundaySky",
+    "ownerName": "SundaySky Ltd.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Audience Measurement",
+      "Embedded Content"
+    ],
+    "prevalence": 0.00133,
+    "fingerprinting": 1,
+    "cookies": 0.00117,
+    "sites": 195,
+    "riskScore": 48
+  },
+  "survata.com": {
+    "company": "Survata",
+    "ownerName": "Survata, Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics",
+      "Audience Measurement",
+      "Third-Party Analytics Marketing"
+    ],
+    "prevalence": 0.0000137,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 2,
+    "riskScore": 45
+  },
+  "switchadhub.com": {
+    "company": "Switch Concepts",
+    "ownerName": "Switch Concepts",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics"
+    ],
+    "prevalence": 0,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 0,
+    "riskScore": 38
+  },
+  "t.co": {
+    "company": "Twitter",
+    "ownerName": "Twitter, Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics",
+      "Audience Measurement",
+      "Federated Login",
+      "Social - Share",
+      "Social Network",
+      "Badge",
+      "Embedded Content"
+    ],
+    "prevalence": 0.026,
+    "fingerprinting": 0,
+    "cookies": 0.0259,
+    "sites": 3810,
+    "riskScore": 50
+  },
+  "taboola.com": {
+    "company": "Taboola",
+    "ownerName": "Taboola, Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Audience Measurement",
+      "Third-Party Analytics Marketing"
+    ],
+    "prevalence": 0.0358,
+    "fingerprinting": 2,
+    "cookies": 0.03,
+    "sites": 5237,
+    "riskScore": 65
+  },
+  "tagcommander.com": {
+    "company": "Fjord",
+    "ownerName": "Fjord Technologies",
+    "primaryCategory": "Advertising",
+    "categories": [
+      "Advertising",
+      "Analytics",
+      "Audience Measurement",
+      "Third-Party Analytics Marketing",
+      "Action Pixels"
+    ],
+    "prevalence": 0.000526,
+    "fingerprinting": 2,
+    "cookies": 0.000431,
+    "sites": 77,
+    "riskScore": 58
+  },
+  "tapad.com": {
+    "company": "Tapad",
+    "ownerName": "Tapad, Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics",
+      "Third-Party Analytics Marketing"
+    ],
+    "prevalence": 0.0967,
+    "fingerprinting": 0,
+    "cookies": 0.0947,
+    "sites": 14143,
+    "riskScore": 64
+  },
+  "target.com": {
+    "company": "Target",
+    "ownerName": "Target Corporation",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Audience Measurement",
+      "Action Pixels"
+    ],
+    "prevalence": 0,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 0,
+    "riskScore": 45
+  },
+  "teads.tv": {
+    "company": "Teads",
+    "ownerName": "Teads ( Luxenbourg ) SA",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics",
+      "Audience Measurement",
+      "Third-Party Analytics Marketing"
+    ],
+    "prevalence": 0.0575,
+    "fingerprinting": 1,
+    "cookies": 0.0455,
+    "sites": 8413,
+    "riskScore": 62
+  },
+  "tealiumiq.com": {
+    "company": "Tealium",
+    "ownerName": "Tealium Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics",
+      "Audience Measurement",
+      "Third-Party Analytics Marketing",
+      "Action Pixels",
+      "Session Replay"
+    ],
+    "prevalence": 0.00439,
+    "fingerprinting": 0,
+    "cookies": 0.00393,
+    "sites": 642,
+    "riskScore": 46
+  },
+  "technoratimedia.com": {
+    "company": "Synacor",
+    "ownerName": "Synacor, Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Ad Fraud"
+    ],
+    "prevalence": 0.00751,
+    "fingerprinting": 1,
+    "cookies": 0.0025,
+    "sites": 1099,
+    "riskScore": 50
+  },
+  "theadex.com": {
+    "company": "Virtual Minds",
+    "ownerName": "Virtual Minds AG",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising"
+    ],
+    "prevalence": 0.000144,
+    "fingerprinting": 3,
+    "cookies": 0.0000342,
+    "sites": 21,
+    "riskScore": 50
+  },
+  "thebrighttag.com": {
+    "company": "TransUnion",
+    "ownerName": "TransUnion LLC",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Third-Party Analytics Marketing"
+    ],
+    "prevalence": 0,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 0,
+    "riskScore": 40
+  },
+  "threadloom.com": {
+    "company": "Threadloom",
+    "ownerName": "Threadloom, Inc.",
+    "primaryCategory": "Advertising",
+    "categories": [
+      "Advertising",
+      "Analytics",
+      "Third-Party Analytics Marketing"
+    ],
+    "prevalence": 0,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 0,
+    "riskScore": 32
+  },
+  "thrtle.com": {
+    "company": "Throtle",
+    "ownerName": "Throtle",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics",
+      "Audience Measurement"
+    ],
+    "prevalence": 0.019,
+    "fingerprinting": 0,
+    "cookies": 0.0182,
+    "sites": 2773,
+    "riskScore": 49
+  },
+  "tidaltv.com": {
+    "company": "Amobee",
+    "ownerName": "Amobee, Inc",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising"
+    ],
+    "prevalence": 0.000103,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 15,
+    "riskScore": 30
+  },
+  "tinypass.com": {
+    "company": "Piano Software",
+    "ownerName": "Piano Software",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics",
+      "Audience Measurement",
+      "SSO",
+      "Third-Party Analytics Marketing",
+      "Embedded Content"
+    ],
+    "prevalence": 0.00308,
+    "fingerprinting": 3,
+    "cookies": 0.00278,
+    "sites": 450,
+    "riskScore": 66
+  },
+  "tiqcdn.com": {
+    "company": "Tealium",
+    "ownerName": "Tealium Inc.",
+    "primaryCategory": "Advertising",
+    "categories": [
+      "Advertising",
+      "Analytics",
+      "Audience Measurement",
+      "Third-Party Analytics Marketing",
+      "Tag Manager"
+    ],
+    "prevalence": 0.0104,
+    "fingerprinting": 3,
+    "cookies": 0.00852,
+    "sites": 1521,
+    "riskScore": 67
+  },
+  "tns-counter.ru": {
+    "company": "ADFACT",
+    "ownerName": "JSC ADFACT",
+    "primaryCategory": "Analytics",
+    "categories": [
+      "Analytics"
+    ],
+    "prevalence": 0.00149,
+    "fingerprinting": 1,
+    "cookies": 0.00145,
+    "sites": 218,
+    "riskScore": 15
+  },
+  "trackcmp.net": {
+    "company": "ActiveCampaign",
+    "ownerName": "ActiveCampaign, Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Action Pixels"
+    ],
+    "prevalence": 0.00321,
+    "fingerprinting": 0,
+    "cookies": 0.000335,
+    "sites": 469,
+    "riskScore": 42
+  },
+  "trafficstars.com": {
+    "company": "Traffic Stars",
+    "ownerName": "Traffic Stars",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising"
+    ],
+    "prevalence": 0,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 0,
+    "riskScore": 30
+  },
+  "treasuredata.com": {
+    "company": "Treasure Data",
+    "ownerName": "Treasure Data, Inc",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Analytics",
+      "Audience Measurement"
+    ],
+    "prevalence": 0.00228,
+    "fingerprinting": 2,
+    "cookies": 0.00199,
+    "sites": 334,
+    "riskScore": 45
+  },
+  "tremorhub.com": {
+    "company": "Telaria",
+    "ownerName": "Telaria",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising"
+    ],
+    "prevalence": 0.018,
+    "fingerprinting": 0,
+    "cookies": 0.00412,
+    "sites": 2634,
+    "riskScore": 32
+  },
+  "tribalfusion.com": {
+    "company": "Exponential Interactive",
+    "ownerName": "Exponential Interactive Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising"
+    ],
+    "prevalence": 0.0106,
+    "fingerprinting": 3,
+    "cookies": 0.01,
+    "sites": 1545,
+    "riskScore": 52
+  },
+  "tru.am": {
+    "company": "trueAnthem",
+    "ownerName": "trueAnthem Corp",
+    "primaryCategory": "Third-Party Analytics Marketing",
+    "categories": [
+      "Third-Party Analytics Marketing"
+    ],
+    "prevalence": 0.00187,
+    "fingerprinting": 1,
+    "cookies": 0.0000137,
+    "sites": 273,
+    "riskScore": 17
+  },
+  "truefitcorp.com": {
+    "company": "True Fit",
+    "ownerName": "True Fit Corporation",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Analytics",
+      "Third-Party Analytics Marketing"
+    ],
+    "prevalence": 0.000253,
+    "fingerprinting": 1,
+    "cookies": 0.000246,
+    "sites": 37,
+    "riskScore": 41
+  },
+  "trueleadid.com": {
+    "company": "Lead Intelligence",
+    "ownerName": "Lead Intelligence, Inc.",
+    "primaryCategory": "Advertising",
+    "categories": [
+      "Advertising",
+      "Third-Party Analytics Marketing"
+    ],
+    "prevalence": 0.000171,
+    "fingerprinting": 1,
+    "cookies": 0.000041,
+    "sites": 25,
+    "riskScore": 31
+  },
+  "truoptik.com": {
+    "company": "21 Productions",
+    "ownerName": "21 Productions",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics",
+      "Audience Measurement",
+      "Third-Party Analytics Marketing"
+    ],
+    "prevalence": 0.000185,
+    "fingerprinting": 0,
+    "cookies": 0.000171,
+    "sites": 27,
+    "riskScore": 45
+  },
+  "trustpilot.com": {
+    "company": "Trustpilot",
+    "ownerName": "Trustpilot A/S",
+    "primaryCategory": "Analytics",
+    "categories": [
+      "Analytics",
+      "Embedded Content"
+    ],
+    "prevalence": 0.0123,
+    "fingerprinting": 2,
+    "cookies": 0,
+    "sites": 1800,
+    "riskScore": 27
+  },
+  "trustx.org": {
+    "company": "DCN",
+    "ownerName": "DCN",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising"
+    ],
+    "prevalence": 0.00991,
+    "fingerprinting": 1,
+    "cookies": 0.00965,
+    "sites": 1450,
+    "riskScore": 39
+  },
+  "tsyndicate.com": {
+    "company": "Traffic Stars",
+    "ownerName": "Traffic Stars",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Action Pixels"
+    ],
+    "prevalence": 0.00571,
+    "fingerprinting": 3,
+    "cookies": 0.00516,
+    "sites": 835,
+    "riskScore": 63
+  },
+  "tubemogul.com": {
+    "company": "Adobe",
+    "ownerName": "Adobe Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics",
+      "Audience Measurement"
+    ],
+    "prevalence": 0.000547,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 80,
+    "riskScore": 45
+  },
+  "turn.com": {
+    "company": "Amobee",
+    "ownerName": "Amobee, Inc",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising"
+    ],
+    "prevalence": 0.0691,
+    "fingerprinting": 1,
+    "cookies": 0.067,
+    "sites": 10115,
+    "riskScore": 50
+  },
+  "tvpixel.com": {
+    "company": "Data Plus Math",
+    "ownerName": "Data Plus Math",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics"
+    ],
+    "prevalence": 0.00212,
+    "fingerprinting": 0,
+    "cookies": 0.00159,
+    "sites": 310,
+    "riskScore": 38
+  },
+  "tvsquared.com": {
+    "company": "TVSquared",
+    "ownerName": "TVSquared",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics",
+      "Audience Measurement"
+    ],
+    "prevalence": 0.00653,
+    "fingerprinting": 2,
+    "cookies": 0.0052,
+    "sites": 955,
+    "riskScore": 60
+  },
+  "twiago.com": {
+    "company": "twiago",
+    "ownerName": "twiago GmbH",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising"
+    ],
+    "prevalence": 0.0000547,
+    "fingerprinting": 2,
+    "cookies": 0.000041,
+    "sites": 8,
+    "riskScore": 43
+  },
+  "twimg.com": {
+    "company": "Twitter",
+    "ownerName": "Twitter, Inc.",
+    "primaryCategory": "Social - Comment",
+    "categories": [
+      "Social - Comment",
+      "Social - Share",
+      "Social Network",
+      "CDN",
+      "Embedded Content"
+    ],
+    "prevalence": 0.0023,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 336,
+    "riskScore": 28
+  },
+  "twitter.com": {
+    "company": "Twitter",
+    "ownerName": "Twitter, Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics",
+      "Federated Login",
+      "Social - Comment",
+      "Social - Share",
+      "Social Network",
+      "Embedded Content"
+    ],
+    "prevalence": 0.0423,
+    "fingerprinting": 2,
+    "cookies": 0.0409,
+    "sites": 6181,
+    "riskScore": 67
+  },
+  "tynt.com": {
+    "company": "33Across",
+    "ownerName": "33Across, Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Third-Party Analytics Marketing",
+      "Social - Share",
+      "Action Pixels"
+    ],
+    "prevalence": 0.0246,
+    "fingerprinting": 1,
+    "cookies": 0.024,
+    "sites": 3598,
+    "riskScore": 57
+  },
+  "ubembed.com": {
+    "company": "Unbounce",
+    "ownerName": "Unbounce",
+    "primaryCategory": "Analytics",
+    "categories": [
+      "Analytics",
+      "Action Pixels",
+      "Embedded Content"
+    ],
+    "prevalence": 0.00193,
+    "fingerprinting": 2,
+    "cookies": 0.0019,
+    "sites": 282,
+    "riskScore": 38
+  },
+  "uncn.jp": {
+    "company": "Bulbit",
+    "ownerName": "Bulbit Inc",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Ad Fraud",
+      "Audience Measurement"
+    ],
+    "prevalence": 0.000957,
+    "fingerprinting": 1,
+    "cookies": 0.000779,
+    "sites": 140,
+    "riskScore": 52
+  },
+  "undertone.com": {
+    "company": "Undertone Networks",
+    "ownerName": "Undertone Networks",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising"
+    ],
+    "prevalence": 0.0263,
+    "fingerprinting": 1,
+    "cookies": 0.0227,
+    "sites": 3849,
+    "riskScore": 42
+  },
+  "unrulymedia.com": {
+    "company": "Unruly Group",
+    "ownerName": "Unruly Group Limited",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Audience Measurement",
+      "Third-Party Analytics Marketing",
+      "Embedded Content"
+    ],
+    "prevalence": 0.00829,
+    "fingerprinting": 1,
+    "cookies": 0,
+    "sites": 1212,
+    "riskScore": 52
+  },
+  "upapi.net": {
+    "company": "Blockthrough",
+    "ownerName": "Blockthrough Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising"
+    ],
+    "prevalence": 0.000041,
+    "fingerprinting": 2,
+    "cookies": 0,
+    "sites": 6,
+    "riskScore": 43
+  },
+  "usabilla.com": {
+    "company": "Momentive",
+    "ownerName": "Momentive Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Analytics",
+      "Third-Party Analytics Marketing"
+    ],
+    "prevalence": 0.00109,
+    "fingerprinting": 1,
+    "cookies": 0.000041,
+    "sites": 159,
+    "riskScore": 41
+  },
+  "userreport.com": {
+    "company": "AudienceProject",
+    "ownerName": "AudienceProject",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Ad Fraud",
+      "Analytics",
+      "Audience Measurement"
+    ],
+    "prevalence": 0.000855,
+    "fingerprinting": 2,
+    "cookies": 0.00015,
+    "sites": 125,
+    "riskScore": 58
+  },
+  "vertamedia.com": {
+    "company": "Adtelligent",
+    "ownerName": "Adtelligent Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising"
+    ],
+    "prevalence": 0,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 0,
+    "riskScore": 30
+  },
+  "videmob.com": {
+    "company": "Cydersoft R.B",
+    "ownerName": "Cydersoft R.B. Ltd",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising"
+    ],
+    "prevalence": 0,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 0,
+    "riskScore": 30
+  },
+  "videohub.tv": {
+    "company": "Tremor Video DSP",
+    "ownerName": "Tremor Video DSP",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising"
+    ],
+    "prevalence": 0,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 0,
+    "riskScore": 30
+  },
+  "videostat.com": {
+    "company": "GiantMedia",
+    "ownerName": "GiantMedia",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising"
+    ],
+    "prevalence": 0,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 0,
+    "riskScore": 30
+  },
+  "vidible.tv": {
+    "company": "Verizon Media",
+    "ownerName": "Yahoo Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics"
+    ],
+    "prevalence": 0,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 0,
+    "riskScore": 38
+  },
+  "viglink.com": {
+    "company": "Sovrn Holdings",
+    "ownerName": "Sovrn Holdings",
+    "primaryCategory": "Advertising",
+    "categories": [
+      "Advertising"
+    ],
+    "prevalence": 0.00167,
+    "fingerprinting": 1,
+    "cookies": 0,
+    "sites": 245,
+    "riskScore": 21
+  },
+  "vindicosuite.com": {
+    "company": "MySpace",
+    "ownerName": "MySpace LLC",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics"
+    ],
+    "prevalence": 0.000403,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 59,
+    "riskScore": 38
+  },
+  "visualwebsiteoptimizer.com": {
+    "company": "Wingify",
+    "ownerName": "Wingify",
+    "primaryCategory": "Analytics",
+    "categories": [
+      "Analytics",
+      "Third-Party Analytics Marketing",
+      "Session Replay"
+    ],
+    "prevalence": 0.013,
+    "fingerprinting": 2,
+    "cookies": 0.0031,
+    "sites": 1906,
+    "riskScore": 51
+  },
+  "vk.com": {
+    "company": "VK",
+    "ownerName": "VK Company Ltd.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics",
+      "Federated Login",
+      "Social - Comment",
+      "Social - Share",
+      "Social Network",
+      "Embedded Content"
+    ],
+    "prevalence": 0.00183,
+    "fingerprinting": 3,
+    "cookies": 0.00176,
+    "sites": 267,
+    "riskScore": 65
+  },
+  "volvelle.tech": {
+    "company": "Optomaton UG (haftungsbeschränkt)",
+    "ownerName": "Optomaton UG (haftungsbeschränkt)",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Third-Party Analytics Marketing"
+    ],
+    "prevalence": 0,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 0,
+    "riskScore": 26
+  },
+  "w55c.net": {
+    "company": "Roku",
+    "ownerName": "Roku, Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising"
+    ],
+    "prevalence": 0.00263,
+    "fingerprinting": 0,
+    "cookies": 0.00258,
+    "sites": 384,
+    "riskScore": 31
+  },
+  "walmart.com": {
+    "company": "Walmart",
+    "ownerName": "Walmart Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising"
+    ],
+    "prevalence": 0.000041,
+    "fingerprinting": 0,
+    "cookies": 0.0000273,
+    "sites": 6,
+    "riskScore": 30
+  },
+  "wbtrk.net": {
+    "company": "Webtrekk",
+    "ownerName": "Webtrekk GmbH",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics",
+      "Audience Measurement",
+      "Embedded Content"
+    ],
+    "prevalence": 0.0000479,
+    "fingerprinting": 1,
+    "cookies": 0.0000205,
+    "sites": 7,
+    "riskScore": 52
+  },
+  "wcfbc.net": {
+    "company": "Webtrekk",
+    "ownerName": "Webtrekk GmbH",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics"
+    ],
+    "prevalence": 0.0000889,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 13,
+    "riskScore": 38
+  },
+  "webclicks24.com": {
+    "company": "webclicks24.com",
+    "ownerName": "webclicks24.com",
+    "primaryCategory": "Advertising",
+    "categories": [
+      "Advertising"
+    ],
+    "prevalence": 0,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 0,
+    "riskScore": 14
+  },
+  "weborama.com": {
+    "company": "Weborama",
+    "ownerName": "Weborama",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics"
+    ],
+    "prevalence": 0.0000752,
+    "fingerprinting": 0,
+    "cookies": 0.0000342,
+    "sites": 11,
+    "riskScore": 38
+  },
+  "weborama.fr": {
+    "company": "Weborama",
+    "ownerName": "Weborama",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics"
+    ],
+    "prevalence": 0.00146,
+    "fingerprinting": 1,
+    "cookies": 0.00145,
+    "sites": 214,
+    "riskScore": 45
+  },
+  "webvisor.org": {
+    "company": "Yandex",
+    "ownerName": "Yandex LLC",
+    "primaryCategory": "Session Replay",
+    "categories": [
+      "Session Replay"
+    ],
+    "prevalence": 0.00169,
+    "fingerprinting": 2,
+    "cookies": 0.00166,
+    "sites": 247,
+    "riskScore": 32
+  },
+  "wistia.com": {
+    "company": "Wistia",
+    "ownerName": "Wistia",
+    "primaryCategory": "Analytics",
+    "categories": [
+      "Analytics",
+      "Third-Party Analytics Marketing",
+      "CDN",
+      "Embedded Content"
+    ],
+    "prevalence": 0.00246,
+    "fingerprinting": 3,
+    "cookies": 0.00000684,
+    "sites": 360,
+    "riskScore": 46
+  },
+  "wistia.net": {
+    "company": "Wistia",
+    "ownerName": "Wistia",
+    "primaryCategory": "Analytics",
+    "categories": [
+      "Analytics",
+      "Third-Party Analytics Marketing",
+      "CDN",
+      "Embedded Content"
+    ],
+    "prevalence": 0.00121,
+    "fingerprinting": 3,
+    "cookies": 0,
+    "sites": 177,
+    "riskScore": 46
+  },
+  "wp.com": {
+    "company": "Automattic",
+    "ownerName": "Automattic, Inc.",
+    "primaryCategory": "Analytics",
+    "categories": [
+      "Analytics",
+      "CDN",
+      "Embedded Content"
+    ],
+    "prevalence": 0.029,
+    "fingerprinting": 1,
+    "cookies": 0.00321,
+    "sites": 4237,
+    "riskScore": 26
+  },
+  "wpncdn.com": {
+    "company": "ExoClick",
+    "ownerName": "ExoClick, S.L.",
+    "primaryCategory": "Advertising",
+    "categories": [
+      "Advertising"
+    ],
+    "prevalence": 0,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 0,
+    "riskScore": 14
+  },
+  "wt-eu02.net": {
+    "company": "Webtrekk",
+    "ownerName": "Webtrekk GmbH",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics",
+      "Audience Measurement",
+      "Embedded Content"
+    ],
+    "prevalence": 0.000574,
+    "fingerprinting": 1,
+    "cookies": 0.000574,
+    "sites": 84,
+    "riskScore": 52
+  },
+  "wt-safetag.com": {
+    "company": "Webtrekk",
+    "ownerName": "Webtrekk GmbH",
+    "primaryCategory": "Advertising",
+    "categories": [
+      "Advertising",
+      "Third-Party Analytics Marketing"
+    ],
+    "prevalence": 0.00028,
+    "fingerprinting": 2,
+    "cookies": 0.00013,
+    "sites": 41,
+    "riskScore": 37
+  },
+  "xg4ken.com": {
+    "company": "Kenshoo TLD",
+    "ownerName": "Kenshoo TLD",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking"
+    ],
+    "prevalence": 0.00128,
+    "fingerprinting": 1,
+    "cookies": 0,
+    "sites": 187,
+    "riskScore": 23
+  },
+  "xiti.com": {
+    "company": "AT Internet",
+    "ownerName": "AT Internet",
+    "primaryCategory": "Analytics",
+    "categories": [
+      "Analytics"
+    ],
+    "prevalence": 0.000779,
+    "fingerprinting": 0,
+    "cookies": 0.0000684,
+    "sites": 114,
+    "riskScore": 8
+  },
+  "xplosion.de": {
+    "company": "emetriq",
+    "ownerName": "emetriq GmbH",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising"
+    ],
+    "prevalence": 0.00258,
+    "fingerprinting": 1,
+    "cookies": 0.00182,
+    "sites": 377,
+    "riskScore": 37
+  },
+  "yadro.ru": {
+    "company": "ECO PC - Complex Solutions",
+    "ownerName": "OOO \"ECO PC - Complex Solutions\"",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Analytics",
+      "Malware"
+    ],
+    "prevalence": 0.00674,
+    "fingerprinting": 0,
+    "cookies": 0.00000684,
+    "sites": 986,
+    "riskScore": 46
+  },
+  "yahoo.co.jp": {
+    "company": "LY-Corporation",
+    "ownerName": "LY-Corporation",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising"
+    ],
+    "prevalence": 0.00282,
+    "fingerprinting": 1,
+    "cookies": 0.00191,
+    "sites": 413,
+    "riskScore": 37
+  },
+  "yahoo.com": {
+    "company": "Verizon Media",
+    "ownerName": "Yahoo Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics",
+      "Audience Measurement",
+      "Federated Login"
+    ],
+    "prevalence": 0.114,
+    "fingerprinting": 1,
+    "cookies": 0.108,
+    "sites": 16664,
+    "riskScore": 74
+  },
+  "yandex.net": {
+    "company": "Yandex",
+    "ownerName": "Yandex LLC",
+    "primaryCategory": "Session Replay",
+    "categories": [
+      "Session Replay",
+      "CDN",
+      "Embedded Content"
+    ],
+    "prevalence": 0.00213,
+    "fingerprinting": 1,
+    "cookies": 0.000451,
+    "sites": 312,
+    "riskScore": 33
+  },
+  "yandex.ru": {
+    "company": "Yandex",
+    "ownerName": "Yandex LLC",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics",
+      "Audience Measurement",
+      "SSO",
+      "Action Pixels",
+      "Session Replay",
+      "Online Payment",
+      "Embedded Content"
+    ],
+    "prevalence": 0.0153,
+    "fingerprinting": 3,
+    "cookies": 0.0151,
+    "sites": 2245,
+    "riskScore": 68
+  },
+  "yastatic.net": {
+    "company": "Yandex",
+    "ownerName": "Yandex LLC",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Social - Share",
+      "CDN",
+      "Embedded Content"
+    ],
+    "prevalence": 0.00334,
+    "fingerprinting": 3,
+    "cookies": 0.0028,
+    "sites": 488,
+    "riskScore": 65
+  },
+  "yieldlab.net": {
+    "company": "Virtual Minds",
+    "ownerName": "Virtual Minds AG",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising"
+    ],
+    "prevalence": 0.000772,
+    "fingerprinting": 0,
+    "cookies": 0.000396,
+    "sites": 113,
+    "riskScore": 30
+  },
+  "yieldlove-ad-serving.net": {
+    "company": "Yieldlove",
+    "ownerName": "Yieldlove GmbH",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising"
+    ],
+    "prevalence": 0.000738,
+    "fingerprinting": 1,
+    "cookies": 0.000595,
+    "sites": 108,
+    "riskScore": 37
+  },
+  "yieldlove.com": {
+    "company": "Yieldlove",
+    "ownerName": "Yieldlove GmbH",
+    "primaryCategory": "Advertising",
+    "categories": [
+      "Advertising"
+    ],
+    "prevalence": 0.000615,
+    "fingerprinting": 3,
+    "cookies": 0.000314,
+    "sites": 90,
+    "riskScore": 34
+  },
+  "yieldmo.com": {
+    "company": "YieldMo",
+    "ownerName": "YieldMo, Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising"
+    ],
+    "prevalence": 0.0479,
+    "fingerprinting": 1,
+    "cookies": 0.0458,
+    "sites": 7013,
+    "riskScore": 46
+  },
+  "yieldoptimizer.com": {
+    "company": "Warner Bros. Discovery",
+    "ownerName": "Warner Bros. Discovery, Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Analytics"
+    ],
+    "prevalence": 0.00233,
+    "fingerprinting": 0,
+    "cookies": 0.00231,
+    "sites": 341,
+    "riskScore": 38
+  },
+  "yimg.com": {
+    "company": "Verizon Media",
+    "ownerName": "Yahoo Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "CDN"
+    ],
+    "prevalence": 0.00827,
+    "fingerprinting": 2,
+    "cookies": 0.0000547,
+    "sites": 1210,
+    "riskScore": 48
+  },
+  "yimg.jp": {
+    "company": "LY-Corporation",
+    "ownerName": "LY-Corporation",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising"
+    ],
+    "prevalence": 0.00443,
+    "fingerprinting": 1,
+    "cookies": 0.00332,
+    "sites": 648,
+    "riskScore": 37
+  },
+  "yotpo.com": {
+    "company": "Yotpo",
+    "ownerName": "Yotpo Ltd",
+    "primaryCategory": "Advertising",
+    "categories": [
+      "Advertising",
+      "Third-Party Analytics Marketing",
+      "Embedded Content"
+    ],
+    "prevalence": 0.0118,
+    "fingerprinting": 2,
+    "cookies": 0.00553,
+    "sites": 1727,
+    "riskScore": 43
+  },
+  "yottaa.net": {
+    "company": "Yottaa",
+    "ownerName": "Yottaa Inc",
+    "primaryCategory": "Analytics",
+    "categories": [
+      "Analytics"
+    ],
+    "prevalence": 0.00196,
+    "fingerprinting": 0,
+    "cookies": 0.000909,
+    "sites": 287,
+    "riskScore": 8
+  },
+  "youtube-nocookie.com": {
+    "company": "Google",
+    "ownerName": "Google LLC",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "CDN",
+      "Embedded Content"
+    ],
+    "prevalence": 0.003,
+    "fingerprinting": 3,
+    "cookies": 0.000335,
+    "sites": 439,
+    "riskScore": 44
+  },
+  "youtube.com": {
+    "company": "Google",
+    "ownerName": "Google LLC",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "CDN",
+      "Embedded Content"
+    ],
+    "prevalence": 0.0552,
+    "fingerprinting": 3,
+    "cookies": 0.0514,
+    "sites": 8069,
+    "riskScore": 55
+  },
+  "zemanta.com": {
+    "company": "Outbrain",
+    "ownerName": "Outbrain",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Third-Party Analytics Marketing"
+    ],
+    "prevalence": 0.0202,
+    "fingerprinting": 1,
+    "cookies": 0,
+    "sites": 2960,
+    "riskScore": 49
+  },
+  "zencdn.net": {
+    "company": "Brightcove",
+    "ownerName": "Brightcove, Inc.",
+    "primaryCategory": "Advertising",
+    "categories": [
+      "Advertising",
+      "Analytics",
+      "CDN",
+      "Embedded Content"
+    ],
+    "prevalence": 0.0055,
+    "fingerprinting": 2,
+    "cookies": 0,
+    "sites": 805,
+    "riskScore": 44
+  },
+  "zendesk.com": {
+    "company": "Zendesk",
+    "ownerName": "Zendesk, Inc.",
+    "primaryCategory": "Analytics",
+    "categories": [
+      "Analytics",
+      "Federated Login",
+      "CDN",
+      "Embedded Content"
+    ],
+    "prevalence": 0.00894,
+    "fingerprinting": 1,
+    "cookies": 0.00881,
+    "sites": 1308,
+    "riskScore": 29
+  },
+  "zoho.com": {
+    "company": "ZOHO",
+    "ownerName": "ZOHO Corporation",
+    "primaryCategory": "Analytics",
+    "categories": [
+      "Analytics",
+      "Federated Login",
+      "Third-Party Analytics Marketing",
+      "Action Pixels",
+      "CDN",
+      "Embedded Content"
+    ],
+    "prevalence": 0.000971,
+    "fingerprinting": 1,
+    "cookies": 0.000971,
+    "sites": 142,
+    "riskScore": 50
+  },
+  "zoho.eu": {
+    "company": "ZOHO",
+    "ownerName": "ZOHO Corporation",
+    "primaryCategory": "Analytics",
+    "categories": [
+      "Analytics",
+      "Federated Login",
+      "Third-Party Analytics Marketing",
+      "Action Pixels",
+      "CDN",
+      "Embedded Content"
+    ],
+    "prevalence": 0.000144,
+    "fingerprinting": 1,
+    "cookies": 0.000144,
+    "sites": 21,
+    "riskScore": 50
+  },
+  "zorosrv.com": {
+    "company": "Taboola",
+    "ownerName": "Taboola, Inc.",
+    "primaryCategory": "Ad Motivated Tracking",
+    "categories": [
+      "Ad Motivated Tracking",
+      "Advertising",
+      "Third-Party Analytics Marketing"
+    ],
+    "prevalence": 0,
+    "fingerprinting": 0,
+    "cookies": 0,
+    "sites": 0,
+    "riskScore": 40
+  }
+}

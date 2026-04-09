@@ -1,14 +1,14 @@
 {
   "manifest_version": 3,
   "name": "Digital Decoy",
-  "description": "Browser extension for tracker visibility and persona-based browsing noise.",
-  "version": "0.1.0",
+  "description": "Privacy-first browser extension that blocks known trackers, shows blocked companies, scores site privacy, and can optionally add browsing noise.",
+  "version": "0.2.0",
   "permissions": [
     "declarativeNetRequest",
+    "declarativeNetRequestFeedback",
     "storage",
     "tabs",
-    "scripting",
-    "offscreen",
+    "browsingData",
     "webRequest",
     "alarms"
   ],

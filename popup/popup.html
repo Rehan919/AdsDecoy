@@ -11,28 +11,81 @@
       <header class="popup__header">
         <p class="popup__eyebrow">Digital Decoy</p>
         <h1>Privacy shield</h1>
-        <p class="popup__subtitle">Tracker visibility with persona-based browsing noise controls.</p>
+        <p class="popup__subtitle">Blocks known trackers, shows who was blocked, and scores each site.</p>
       </header>
 
-      <section class="panel">
-        <div class="panel__row">
-          <span class="label">Detection Engine</span>
-          <span class="badge badge--on">Active</span>
+      <section class="panel panel--score">
+        <p class="list-title">Current Site</p>
+        <div class="score-card">
+          <div>
+            <p id="site-domain" class="score-card__title">No active website</p>
+            <p id="score-caption" class="score-card__caption">Open a website tab to inspect its privacy posture.</p>
+          </div>
+          <div id="privacy-score-badge" class="score-badge score-badge--strong">
+            <span id="privacy-score-value" class="score-badge__value">100</span>
+            <span class="score-badge__label">Score</span>
+          </div>
         </div>
         <div class="panel__row">
-          <span class="label">Detected Trackers</span>
-          <span id="tracker-count" class="value">0</span>
+          <span class="label">Site Status</span>
+          <span id="site-status" class="value value--soft">Waiting for a website</span>
+        </div>
+        <div class="panel__row">
+          <span class="label">Blocked Requests</span>
+          <span id="blocked-request-count" class="value">0</span>
+        </div>
+        <div class="panel__row">
+          <span class="label">Blocked Companies</span>
+          <span id="blocked-company-count" class="value">0</span>
+        </div>
+        <div class="panel__detail">
+          <span id="score-signals">No high-risk signals detected yet.</span>
+        </div>
+        <div class="button-row">
+          <button id="pause-site" class="button button--secondary" type="button">Pause Site</button>
+          <button id="trust-site" class="button button--secondary" type="button">Trust Site</button>
+        </div>
+        <button id="pause-protection" class="button button--ghost" type="button">Disable 30 Minutes</button>
+        <div class="panel__detail">
+          <span id="site-control-detail">Blocking is active for this site.</span>
         </div>
       </section>
 
       <section class="panel">
-        <p class="list-title">Companies</p>
-        <ul id="tracker-list" class="tracker-list">
-          <li class="tracker-list__empty">No trackers detected yet.</li>
+        <div class="panel__row">
+          <span class="label">Protection Mode</span>
+          <span class="badge badge--on">Active</span>
+        </div>
+        <div class="panel__row">
+          <span class="label">Total Blocked</span>
+          <span id="overall-blocked-count" class="value">0</span>
+        </div>
+        <div class="panel__row">
+          <span class="label">Sites Protected</span>
+          <span id="protected-site-count" class="value">0</span>
+        </div>
+      </section>
+
+      <section class="panel">
+        <p class="list-title">Blocked Companies On This Site</p>
+        <ul id="blocked-company-list" class="tracker-list">
+          <li class="tracker-list__empty">No blocked trackers on this site yet.</li>
         </ul>
       </section>
 
       <section class="panel">
+        <p class="list-title">Cleanup Helpers</p>
+        <div class="button-row">
+          <button id="clear-site-data" class="button button--secondary" type="button">Clear Site Data</button>
+          <button id="clear-tracker-cookies" class="button button--secondary" type="button">Clear Tracker Cookies</button>
+        </div>
+        <div class="panel__detail">
+          <span id="cleanup-status">Cleanup tools remove site data and tracker cookies for the current site.</span>
+        </div>
+      </section>
+
+      <section class="panel">
+        <p class="list-title">Optional Noise Layer</p>
         <div class="panel__row">
           <span class="label">Deception Mode</span>
           <span id="deception-status" class="badge badge--off">Off</span>
