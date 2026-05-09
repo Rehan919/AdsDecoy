@@ -106,12 +106,13 @@
     sessionTransitionInFlight = true;
     try {
       const state = await chrome.storage.local.get([
+        "extensionEnabled",
         "deceptionEnabled",
         "selectedPersona",
         "personaSessionActive"
       ]);
 
-      if (!state.deceptionEnabled) {
+      if (state.extensionEnabled === false || !state.deceptionEnabled) {
         await stopPersonaSessionSchedule();
         return;
       }
@@ -159,6 +160,7 @@
 
   async function syncPersonaEngine(forceReschedule) {
     const state = await chrome.storage.local.get([
+      "extensionEnabled",
       "deceptionEnabled",
       "selectedPersona",
       "nextPersonaRunAt",
@@ -172,7 +174,7 @@
       await persistPersonaState({ selectedPersona: personaName });
     }
 
-    if (!state.deceptionEnabled) {
+    if (state.extensionEnabled === false || !state.deceptionEnabled) {
       await stopPersonaSessionSchedule();
       return;
     }
@@ -210,13 +212,14 @@
     sessionTransitionInFlight = true;
     try {
       const state = await chrome.storage.local.get([
+        "extensionEnabled",
         "deceptionEnabled",
         "personaActiveTabId",
         "personaSessionQueue",
         "personaSessionActive"
       ]);
 
-      if (!state.deceptionEnabled || !state.personaSessionActive) {
+      if (state.extensionEnabled === false || !state.deceptionEnabled || !state.personaSessionActive) {
         await stopPersonaSessionSchedule();
         return;
       }

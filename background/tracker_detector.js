@@ -6,6 +6,7 @@ const { registerPersonaAlarmListener, syncPersonaEngine } = globalThis.PersonaEn
 
 const PROTECTION_RESUME_ALARM = "digital-decoy:protection-resume";
 const DEFAULT_STATE = {
+  extensionEnabled: true,
   blockedTrackers: [],
   tabProtectionState: {},
   trustedSites: [],
@@ -78,8 +79,10 @@ let trackerDomains = new Set();
 let blockableTrackerDomains = new Set();
 let trackerWriteTimer = null;
 let pendingBlockedEvents = [];
+let controlStateReady = false;
 const recentlyRecordedRequestIds = new Map();
 const controlStateCache = {
+  extensionEnabled: true,
   trustedSites: new Set(),
   pausedSites: new Set(),
   protectionPauseUntil: null
@@ -99,6 +102,10 @@ function isBlockableResourceType(resourceType) {
 
 function isProtectionPaused() {
   return Boolean(controlStateCache.protectionPauseUntil && controlStateCache.protectionPauseUntil > Date.now());
+}
+
+function isExtensionEnabled() {
+  return controlStateCache.extensionEnabled !== false;
 }
 
 function getSiteControlKey(hostname) {
@@ -151,7 +158,7 @@ function trimBlockedTrackers(blockedTrackers) {
 }
 
 function buildBlockingRules() {
-  if (isProtectionPaused()) {
+  if (!isExtensionEnabled() || isProtectionPaused()) {
     return [];
   }
 
@@ -201,11 +208,13 @@ async function loadTrackerCatalog() {
 
 async function refreshControlStateCache() {
   const state = await chrome.storage.local.get([
+    "extensionEnabled",
     "trustedSites",
     "pausedSites",
     "protectionPauseUntil"
   ]);
 
+  const extensionEnabled = state.extensionEnabled !== false;
   const trustedSites = Array.isArray(state.trustedSites) ? state.trustedSites : [];
   const pausedSites = Array.isArray(state.pausedSites) ? state.pausedSites : [];
   const protectionPauseUntil =
@@ -213,9 +222,11 @@ async function refreshControlStateCache() {
       ? state.protectionPauseUntil
       : null;
 
-  controlStateCache.trustedSites = new Set(trustedSites);
-  controlStateCache.pausedSites = new Set(pausedSites);
+  controlStateCache.extensionEnabled = extensionEnabled;
+  controlStateCache.trustedSites = extensionEnabled ? new Set(trustedSites) : new Set();
+  controlStateCache.pausedSites = extensionEnabled ? new Set(pausedSites) : new Set();
   controlStateCache.protectionPauseUntil = protectionPauseUntil;
+  controlStateReady = true;
 
   if (state.protectionPauseUntil && !protectionPauseUntil) {
     await chrome.storage.local.set({ protectionPauseUntil: null });
@@ -247,6 +258,10 @@ async function syncBlockingRules() {
     removeRuleIds: rulesToRemove,
     addRules: buildBlockingRules()
   });
+
+  if (!isExtensionEnabled()) {
+    await clearAllBadges();
+  }
 }
 
 function isValidBlockingCandidate(details) {
@@ -303,6 +318,10 @@ async function resolvePageDomain(details) {
 function isProtectionDisabledForPage(pageDomain) {
   const siteKey = getSiteControlKey(pageDomain);
 
+  if (!isExtensionEnabled()) {
+    return true;
+  }
+
   if (!siteKey) {
     return isProtectionPaused();
   }
@@ -349,6 +368,12 @@ async function updateBadgeForTab(tabId, tabState) {
   }
 
   try {
+    if (!isExtensionEnabled()) {
+      await chrome.action.setBadgeText({ tabId, text: "" });
+      await chrome.action.setTitle({ tabId, title: "Digital Decoy is off" });
+      return;
+    }
+
     const blockedCount = Number(tabState?.blockedRequestCount) || 0;
     const badgeText = blockedCount <= 0 ? "" : blockedCount > 99 ? "99+" : String(blockedCount);
 
@@ -369,6 +394,14 @@ async function updateAllBadges(tabProtectionState) {
 
   await Promise.all(
     entries.map(([tabId, tabState]) => updateBadgeForTab(Number(tabId), tabState))
+  );
+}
+
+async function clearAllBadges() {
+  const tabs = await chrome.tabs.query({});
+
+  await Promise.all(
+    tabs.map((tab) => updateBadgeForTab(tab.id, null))
   );
 }
 
@@ -613,7 +646,38 @@ async function resumeProtection(tabId, siteDomain) {
   };
 }
 
+async function setExtensionEnabled(extensionEnabled, tabId, siteDomain) {
+  const nextEnabled = Boolean(extensionEnabled);
+
+  await chrome.storage.local.set({
+    extensionEnabled: nextEnabled,
+    ...(nextEnabled ? { protectionPauseUntil: null } : {})
+  });
+  await refreshControlStateCache();
+  await syncBlockingRules();
+  await syncPersonaEngine(true);
+
+  if (!nextEnabled) {
+    await clearAllBadges();
+  }
+
+  await reloadTabForProtectionChange(tabId, siteDomain);
+
+  return {
+    ok: true,
+    extensionEnabled: nextEnabled
+  };
+}
+
 async function recordBlockedTracker(details) {
+  if (!controlStateReady) {
+    await refreshControlStateCache();
+  }
+
+  if (!isExtensionEnabled()) {
+    return;
+  }
+
   if (trackerDomains.size === 0) {
     await loadTrackerCatalog();
   }
@@ -778,11 +842,11 @@ chrome.storage.onChanged.addListener((changes, areaName) => {
     return;
   }
 
-  if (changes.deceptionEnabled || changes.selectedPersona) {
+  if (changes.extensionEnabled || changes.deceptionEnabled || changes.selectedPersona) {
     syncPersonaEngine(Boolean(changes.selectedPersona)).catch(() => {});
   }
 
-  if (changes.trustedSites || changes.pausedSites || changes.protectionPauseUntil) {
+  if (changes.extensionEnabled || changes.trustedSites || changes.pausedSites || changes.protectionPauseUntil) {
     refreshControlStateCache()
       .then(() => syncBlockingRules())
       .catch(() => {});
@@ -800,6 +864,7 @@ chrome.runtime.onMessage.addListener((message, _sender, sendResponse) => {
           .get(STORAGE_KEYS)
           .then((state) => {
             sendResponse({
+              extensionEnabled: state.extensionEnabled ?? DEFAULT_STATE.extensionEnabled,
               blockedTrackers: state.blockedTrackers ?? DEFAULT_STATE.blockedTrackers,
               tabProtectionState: state.tabProtectionState ?? DEFAULT_STATE.tabProtectionState,
               trustedSites: state.trustedSites ?? DEFAULT_STATE.trustedSites,
@@ -813,7 +878,7 @@ chrome.runtime.onMessage.addListener((message, _sender, sendResponse) => {
               lastPersonaName: state.lastPersonaName ?? DEFAULT_STATE.lastPersonaName,
               lastPersonaSessionSize: state.lastPersonaSessionSize ?? DEFAULT_STATE.lastPersonaSessionSize,
               personaSessionActive: state.personaSessionActive ?? DEFAULT_STATE.personaSessionActive,
-              protectionMode: isProtectionPaused() ? "paused" : "blocking"
+              protectionMode: !isExtensionEnabled() ? "off" : isProtectionPaused() ? "paused" : "blocking"
             });
           })
           .catch(() => {
@@ -821,6 +886,13 @@ chrome.runtime.onMessage.addListener((message, _sender, sendResponse) => {
           });
       });
 
+    return true;
+  }
+
+  if (message?.type === "digital-decoy:set-extension-enabled") {
+    setExtensionEnabled(Boolean(message.extensionEnabled), message.tabId, message.siteDomain)
+      .then(sendResponse)
+      .catch((error) => sendResponse({ ok: false, message: error?.message || "Failed to update extension power." }));
     return true;
   }
 

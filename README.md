@@ -5,6 +5,7 @@ Digital Decoy is a Chromium Manifest V3 browser extension that blocks known thir
 ## Features
 
 - Blocks known third-party trackers with Manifest V3 network rules
+- Includes a master on/off switch for disabling all extension activity
 - Shows blocked companies for the current site
 - Calculates a richer per-site privacy score using Tracker Radar metadata
 - Aggregates blocked requests by company for clearer reporting
@@ -34,6 +35,7 @@ Digital Decoy is a Chromium Manifest V3 browser extension that blocks known thir
 
 ### Site Controls
 
+- Turn the whole extension on or off from the popup
 - Trust a site permanently to stop blocking on that site
 - Pause blocking for the current site without allowlisting it permanently
 - Disable blocking everywhere for 30 minutes

@@ -21,6 +21,10 @@ const scoreCaptionElement = document.getElementById("score-caption");
 const scoreSignalsElement = document.getElementById("score-signals");
 const privacyScoreValueElement = document.getElementById("privacy-score-value");
 const privacyScoreBadgeElement = document.getElementById("privacy-score-badge");
+const extensionStatusElement = document.getElementById("extension-status");
+const toggleExtensionButton = document.getElementById("toggle-extension");
+const masterSwitchDetailElement = document.getElementById("master-switch-detail");
+const protectionModeBadgeElement = document.getElementById("protection-mode-badge");
 const blockedRequestCountElement = document.getElementById("blocked-request-count");
 const blockedCompanyCountElement = document.getElementById("blocked-company-count");
 const overallBlockedCountElement = document.getElementById("overall-blocked-count");
@@ -90,6 +94,10 @@ function formatPersonaName(personaName) {
 }
 
 function formatScheduleText(state) {
+  if (state.extensionEnabled === false) {
+    return "Digital Decoy is switched off. Turn it on to use deception mode.";
+  }
+
   if (!state.deceptionEnabled) {
     return "Enable deception mode to schedule persona browsing.";
   }
@@ -283,7 +291,12 @@ function getPrivacyScoreMeta(siteEntries, assessment) {
   };
 }
 
-function renderTrackerList(companySummary, siteDomain) {
+function renderTrackerList(companySummary, siteDomain, disabledMessage = "") {
+  if (disabledMessage) {
+    trackerListElement.replaceChildren(createEmptyState(disabledMessage));
+    return;
+  }
+
   if (!siteDomain) {
     trackerListElement.replaceChildren(createEmptyState("Open a website tab to inspect blocked companies."));
     return;
@@ -306,7 +319,7 @@ function renderTrackerList(companySummary, siteDomain) {
       meta.className = "tracker-list__meta";
       company.textContent = tracker.company;
       meta.textContent = categoryPreview
-        ? `${tracker.requestCount} blocked request${tracker.requestCount === 1 ? "" : "s"} • ${categoryPreview}`
+        ? `${tracker.requestCount} blocked request${tracker.requestCount === 1 ? "" : "s"} - ${categoryPreview}`
         : `${tracker.requestCount} blocked request${tracker.requestCount === 1 ? "" : "s"}`;
       item.append(company, meta);
 
@@ -328,6 +341,13 @@ function formatRelativeTime(timestamp) {
 
 function getProtectionStatus(state, siteDomain) {
   const siteKey = getSiteControlKey(siteDomain);
+
+  if (state.extensionEnabled === false) {
+    return {
+      label: "Extension off",
+      detail: "Blocking, scoring, badge counts, cleanup helpers, and persona activity are switched off."
+    };
+  }
 
   if (!siteDomain) {
     return {
@@ -377,15 +397,17 @@ function getCleanupStatus(state, siteDomain) {
 
 function updateButtons(state, siteDomain) {
   const siteKey = getSiteControlKey(siteDomain);
+  const extensionEnabled = state.extensionEnabled !== false;
   const trusted = siteKey && (state.trustedSites || []).includes(siteKey);
   const paused = siteKey && (state.pausedSites || []).includes(siteKey);
   const protectionPaused = Boolean(state.protectionPauseUntil && state.protectionPauseUntil > Date.now());
   const hasSite = Boolean(siteDomain);
 
-  pauseSiteButton.disabled = !hasSite;
-  trustSiteButton.disabled = !hasSite;
-  clearSiteDataButton.disabled = !hasSite;
-  clearTrackerCookiesButton.disabled = !hasSite;
+  pauseSiteButton.disabled = !extensionEnabled || !hasSite;
+  trustSiteButton.disabled = !extensionEnabled || !hasSite;
+  pauseProtectionButton.disabled = !extensionEnabled;
+  clearSiteDataButton.disabled = !extensionEnabled || !hasSite;
+  clearTrackerCookiesButton.disabled = !extensionEnabled || !hasSite;
 
   pauseSiteButton.textContent = paused ? "Resume Site" : "Pause Site";
   trustSiteButton.textContent = trusted ? "Untrust Site" : "Trust Site";
@@ -418,41 +440,70 @@ async function getActiveTabContext() {
 }
 
 function updateUi(state, tabContext) {
+  const extensionEnabled = state.extensionEnabled !== false;
   const blockedTrackers = Array.isArray(state.blockedTrackers) ? state.blockedTrackers : [];
-  const siteEntries = getActiveSiteEntries(blockedTrackers, tabContext.siteDomain);
+  const siteEntries = extensionEnabled ? getActiveSiteEntries(blockedTrackers, tabContext.siteDomain) : [];
   const companySummary = buildCompanySummary(siteEntries);
   const overallSummary = buildOverallSummary(blockedTrackers);
   const blockedRequestCount = siteEntries.reduce((total, item) => total + (item.requestCount || 0), 0);
   const assessment = calculatePrivacyAssessment(siteEntries);
-  const privacyScoreMeta = getPrivacyScoreMeta(siteEntries, assessment);
+  const privacyScoreMeta = extensionEnabled
+    ? getPrivacyScoreMeta(siteEntries, assessment)
+    : {
+      badgeClass: "score-badge score-badge--off",
+      caption: "Digital Decoy is switched off. Turn it on to resume blocking and scoring."
+    };
   const protectionStatus = getProtectionStatus(state, tabContext.siteDomain);
 
+  extensionStatusElement.textContent = extensionEnabled ? "On" : "Off";
+  extensionStatusElement.className = extensionEnabled ? "badge badge--on" : "badge badge--off";
+  toggleExtensionButton.textContent = extensionEnabled ? "Turn Extension Off" : "Turn Extension On";
+  toggleExtensionButton.className = extensionEnabled ? "button button--danger" : "button";
+  masterSwitchDetailElement.textContent = extensionEnabled
+    ? "Digital Decoy is protecting active websites."
+    : "Everything is disabled until you turn the extension back on.";
+  protectionModeBadgeElement.textContent = extensionEnabled ? "Active" : "Off";
+  protectionModeBadgeElement.className = extensionEnabled ? "badge badge--on" : "badge badge--off";
   siteDomainElement.textContent = tabContext.siteDomain || "No active website";
   siteStatusElement.textContent = protectionStatus.label;
   siteControlDetailElement.textContent = protectionStatus.detail;
-  scoreCaptionElement.textContent = tabContext.siteDomain
+  scoreCaptionElement.textContent = extensionEnabled && tabContext.siteDomain
     ? privacyScoreMeta.caption
-    : "Open a website tab to inspect its privacy posture.";
-  scoreSignalsElement.textContent = assessment.signals.length > 0
+    : extensionEnabled
+      ? "Open a website tab to inspect its privacy posture."
+      : privacyScoreMeta.caption;
+  scoreSignalsElement.textContent = !extensionEnabled
+    ? "Protection is disabled."
+    : assessment.signals.length > 0
     ? `Signals: ${assessment.signals.join(", ")}.`
     : "No high-risk signals detected yet.";
-  privacyScoreValueElement.textContent = String(assessment.score);
+  privacyScoreValueElement.textContent = extensionEnabled ? String(assessment.score) : "Off";
   privacyScoreBadgeElement.className = privacyScoreMeta.badgeClass;
   blockedRequestCountElement.textContent = String(blockedRequestCount);
   blockedCompanyCountElement.textContent = String(companySummary.length);
   overallBlockedCountElement.textContent = String(overallSummary.blockedRequestCount);
   protectedSiteCountElement.textContent = String(overallSummary.protectedSiteCount);
-  cleanupStatusElement.textContent = getCleanupStatus(state, tabContext.siteDomain);
-  renderTrackerList(companySummary, tabContext.siteDomain);
+  cleanupStatusElement.textContent = extensionEnabled
+    ? getCleanupStatus(state, tabContext.siteDomain)
+    : "Cleanup helpers are disabled while Digital Decoy is off.";
+  renderTrackerList(
+    companySummary,
+    tabContext.siteDomain,
+    extensionEnabled ? "" : "Digital Decoy is off. Turn it on to see blocked companies."
+  );
   updateButtons(state, tabContext.siteDomain);
 
   personaNameElement.textContent = formatPersonaName(state.selectedPersona || "gardener");
-  sessionStatusElement.textContent = state.personaSessionActive ? "Running" : "Idle";
+  sessionStatusElement.textContent = !extensionEnabled ? "Off" : state.personaSessionActive ? "Running" : "Idle";
   scheduleTextElement.textContent = formatScheduleText(state);
   personaSelectElement.value = state.selectedPersona || "gardener";
-  deceptionStatusElement.textContent = state.deceptionEnabled ? "On" : "Off";
-  deceptionStatusElement.className = state.deceptionEnabled ? "badge badge--on" : "badge badge--off";
-  toggleButton.textContent = state.deceptionEnabled ? "Disable Deception" : "Enable Deception";
+  personaSelectElement.disabled = !extensionEnabled;
+  deceptionStatusElement.textContent = extensionEnabled && state.deceptionEnabled ? "On" : "Off";
+  deceptionStatusElement.className = extensionEnabled && state.deceptionEnabled ? "badge badge--on" : "badge badge--off";
+  toggleButton.disabled = !extensionEnabled;
+  toggleButton.textContent = !extensionEnabled
+    ? "Enable Extension First"
+    : state.deceptionEnabled ? "Disable Deception" : "Enable Deception";
 }
 
 async function loadState() {
@@ -469,6 +520,18 @@ async function loadState() {
 async function sendBackgroundAction(message) {
   return chrome.runtime.sendMessage(message);
 }
+
+toggleExtensionButton.addEventListener("click", async () => {
+  const extensionEnabled = currentState?.extensionEnabled !== false;
+
+  await sendBackgroundAction({
+    type: "digital-decoy:set-extension-enabled",
+    extensionEnabled: !extensionEnabled,
+    siteDomain: currentTabContext.siteDomain,
+    tabId: currentTabContext.tabId
+  });
+  await loadState();
+});
 
 pauseSiteButton.addEventListener("click", async () => {
   if (!currentTabContext.siteDomain) {
@@ -553,6 +616,7 @@ chrome.storage.onChanged.addListener((changes, areaName) => {
     areaName === "local" &&
     (
       changes.blockedTrackers ||
+      changes.extensionEnabled ||
       changes.tabProtectionState ||
       changes.trustedSites ||
       changes.pausedSites ||

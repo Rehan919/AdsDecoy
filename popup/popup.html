@@ -14,6 +14,17 @@
         <p class="popup__subtitle">Blocks known trackers, shows who was blocked, and scores each site.</p>
       </header>
 
+      <section class="panel panel--power">
+        <div class="panel__row">
+          <span class="label">Extension Power</span>
+          <span id="extension-status" class="badge badge--on">On</span>
+        </div>
+        <button id="toggle-extension" class="button" type="button">Turn Extension Off</button>
+        <div class="panel__detail">
+          <span id="master-switch-detail">Digital Decoy is protecting active websites.</span>
+        </div>
+      </section>
+
       <section class="panel panel--score">
         <p class="list-title">Current Site</p>
         <div class="score-card">
@@ -54,7 +65,7 @@
       <section class="panel">
         <div class="panel__row">
           <span class="label">Protection Mode</span>
-          <span class="badge badge--on">Active</span>
+          <span id="protection-mode-badge" class="badge badge--on">Active</span>
         </div>
         <div class="panel__row">
           <span class="label">Total Blocked</span>
