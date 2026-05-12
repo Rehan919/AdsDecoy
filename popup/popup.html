@@ -12,6 +12,7 @@
         <p class="popup__eyebrow">Digital Decoy</p>
         <h1>Privacy shield</h1>
         <p class="popup__subtitle">Blocks known trackers, shows who was blocked, and scores each site.</p>
+        <button id="open-dashboard" class="button button--secondary" type="button" style="margin-top: 10px; width: 100%;">View Analytics Dashboard</button>
       </header>
 
       <section class="panel panel--power">
@@ -121,8 +122,12 @@
             <option value="gardener">Gardener</option>
             <option value="executive">Executive</option>
             <option value="student">Student</option>
+            <option value="custom">Custom (Poison Keywords)</option>
           </select>
         </label>
+        <div id="custom-keywords-container" style="display: none; margin-top: 10px; margin-bottom: 10px;">
+          <input type="text" id="custom-keywords-input" placeholder="e.g. luxury cars, crypto" style="width: 100%; padding: 8px; border-radius: 4px; border: 1px solid #334155; background: #0f172a; color: white;">
+        </div>
         <button id="toggle-deception" class="button" type="button">Enable Deception</button>
       </section>
     </main>

@@ -41,7 +41,10 @@ const personaNameElement = document.getElementById("persona-name");
 const sessionStatusElement = document.getElementById("session-status");
 const scheduleTextElement = document.getElementById("schedule-text");
 const personaSelectElement = document.getElementById("persona-select");
+const customKeywordsContainer = document.getElementById("custom-keywords-container");
+const customKeywordsInput = document.getElementById("custom-keywords-input");
 const toggleButton = document.getElementById("toggle-deception");
+const openDashboardButton = document.getElementById("open-dashboard");
 
 let currentState = null;
 let currentTabContext = {
@@ -498,6 +501,11 @@ function updateUi(state, tabContext) {
   scheduleTextElement.textContent = formatScheduleText(state);
   personaSelectElement.value = state.selectedPersona || "gardener";
   personaSelectElement.disabled = !extensionEnabled;
+  customKeywordsContainer.style.display = state.selectedPersona === "custom" ? "block" : "none";
+  if (state.customKeywords && customKeywordsInput.value !== state.customKeywords) {
+    customKeywordsInput.value = state.customKeywords;
+  }
+  customKeywordsInput.disabled = !extensionEnabled;
   deceptionStatusElement.textContent = extensionEnabled && state.deceptionEnabled ? "On" : "Off";
   deceptionStatusElement.className = extensionEnabled && state.deceptionEnabled ? "badge badge--on" : "badge badge--off";
   toggleButton.disabled = !extensionEnabled;
@@ -531,6 +539,10 @@ toggleExtensionButton.addEventListener("click", async () => {
     tabId: currentTabContext.tabId
   });
   await loadState();
+});
+
+openDashboardButton.addEventListener("click", () => {
+  chrome.tabs.create({ url: chrome.runtime.getURL("dashboard/dashboard.html") });
 });
 
 pauseSiteButton.addEventListener("click", async () => {
@@ -609,6 +621,10 @@ toggleButton.addEventListener("click", async () => {
 personaSelectElement.addEventListener("change", async (event) => {
   await chrome.storage.local.set({ selectedPersona: event.target.value });
   await loadState();
+});
+
+customKeywordsInput.addEventListener("change", async (event) => {
+  await chrome.storage.local.set({ customKeywords: event.target.value });
 });
 
 chrome.storage.onChanged.addListener((changes, areaName) => {

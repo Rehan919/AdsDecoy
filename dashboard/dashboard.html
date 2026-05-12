@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Digital Decoy - Analytics Dashboard</title>
+  <style>
+    :root {
+      --bg-color: #0f172a;
+      --card-bg: #1e293b;
+      --text-main: #f8fafc;
+      --text-muted: #94a3b8;
+      --accent: #3b82f6;
+      --success: #10b981;
+      --danger: #ef4444;
+      --border: #334155;
+    }
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background-color: var(--bg-color);
+      color: var(--text-main);
+    }
+    .header {
+      background: var(--card-bg);
+      padding: 20px 40px;
+      border-bottom: 1px solid var(--border);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+    .header h1 {
+      margin: 0;
+      font-size: 1.5rem;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+    .container {
+      max-width: 1200px;
+      margin: 40px auto;
+      padding: 0 20px;
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 20px;
+    }
+    .card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      padding: 24px;
+      border: 1px solid var(--border);
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+    }
+    .card.full-width {
+      grid-column: 1 / -1;
+    }
+    .card h2 {
+      margin-top: 0;
+      font-size: 1.25rem;
+      color: var(--accent);
+      border-bottom: 1px solid var(--border);
+      padding-bottom: 12px;
+      margin-bottom: 20px;
+    }
+    .stat-row {
+      display: flex;
+      justify-content: space-between;
+      padding: 12px 0;
+      border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+    }
+    .stat-row:last-child {
+      border-bottom: none;
+    }
+    .stat-label {
+      color: var(--text-muted);
+    }
+    .stat-value {
+      font-weight: bold;
+    }
+    .badge {
+      background: var(--accent);
+      color: white;
+      padding: 2px 8px;
+      border-radius: 12px;
+      font-size: 0.85rem;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+    }
+    th, td {
+      text-align: left;
+      padding: 12px;
+      border-bottom: 1px solid var(--border);
+    }
+    th {
+      color: var(--text-muted);
+      font-weight: 500;
+    }
+    tr:last-child td {
+      border-bottom: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="header">
+    <h1>🛡️ Digital Decoy Analytics</h1>
+  </div>
+  <div class="container">
+    <div class="card">
+      <h2>Privacy Overview</h2>
+      <div class="stat-row">
+        <span class="stat-label">Total Trackers Blocked (All Time)</span>
+        <span class="stat-value" id="stat-total-blocked">0</span>
+      </div>
+      <div class="stat-row">
+        <span class="stat-label">Unique Companies Blocked</span>
+        <span class="stat-value" id="stat-unique-companies">0</span>
+      </div>
+      <div class="stat-row">
+        <span class="stat-label">Extension Status</span>
+        <span class="stat-value badge" id="stat-status">Active</span>
+      </div>
+    </div>
+    <div class="card">
+      <h2>Persona Deception Engine</h2>
+      <div class="stat-row">
+        <span class="stat-label">Active Persona</span>
+        <span class="stat-value badge" id="stat-persona">Unknown</span>
+      </div>
+      <div class="stat-row">
+        <span class="stat-label">Decoy Sessions Run</span>
+        <span class="stat-value" id="stat-sessions">0</span>
+      </div>
+      <div class="stat-row">
+        <span class="stat-label">Next Scheduled Run</span>
+        <span class="stat-value" id="stat-next-run">-</span>
+      </div>
+    </div>
+    <div class="card full-width">
+      <h2>Top Blocked Companies</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>Company Name</th>
+            <th>Primary Category</th>
+            <th>Total Requests Blocked</th>
+          </tr>
+        </thead>
+        <tbody id="company-table-body">
+          <tr><td colspan="3" style="text-align: center; color: #94a3b8;">Loading...</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+  <script src="dashboard.js"></script>
+</body>
+</html>

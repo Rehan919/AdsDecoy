@@ -243,6 +243,27 @@ async function syncProtectionPauseAlarm() {
   }
 }
 
+async function syncSessionRules() {
+  await chrome.declarativeNetRequest.updateSessionRules({
+    removeRuleIds: [999999],
+    addRules: [{
+      id: 999999,
+      priority: 100,
+      action: {
+        type: "modifyHeaders",
+        responseHeaders: [
+          { header: "X-Frame-Options", operation: "remove" },
+          { header: "Content-Security-Policy", operation: "remove" }
+        ]
+      },
+      condition: {
+        resourceTypes: ["sub_frame"],
+        tabIds: [-1]
+      }
+    }]
+  });
+}
+
 async function syncBlockingRules() {
   if (trackerDomains.size === 0) {
     await loadTrackerCatalog();
@@ -250,6 +271,7 @@ async function syncBlockingRules() {
 
   await refreshControlStateCache();
   await syncProtectionPauseAlarm();
+  await syncSessionRules();
 
   const existingRules = await chrome.declarativeNetRequest.getDynamicRules();
   const rulesToRemove = existingRules.map((rule) => rule.id);
@@ -795,6 +817,23 @@ chrome.runtime.onInstalled.addListener(async () => {
   await cleanupStaleTabProtectionState();
   await syncBlockingRules();
   await syncPersonaEngine(true);
+  
+  chrome.alarms.create("digital-decoy:auto-update-trackers", { periodInMinutes: 60 * 24 * 3 }); // Every 3 days
+});
+
+chrome.alarms.onAlarm.addListener(async (alarm) => {
+  if (alarm.name === "digital-decoy:auto-update-trackers") {
+    try {
+      // Future: Fetch pre-compiled tracker_catalog.json from a remote CDN/repo
+      // const response = await fetch("https://example.com/tracker_catalog.json");
+      // const remoteCatalog = await response.json();
+      // await chrome.storage.local.set({ downloadedCatalog: remoteCatalog });
+      // await syncBlockingRules();
+      console.log("Digital Decoy: Checked for tracker list updates.");
+    } catch (e) {
+      console.error("Auto-update failed", e);
+    }
+  }
 });
 
 chrome.runtime.onStartup.addListener(async () => {

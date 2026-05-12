@@ -15,8 +15,36 @@
     return Math.floor(Math.random() * (max - min + 1)) + min;
   }
 
-  function pickSessionUrls(personaName) {
-    const availableUrls = [...getPersonaSites(personaName)];
+  async function fetchSearchUrls(keywords) {
+    if (!keywords) return [];
+    try {
+      const resp = await fetch(`https://html.duckduckgo.com/html/?q=${encodeURIComponent(keywords)}`);
+      const text = await resp.text();
+      const regex = /<a class="result__url" href="([^"]+)"/g;
+      const urls = [];
+      let match;
+      while ((match = regex.exec(text)) !== null) {
+        let url = match[1];
+        if (url.startsWith('//')) url = 'https:' + url;
+        if (url.startsWith('http')) urls.push(url);
+      }
+      return urls;
+    } catch {
+      return [];
+    }
+  }
+
+  async function pickSessionUrls(personaName) {
+    let availableUrls = [];
+    if (personaName === 'custom') {
+      const state = await chrome.storage.local.get(['customKeywords']);
+      availableUrls = await fetchSearchUrls(state.customKeywords);
+    }
+    
+    if (availableUrls.length === 0) {
+      availableUrls = [...getPersonaSites(personaName !== 'custom' ? personaName : DEFAULT_PERSONA)];
+    }
+
     const sessionLength = Math.min(
       availableUrls.length,
       randomInt(MIN_PAGES_PER_SESSION, MAX_PAGES_PER_SESSION)
@@ -63,18 +91,29 @@
     return nextRunAt;
   }
 
-  async function openNoiseTab(url) {
-    return chrome.tabs.create({
-      url,
-      active: false
+  async function setupOffscreenDocument() {
+    if (await chrome.offscreen.hasDocument()) return;
+    await chrome.offscreen.createDocument({
+      url: 'offscreen/offscreen.html',
+      reasons: ['IFRAME_SCRIPTING'],
+      justification: 'Silently navigating decoy pages to confuse trackers without interrupting the user.'
     });
+  }
+
+  async function openNoiseTab(url) {
+    await setupOffscreenDocument();
+    await chrome.runtime.sendMessage({ type: 'NAVIGATE_DECOY', url });
+    return { id: -1 }; // Return dummy tab ID
   }
 
   async function closeNoiseTab(tabId) {
     try {
-      await chrome.tabs.remove(tabId);
+      if (await chrome.offscreen.hasDocument()) {
+        await chrome.runtime.sendMessage({ type: 'CLOSE_DECOY' });
+        await chrome.offscreen.closeDocument();
+      }
     } catch {
-      // Tab may already be gone, which is safe to ignore.
+      // Document may already be gone, which is safe to ignore.
     }
   }
 
@@ -129,7 +168,7 @@
       }
 
       const personaName = hasPersona(state.selectedPersona) ? state.selectedPersona : DEFAULT_PERSONA;
-      const sessionUrls = pickSessionUrls(personaName);
+      const sessionUrls = await pickSessionUrls(personaName);
 
       if (sessionUrls.length === 0) {
         await scheduleNextPersonaSession();

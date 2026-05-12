@@ -1,6 +1,6 @@
 # Digital Decoy
 
-Digital Decoy is a Chromium Manifest V3 browser extension that blocks known third-party trackers, shows which companies were blocked, scores site privacy in the popup, and can optionally generate persona-based browsing noise on a randomized schedule.
+Digital Decoy is a Chromium Manifest V3 browser extension that blocks known third-party trackers, shows which companies were blocked, scores site privacy in the popup, and can optionally generate persona-based browsing noise silently using offscreen documents on a randomized schedule.
 
 ## Features
 
@@ -13,8 +13,9 @@ Digital Decoy is a Chromium Manifest V3 browser extension that blocks known thir
 - Supports a 30-minute global protection pause
 - Shows live blocked-request badge counts on the extension icon
 - Includes cleanup helpers for current-site data and blocked tracker cookies
-- Supports selectable personas for optional deception browsing
-- Runs persona sessions at randomized intervals with hourly limits
+- Supports selectable personas for optional deception browsing silently in the background
+- Runs persona sessions at randomized intervals with hourly limits via offscreen documents
+- Includes a full-page analytics dashboard for detailed historical tracking and visualization
 - Stores extension state locally with `chrome.storage.local`
 
 ## Current Behavior
@@ -48,6 +49,7 @@ Digital Decoy is a Chromium Manifest V3 browser extension that blocks known thir
 
 ### Persona Deception
 
+- Runs completely invisibly using the Chrome Offscreen Documents API
 - Personas currently included:
   - Gardener
   - Executive
@@ -71,9 +73,16 @@ Digital-Decoy/
 |- manifest.json
 |- background/
 |  \- tracker_detector.js
+|- dashboard/
+|  |- dashboard.html
+|  |- dashboard.css
+|  \- dashboard.js
 |- data/
 |  |- tracker_catalog.json
 |  \- tracker_map.json
+|- offscreen/
+|  |- offscreen.html
+|  \- offscreen.js
 |- scripts/
 |  \- update_tracker_map.js
 |- icons/
@@ -103,6 +112,7 @@ The extension currently requests:
 - `browsingData`
 - `webRequest`
 - `alarms`
+- `offscreen`
 - `host_permissions: <all_urls>`
 
 ## Installation

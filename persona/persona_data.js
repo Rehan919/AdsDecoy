@@ -20,7 +20,8 @@
       "https://www.edx.org/",
       "https://www.nationalgeographic.com/science/",
       "https://www.scientificamerican.com/"
-    ]
+    ],
+    custom: []
   };
 
   const DEFAULT_PERSONA = "gardener";
